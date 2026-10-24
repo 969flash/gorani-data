@@ -1,0 +1,5207 @@
+{
+ "version": "2026-10-22",
+ "packs": [
+  {
+   "name": "jp01100_context.db",
+   "label": "札幌市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp01100_context.db.xz",
+   "size": 366624768,
+   "sha256": "95eba10906260423ac5cf34be2ec2f69f03e09bad4cc7e85e7aae7f4c45b4817",
+   "bounds": [
+    141.119946,
+    42.89609,
+    141.505191,
+    43.184278
+   ],
+   "xz_size": 74025644,
+   "year": 2020,
+   "buildings": 646474,
+   "roads": 157414
+  },
+  {
+   "name": "jp01205_context.db",
+   "label": "室蘭市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp01205_context.db.xz",
+   "size": 33787904,
+   "sha256": "b56f3e5a86af5915beeb60b53628a876111dbfc2b6a352584da94aa8f5a8dc64",
+   "bounds": [
+    140.90843,
+    42.302016,
+    141.04878,
+    42.420672
+   ],
+   "xz_size": 5813660,
+   "year": 2022,
+   "buildings": 55905,
+   "roads": 16893
+  },
+  {
+   "name": "jp01639_context.db",
+   "label": "更別村 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp01639_context.db.xz",
+   "size": 7888896,
+   "sha256": "8e3d3023b2029ae25892a5d0cd096a6c7dbfdc8b2c85208481f75015a62e4f1c",
+   "bounds": [
+    143.104712,
+    42.571824,
+    143.304173,
+    42.720617
+   ],
+   "xz_size": 1359068,
+   "year": 2023,
+   "buildings": 6794,
+   "roads": 5714
+  },
+  {
+   "name": "jp02208_context.db",
+   "label": "むつ市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp02208_context.db.xz",
+   "size": 47128576,
+   "sha256": "137e7a8015d5feafdb9855e0614eabb4de7d7464900aca319f0af1b212ecbacf",
+   "bounds": [
+    140.765391,
+    41.128496,
+    141.300989,
+    41.455424
+   ],
+   "xz_size": 9114368,
+   "year": 2022,
+   "buildings": 73235,
+   "roads": 20805
+  },
+  {
+   "name": "jp02321_context.db",
+   "label": "鰺ヶ沢町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp02321_context.db.xz",
+   "size": 2764800,
+   "sha256": "2114807d6c0a4ec9c13533882de10f0c204fff21759a1ffb586a7b520d28efba",
+   "bounds": [
+    140.180543,
+    40.768756,
+    140.238352,
+    40.786597
+   ],
+   "xz_size": 517068,
+   "year": 2025,
+   "buildings": 4247,
+   "roads": 1218
+  },
+  {
+   "name": "jp03201_context.db",
+   "label": "盛岡市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp03201_context.db.xz",
+   "size": 71958528,
+   "sha256": "cb8c1fff97fc7572846ebcbcb65e02df4ad382aba2db4f937a105210e7dc3f82",
+   "bounds": [
+    141.014961,
+    39.602654,
+    141.203613,
+    39.898534
+   ],
+   "xz_size": 14249036,
+   "year": 2024,
+   "buildings": 113252,
+   "roads": 40421
+  },
+  {
+   "name": "jp03202_context.db",
+   "label": "宮古市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp03202_context.db.xz",
+   "size": 27201536,
+   "sha256": "312908238fdfbfb89d9cda8befa776d64597e94bb0ad25e8833081c08d75c63b",
+   "bounds": [
+    141.847971,
+    39.550543,
+    141.985494,
+    39.747806
+   ],
+   "xz_size": 4790300,
+   "year": 2025,
+   "buildings": 30264,
+   "roads": 15169
+  },
+  {
+   "name": "jp04100_context.db",
+   "label": "仙台市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp04100_context.db.xz",
+   "size": 262725632,
+   "sha256": "5d855f3b69304a23254b404169cb7ba2efc4478db21eabf4a828e5ce612ad4d4",
+   "bounds": [
+    140.713617,
+    38.181294,
+    141.043461,
+    38.374609
+   ],
+   "xz_size": 51299340,
+   "year": 2024,
+   "buildings": 418409,
+   "roads": 129222
+  },
+  {
+   "name": "jp05204_context.db",
+   "label": "大館市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp05204_context.db.xz",
+   "size": 16605184,
+   "sha256": "18b346642c861b4697e838b4187bbcb6561544c495c600c4968678747ca85fef",
+   "bounds": [
+    140.526156,
+    40.254989,
+    140.584405,
+    40.304279
+   ],
+   "xz_size": 3068512,
+   "year": 2024,
+   "buildings": 27429,
+   "roads": 7522
+  },
+  {
+   "name": "jp07201_context.db",
+   "label": "福島市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp07201_context.db.xz",
+   "size": 118157312,
+   "sha256": "ca6de6b90afb9d6b3ff39e7c108e25478bec2617f05db46d936c8cc1c6c08ab9",
+   "bounds": [
+    140.355183,
+    37.647527,
+    140.533447,
+    37.855565
+   ],
+   "xz_size": 22853432,
+   "year": 2025,
+   "buildings": 168759,
+   "roads": 68879
+  },
+  {
+   "name": "jp07203_context.db",
+   "label": "郡山市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp07203_context.db.xz",
+   "size": 127619072,
+   "sha256": "33494601c52178899d13b1924d10503fd54ad8d2bac2f2cf8ae2afb6d6a1dccb",
+   "bounds": [
+    140.250363,
+    37.324166,
+    140.44254,
+    37.495493
+   ],
+   "xz_size": 23515552,
+   "year": 2020,
+   "buildings": 134204,
+   "roads": 93794
+  },
+  {
+   "name": "jp07204_context.db",
+   "label": "いわき市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp07204_context.db.xz",
+   "size": 162832384,
+   "sha256": "d7474486a554e6c9625a878677258af90a4467bbd917e50370d3dc748bf0681d",
+   "bounds": [
+    140.722806,
+    36.85752,
+    141.000163,
+    37.157677
+   ],
+   "xz_size": 31340556,
+   "year": 2020,
+   "buildings": 235063,
+   "roads": 87139
+  },
+  {
+   "name": "jp07205_context.db",
+   "label": "白河市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp07205_context.db.xz",
+   "size": 62345216,
+   "sha256": "bddf109085c31c6b4fd5325daf4fe8a7cc448317be9dfea21967c502eda4e86b",
+   "bounds": [
+    140.143558,
+    37.022807,
+    140.412741,
+    37.240567
+   ],
+   "xz_size": 11006316,
+   "year": 2020,
+   "buildings": 62705,
+   "roads": 37805
+  },
+  {
+   "name": "jp07209_context.db",
+   "label": "相馬市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp07209_context.db.xz",
+   "size": 36687872,
+   "sha256": "9809e2f5aa2aac4a05303393a73fba338e88e42477664b2ad11fd9fdecdb9b6e",
+   "bounds": [
+    140.681992,
+    37.721554,
+    141.011394,
+    37.843438
+   ],
+   "xz_size": 6502596,
+   "year": 2023,
+   "buildings": 31859,
+   "roads": 29254
+  },
+  {
+   "name": "jp07212_context.db",
+   "label": "南相馬市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp07212_context.db.xz",
+   "size": 68001792,
+   "sha256": "86a7a1763e671d2594adc844463f913d0da2c3e0144d10f21f9ba2d92c9f866d",
+   "bounds": [
+    140.906004,
+    37.510652,
+    141.03323,
+    37.744157
+   ],
+   "xz_size": 12494472,
+   "year": 2022,
+   "buildings": 74990,
+   "roads": 45954
+  },
+  {
+   "name": "jp08220_context.db",
+   "label": "つくば市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp08220_context.db.xz",
+   "size": 144060416,
+   "sha256": "5d194a478efaa956ffa58fd2e589a3ad75c7b6f5392146e1d345589795e08a5a",
+   "bounds": [
+    139.998688,
+    35.947573,
+    140.172711,
+    36.236076
+   ],
+   "xz_size": 27385000,
+   "year": 2023,
+   "buildings": 190629,
+   "roads": 80456
+  },
+  {
+   "name": "jp08234_context.db",
+   "label": "鉾田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp08234_context.db.xz",
+   "size": 64827392,
+   "sha256": "e18e55c6599581355c570d65c1cf6d62849be70ac308214e75e5ec417e0ef1ac",
+   "bounds": [
+    140.418023,
+    36.064071,
+    140.610267,
+    36.270139
+   ],
+   "xz_size": 11899560,
+   "year": 2022,
+   "buildings": 66699,
+   "roads": 43721
+  },
+  {
+   "name": "jp08546_context.db",
+   "label": "境町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp08546_context.db.xz",
+   "size": 23957504,
+   "sha256": "b293a4e7cb39cb91cd19eb4fa8919b9e9ae7a281c0d33cc603c809f72286cc15",
+   "bounds": [
+    139.761918,
+    36.060294,
+    139.849793,
+    36.154764
+   ],
+   "xz_size": 4347552,
+   "year": 2023,
+   "buildings": 29882,
+   "roads": 15099
+  },
+  {
+   "name": "jp09201_context.db",
+   "label": "宇都宮市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp09201_context.db.xz",
+   "size": 206860288,
+   "sha256": "682d3c78afd1dd5df3b623a96726d82e1b1fddd77d4d41bcaa5e44c5d3b0d91a",
+   "bounds": [
+    139.74488,
+    36.46516,
+    140.0114,
+    36.725389
+   ],
+   "xz_size": 40688376,
+   "year": 2023,
+   "buildings": 299466,
+   "roads": 131153
+  },
+  {
+   "name": "jp10201_context.db",
+   "label": "前橋市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp10201_context.db.xz",
+   "size": 210374656,
+   "sha256": "a074e149b7ce0cbfa04fe68c5fdf3a12c43cd52788b4730a8357c053fa1d7e22",
+   "bounds": [
+    139.00237,
+    36.318082,
+    139.230317,
+    36.560016
+   ],
+   "xz_size": 38746684,
+   "year": 2023,
+   "buildings": 254914,
+   "roads": 123770
+  },
+  {
+   "name": "jp10203_context.db",
+   "label": "桐生市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp10203_context.db.xz",
+   "size": 65478656,
+   "sha256": "d62d2249df16b93dd241beadefdd5c45d328aacc7f42f34b8f8cb842fba49ded",
+   "bounds": [
+    139.203543,
+    36.361875,
+    139.434885,
+    36.529617
+   ],
+   "xz_size": 12387224,
+   "year": 2020,
+   "buildings": 80030,
+   "roads": 43143
+  },
+  {
+   "name": "jp10207_context.db",
+   "label": "館林市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp10207_context.db.xz",
+   "size": 47398912,
+   "sha256": "ef66d020f1666b1476e71d0f7d83e6f0d95d348b37d3cf0318e58ac832bde6c0",
+   "bounds": [
+    139.4587,
+    36.210468,
+    139.623109,
+    36.283565
+   ],
+   "xz_size": 8984940,
+   "year": 2020,
+   "buildings": 63928,
+   "roads": 30504
+  },
+  {
+   "name": "jp11100_context.db",
+   "label": "さいたま市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11100_context.db.xz",
+   "size": 335290368,
+   "sha256": "e0d9b31252ed74d048489bc36d6ffa0c7ee1269679f43044b281d518ce56d535",
+   "bounds": [
+    139.541904,
+    35.828676,
+    139.757248,
+    36.002375
+   ],
+   "xz_size": 63375636,
+   "year": 2025,
+   "buildings": 495725,
+   "roads": 157907
+  },
+  {
+   "name": "jp11202_context.db",
+   "label": "熊谷市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11202_context.db.xz",
+   "size": 135315456,
+   "sha256": "692ba09bb9525015de0f9fa47875c8ffbf118aada1f4c3ea7e646703c1643459",
+   "bounds": [
+    139.290145,
+    36.069699,
+    139.440008,
+    36.253131
+   ],
+   "xz_size": 24699144,
+   "year": 2025,
+   "buildings": 162977,
+   "roads": 73120
+  },
+  {
+   "name": "jp11203_context.db",
+   "label": "川口市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11203_context.db.xz",
+   "size": 109957120,
+   "sha256": "c95fe6124dd61188478de98406ce09a869ffc93681e4d994c30dc1803c7d7b9f",
+   "bounds": [
+    139.675079,
+    35.783182,
+    139.788028,
+    35.886901
+   ],
+   "xz_size": 21696604,
+   "year": 2024,
+   "buildings": 184173,
+   "roads": 53944
+  },
+  {
+   "name": "jp11207_context.db",
+   "label": "秩父市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11207_context.db.xz",
+   "size": 33353728,
+   "sha256": "821c872a38e6bfca603db4acdccf9aa8fa34e51d424e5276797f1fdf762684a3",
+   "bounds": [
+    139.017961,
+    35.950861,
+    139.153999,
+    36.059572
+   ],
+   "xz_size": 6127800,
+   "year": 2025,
+   "buildings": 46165,
+   "roads": 16879
+  },
+  {
+   "name": "jp11208_context.db",
+   "label": "所沢市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11208_context.db.xz",
+   "size": 89944064,
+   "sha256": "fc1e865f5aeb50dc008a7ea350785d96c270ebab1e2754cec91d13358a8079c7",
+   "bounds": [
+    139.384681,
+    35.766288,
+    139.545647,
+    35.842416
+   ],
+   "xz_size": 17581940,
+   "year": 2024,
+   "buildings": 143351,
+   "roads": 47203
+  },
+  {
+   "name": "jp11210_context.db",
+   "label": "加須市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11210_context.db.xz",
+   "size": 79659008,
+   "sha256": "be35070b34a761c1bdb1d46cc9a2b2801fcc993f1db0a6764f4c57d4fb5aaab1",
+   "bounds": [
+    139.524023,
+    36.071808,
+    139.699225,
+    36.213923
+   ],
+   "xz_size": 15436160,
+   "year": 2023,
+   "buildings": 105495,
+   "roads": 54738
+  },
+  {
+   "name": "jp11211_context.db",
+   "label": "本庄市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11211_context.db.xz",
+   "size": 46481408,
+   "sha256": "19a40fc6cf808890a49cada8e8697194b63dff2516fd3993c758cb346abd26a4",
+   "bounds": [
+    139.062093,
+    36.121176,
+    139.246582,
+    36.269226
+   ],
+   "xz_size": 8738728,
+   "year": 2025,
+   "buildings": 59456,
+   "roads": 30435
+  },
+  {
+   "name": "jp11214_context.db",
+   "label": "春日部市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11214_context.db.xz",
+   "size": 79847424,
+   "sha256": "df11ee48e2ca2fe70ff3c9c85f76c5c70855139c1958dc99faf5f6f881a820a4",
+   "bounds": [
+    139.708339,
+    35.93541,
+    139.830216,
+    36.040578
+   ],
+   "xz_size": 15119200,
+   "year": 2023,
+   "buildings": 111477,
+   "roads": 44692
+  },
+  {
+   "name": "jp11215_context.db",
+   "label": "狭山市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11215_context.db.xz",
+   "size": 47284224,
+   "sha256": "3effe0975730ed9aed1332e1df4072960842013d4d81ce3772d9b4d2e09963ec",
+   "bounds": [
+    139.36212,
+    35.817731,
+    139.47722,
+    35.89885
+   ],
+   "xz_size": 9160604,
+   "year": 2025,
+   "buildings": 73255,
+   "roads": 28132
+  },
+  {
+   "name": "jp11216_context.db",
+   "label": "羽生市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11216_context.db.xz",
+   "size": 39469056,
+   "sha256": "9d6ffe9b8aa8d9519e9ccf0036f4e9b51b5517c7b1369a0027a5a2c744abb53f",
+   "bounds": [
+    139.488389,
+    36.136826,
+    139.612243,
+    36.205538
+   ],
+   "xz_size": 7426716,
+   "year": 2025,
+   "buildings": 53983,
+   "roads": 26253
+  },
+  {
+   "name": "jp11217_context.db",
+   "label": "鴻巣市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11217_context.db.xz",
+   "size": 49659904,
+   "sha256": "a5e613a4b1b8ea2375dc89314eb51355f03f849284475ba35aa3692759add18f",
+   "bounds": [
+    139.432244,
+    36.030578,
+    139.5698,
+    36.122373
+   ],
+   "xz_size": 9524836,
+   "year": 2024,
+   "buildings": 69385,
+   "roads": 34793
+  },
+  {
+   "name": "jp11218_context.db",
+   "label": "深谷市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11218_context.db.xz",
+   "size": 85114880,
+   "sha256": "5015a120bd4c2dea8c413557df8d8520593e576d5753e6f7a846bdedef8e2729",
+   "bounds": [
+    139.182971,
+    36.104914,
+    139.336263,
+    36.245366
+   ],
+   "xz_size": 16693492,
+   "year": 2025,
+   "buildings": 120642,
+   "roads": 59879
+  },
+  {
+   "name": "jp11219_context.db",
+   "label": "上尾市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11219_context.db.xz",
+   "size": 63315968,
+   "sha256": "e4ba391fe0ecf82c8f124bb76ca0e9c702de44fff18372ef62c53f09c868c373",
+   "bounds": [
+    139.535549,
+    35.925854,
+    139.649843,
+    36.009714
+   ],
+   "xz_size": 12342464,
+   "year": 2025,
+   "buildings": 98473,
+   "roads": 35006
+  },
+  {
+   "name": "jp11221_context.db",
+   "label": "草加市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11221_context.db.xz",
+   "size": 52252672,
+   "sha256": "bd5de6dbea59b2996d4a36346db3e3c53043cd8b10cb9ead6ba6830c1167ae09",
+   "bounds": [
+    139.763745,
+    35.8054,
+    139.839051,
+    35.871369
+   ],
+   "xz_size": 9982512,
+   "year": 2025,
+   "buildings": 82904,
+   "roads": 28634
+  },
+  {
+   "name": "jp11222_context.db",
+   "label": "越谷市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11222_context.db.xz",
+   "size": 79745024,
+   "sha256": "aa67eab5867f439e187a6c8914572bb20a15d2c314f52eeb89ef275fdbde271f",
+   "bounds": [
+    139.745454,
+    35.854962,
+    139.838928,
+    35.958182
+   ],
+   "xz_size": 15595940,
+   "year": 2023,
+   "buildings": 126355,
+   "roads": 47783
+  },
+  {
+   "name": "jp11223_context.db",
+   "label": "蕨市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11223_context.db.xz",
+   "size": 12255232,
+   "sha256": "4f5b93c94e60b7f67382218ce617542033a7867f573918598012702bfd5dd478",
+   "bounds": [
+    139.662884,
+    35.813739,
+    139.709885,
+    35.835535
+   ],
+   "xz_size": 2239228,
+   "year": 2024,
+   "buildings": 20030,
+   "roads": 6781
+  },
+  {
+   "name": "jp11224_context.db",
+   "label": "戸田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11224_context.db.xz",
+   "size": 19091456,
+   "sha256": "93937aeafac7d4751562d353cfa7b008bfa1fbd5456142aec13593b59a2c2d04",
+   "bounds": [
+    139.623413,
+    35.797048,
+    139.700132,
+    35.835982
+   ],
+   "xz_size": 3089440,
+   "year": 2022,
+   "buildings": 28871,
+   "roads": 9293
+  },
+  {
+   "name": "jp11225_context.db",
+   "label": "入間市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11225_context.db.xz",
+   "size": 45031424,
+   "sha256": "6d2883ed2c61d8390ff45c4e5096ade2aef25286899dc36fb6b0c385cd684d29",
+   "bounds": [
+    139.316935,
+    35.784069,
+    139.419409,
+    35.861827
+   ],
+   "xz_size": 8478668,
+   "year": 2025,
+   "buildings": 62253,
+   "roads": 26838
+  },
+  {
+   "name": "jp11227_context.db",
+   "label": "朝霞市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11227_context.db.xz",
+   "size": 23715840,
+   "sha256": "31d373508852ee312709e9e3db089e6c96307e70fa34a9de79df873a950f8e03",
+   "bounds": [
+    139.573025,
+    35.784513,
+    139.621662,
+    35.832861
+   ],
+   "xz_size": 4468980,
+   "year": 2025,
+   "buildings": 37887,
+   "roads": 12558
+  },
+  {
+   "name": "jp11228_context.db",
+   "label": "志木市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11228_context.db.xz",
+   "size": 13955072,
+   "sha256": "92a5e2852cff09e00ca06f0d6dbccbd4f1de29edef5d0715508ba329f666cc14",
+   "bounds": [
+    139.555551,
+    35.818639,
+    139.605143,
+    35.85914
+   ],
+   "xz_size": 2524160,
+   "year": 2024,
+   "buildings": 21383,
+   "roads": 7780
+  },
+  {
+   "name": "jp11229_context.db",
+   "label": "和光市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11229_context.db.xz",
+   "size": 13029376,
+   "sha256": "be6492c8bbbf26e7e2333307b4fb0f394d83a509ca6a144add43cf5dad4af71d",
+   "bounds": [
+    139.596973,
+    35.766654,
+    139.646098,
+    35.811546
+   ],
+   "xz_size": 2387076,
+   "year": 2025,
+   "buildings": 20918,
+   "roads": 6190
+  },
+  {
+   "name": "jp11230_context.db",
+   "label": "新座市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11230_context.db.xz",
+   "size": 36237312,
+   "sha256": "33a5b90f73aa2b4bd85608fc0b64e8c98c82a0f9c207006883cf4fd67a56c8e4",
+   "bounds": [
+    139.516805,
+    35.753519,
+    139.590729,
+    35.825327
+   ],
+   "xz_size": 6936340,
+   "year": 2024,
+   "buildings": 60673,
+   "roads": 18516
+  },
+  {
+   "name": "jp11231_context.db",
+   "label": "桶川市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11231_context.db.xz",
+   "size": 33038336,
+   "sha256": "bf892a3bf1c3068289af97dab2fe84d0c6cc8d4b703a7f26d81de4048f92eae8",
+   "bounds": [
+    139.507252,
+    35.967113,
+    139.59552,
+    36.040464
+   ],
+   "xz_size": 6110924,
+   "year": 2025,
+   "buildings": 48258,
+   "roads": 16692
+  },
+  {
+   "name": "jp11232_context.db",
+   "label": "久喜市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11232_context.db.xz",
+   "size": 77090816,
+   "sha256": "7824bf92a028fc2eb6406412b4b0df4ac1e48a2e3e80f41c0622b8e4168faad1",
+   "bounds": [
+    139.558707,
+    36.029295,
+    139.725182,
+    36.143857
+   ],
+   "xz_size": 14784684,
+   "year": 2023,
+   "buildings": 109925,
+   "roads": 42349
+  },
+  {
+   "name": "jp11233_context.db",
+   "label": "北本市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11233_context.db.xz",
+   "size": 22970368,
+   "sha256": "e5ba3ac47d8375f07949233567175cdd2cc253a7190561c0cddcb3eea1254460",
+   "bounds": [
+    139.504007,
+    36.001005,
+    139.564277,
+    36.057392
+   ],
+   "xz_size": 4282156,
+   "year": 2025,
+   "buildings": 34745,
+   "roads": 13313
+  },
+  {
+   "name": "jp11234_context.db",
+   "label": "八潮市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11234_context.db.xz",
+   "size": 22634496,
+   "sha256": "a5110329a87722768dfb5ec60c9deaf8e13777fa960843c6b776fcfe86b42f66",
+   "bounds": [
+    139.811617,
+    35.791529,
+    139.866866,
+    35.858159
+   ],
+   "xz_size": 4236012,
+   "year": 2023,
+   "buildings": 35264,
+   "roads": 12252
+  },
+  {
+   "name": "jp11235_context.db",
+   "label": "富士見市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11235_context.db.xz",
+   "size": 26234880,
+   "sha256": "373654d7da079c6a79f139489acace26006235b8135098031c7c5e8469fd8cb4",
+   "bounds": [
+    139.51128,
+    35.827786,
+    139.586564,
+    35.8873
+   ],
+   "xz_size": 4849852,
+   "year": 2024,
+   "buildings": 38513,
+   "roads": 15385
+  },
+  {
+   "name": "jp11237_context.db",
+   "label": "三郷市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11237_context.db.xz",
+   "size": 40697856,
+   "sha256": "a5c96807515c41d68f7787bac309b8a6c585042e01d915c9e07f2ae3de34e47a",
+   "bounds": [
+    139.841046,
+    35.781387,
+    139.895037,
+    35.867871
+   ],
+   "xz_size": 7650512,
+   "year": 2024,
+   "buildings": 62881,
+   "roads": 21797
+  },
+  {
+   "name": "jp11238_context.db",
+   "label": "蓮田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11238_context.db.xz",
+   "size": 26546176,
+   "sha256": "b04e37793ee9d4802f232f9d8bbdbe6b374903ea5dc4601a30c11a5573a058a7",
+   "bounds": [
+    139.590715,
+    35.961896,
+    139.69433,
+    36.036877
+   ],
+   "xz_size": 4940052,
+   "year": 2022,
+   "buildings": 41860,
+   "roads": 10939
+  },
+  {
+   "name": "jp11239_context.db",
+   "label": "坂戸市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11239_context.db.xz",
+   "size": 38719488,
+   "sha256": "6bbdfca4ed8bde111edfba6b82fd1e69e409854770621f185f3bbf8d0c793826",
+   "bounds": [
+    139.324408,
+    35.920071,
+    139.464997,
+    35.995656
+   ],
+   "xz_size": 7408084,
+   "year": 2025,
+   "buildings": 57394,
+   "roads": 23137
+  },
+  {
+   "name": "jp11240_context.db",
+   "label": "幸手市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11240_context.db.xz",
+   "size": 24829952,
+   "sha256": "ef21d7bdb290478176f1bde2f62a0bbbb9813f42adb3ba2609d4ab44e95eaeae",
+   "bounds": [
+    139.691742,
+    36.038164,
+    139.787858,
+    36.109199
+   ],
+   "xz_size": 4513908,
+   "year": 2024,
+   "buildings": 32941,
+   "roads": 15168
+  },
+  {
+   "name": "jp11241_context.db",
+   "label": "鶴ヶ島市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11241_context.db.xz",
+   "size": 18350080,
+   "sha256": "18856e9bc2dfdfd8cd45a6a9e91a88440ab58c1d30ed2a8338d01815eb4bdd24",
+   "bounds": [
+    139.352503,
+    35.914311,
+    139.428763,
+    35.958199
+   ],
+   "xz_size": 3392844,
+   "year": 2024,
+   "buildings": 27752,
+   "roads": 10547
+  },
+  {
+   "name": "jp11243_context.db",
+   "label": "吉川市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11243_context.db.xz",
+   "size": 22142976,
+   "sha256": "d7b8b74b122d399b57956f6299525d9bbb8a1ff056f97d5225397b4fed749503",
+   "bounds": [
+    139.828907,
+    35.85986,
+    139.895105,
+    35.939379
+   ],
+   "xz_size": 4027036,
+   "year": 2023,
+   "buildings": 30450,
+   "roads": 15060
+  },
+  {
+   "name": "jp11245_context.db",
+   "label": "ふじみ野市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11245_context.db.xz",
+   "size": 25985024,
+   "sha256": "a30b46b4b9e1a535600858e762cecf5c155b310ef62515aa527eca088e3a7d21",
+   "bounds": [
+    139.47469,
+    35.842956,
+    139.55062,
+    35.892038
+   ],
+   "xz_size": 4863348,
+   "year": 2025,
+   "buildings": 42043,
+   "roads": 13389
+  },
+  {
+   "name": "jp11246_context.db",
+   "label": "白岡市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11246_context.db.xz",
+   "size": 20783104,
+   "sha256": "4d491e015037cdd0b9121e0340fe85da679fd38b68870f25c2cba65ddd460bfd",
+   "bounds": [
+    139.603841,
+    35.996216,
+    139.712458,
+    36.047271
+   ],
+   "xz_size": 3825608,
+   "year": 2023,
+   "buildings": 29701,
+   "roads": 12038
+  },
+  {
+   "name": "jp11301_context.db",
+   "label": "伊奈町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11301_context.db.xz",
+   "size": 15417344,
+   "sha256": "acfeda59a184a27f14c0b6d530e7da9237b54c52168053a46495815e1e5cdf68",
+   "bounds": [
+    139.591412,
+    35.97027,
+    139.64582,
+    36.026992
+   ],
+   "xz_size": 2864200,
+   "year": 2024,
+   "buildings": 24049,
+   "roads": 8597
+  },
+  {
+   "name": "jp11324_context.db",
+   "label": "三芳町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11324_context.db.xz",
+   "size": 12763136,
+   "sha256": "5e89cfeafa3e1ffbf55032b2898c7c266d77ff7a701e6e78368d940ca8573774",
+   "bounds": [
+    139.478704,
+    35.814661,
+    139.55453,
+    35.851865
+   ],
+   "xz_size": 2327676,
+   "year": 2024,
+   "buildings": 20561,
+   "roads": 6535
+  },
+  {
+   "name": "jp11326_context.db",
+   "label": "毛呂山町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11326_context.db.xz",
+   "size": 17416192,
+   "sha256": "9cc94ce4584487d2bb1aa59ec21152e0469a95e8545fd96f43718cfc071429a9",
+   "bounds": [
+    139.266458,
+    35.902038,
+    139.360915,
+    35.96749
+   ],
+   "xz_size": 3141168,
+   "year": 2020,
+   "buildings": 24418,
+   "roads": 11253
+  },
+  {
+   "name": "jp11341_context.db",
+   "label": "滑川町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11341_context.db.xz",
+   "size": 15540224,
+   "sha256": "f1a9d83402ce563b21df04835986e73b24fe1055ce63107d2d58270ed7338834",
+   "bounds": [
+    139.321176,
+    36.036993,
+    139.387193,
+    36.103406
+   ],
+   "xz_size": 2694144,
+   "year": 2025,
+   "buildings": 18425,
+   "roads": 10512
+  },
+  {
+   "name": "jp11342_context.db",
+   "label": "嵐山町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11342_context.db.xz",
+   "size": 20275200,
+   "sha256": "bc4e75186c0d20dcf87b7a6bfb686883190cea7a0a49848554ad42503a9601be",
+   "bounds": [
+    139.28888,
+    36.009086,
+    139.343271,
+    36.109595
+   ],
+   "xz_size": 3154044,
+   "year": 2025,
+   "buildings": 18555,
+   "roads": 9175
+  },
+  {
+   "name": "jp11343_context.db",
+   "label": "小川町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11343_context.db.xz",
+   "size": 26431488,
+   "sha256": "1c1b05078c9ade9cb80dce042160f6c2d37857a4eafa0a398060e4548e38090e",
+   "bounds": [
+    139.189768,
+    36.018622,
+    139.307805,
+    36.098759
+   ],
+   "xz_size": 4631040,
+   "year": 2025,
+   "buildings": 29174,
+   "roads": 17537
+  },
+  {
+   "name": "jp11346_context.db",
+   "label": "川島町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11346_context.db.xz",
+   "size": 24432640,
+   "sha256": "325fce29cf3c7936ad6781d73e98c7f3fd80000963a2c70563ffa362b0e303a3",
+   "bounds": [
+    139.424734,
+    35.948326,
+    139.542239,
+    36.019317
+   ],
+   "xz_size": 4083388,
+   "year": 2025,
+   "buildings": 21667,
+   "roads": 18113
+  },
+  {
+   "name": "jp11347_context.db",
+   "label": "吉見町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11347_context.db.xz",
+   "size": 23326720,
+   "sha256": "a5378e0d281c43a804de63cb4f72f1f7420e7912cf77c7b680f217eafbd9601b",
+   "bounds": [
+    139.413857,
+    36.01266,
+    139.499458,
+    36.081876
+   ],
+   "xz_size": 4052072,
+   "year": 2025,
+   "buildings": 24667,
+   "roads": 16482
+  },
+  {
+   "name": "jp11348_context.db",
+   "label": "鳩山町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11348_context.db.xz",
+   "size": 12013568,
+   "sha256": "ba16ad58f44501f5a1568bacf76ddd45cc96559c0a85b2023260616111dbd30f",
+   "bounds": [
+    139.287605,
+    35.961892,
+    139.376212,
+    36.010008
+   ],
+   "xz_size": 2041616,
+   "year": 2025,
+   "buildings": 13346,
+   "roads": 7904
+  },
+  {
+   "name": "jp11385_context.db",
+   "label": "上里町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11385_context.db.xz",
+   "size": 18206720,
+   "sha256": "d9e5d315f7e8f1382e8b3617499cd299d18340ef7b7040b29637c29deb82eb82",
+   "bounds": [
+    139.099863,
+    36.21905,
+    139.171732,
+    36.277695
+   ],
+   "xz_size": 3258900,
+   "year": 2024,
+   "buildings": 24113,
+   "roads": 12600
+  },
+  {
+   "name": "jp11408_context.db",
+   "label": "寄居町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11408_context.db.xz",
+   "size": 35823616,
+   "sha256": "50208d585ac244decdb5f6ccd625fe836e636e1d898170bfc33bb33fcbbeffe8",
+   "bounds": [
+    139.138563,
+    36.076805,
+    139.289183,
+    36.175691
+   ],
+   "xz_size": 6345684,
+   "year": 2025,
+   "buildings": 38846,
+   "roads": 24764
+  },
+  {
+   "name": "jp11442_context.db",
+   "label": "宮代町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11442_context.db.xz",
+   "size": 13705216,
+   "sha256": "702465734bedc328c49c04ff2a2fea3f377b94d6efed7bf116f8bb95ee3fe51e",
+   "bounds": [
+    139.683193,
+    35.996793,
+    139.752751,
+    36.057627
+   ],
+   "xz_size": 2479616,
+   "year": 2023,
+   "buildings": 19148,
+   "roads": 9395
+  },
+  {
+   "name": "jp11464_context.db",
+   "label": "杉戸町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11464_context.db.xz",
+   "size": 20316160,
+   "sha256": "43e7127935159267d52bc5d4ea30b4070a9073ee2a4576fd4bd819d6ec7a52cb",
+   "bounds": [
+    139.697744,
+    35.999592,
+    139.805767,
+    36.062158
+   ],
+   "xz_size": 3710780,
+   "year": 2023,
+   "buildings": 27656,
+   "roads": 15178
+  },
+  {
+   "name": "jp11465_context.db",
+   "label": "松伏町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp11465_context.db.xz",
+   "size": 12554240,
+   "sha256": "1454ed7d430efa862fdd892df3e648cf6471f952c275959a828bf619c591c331",
+   "bounds": [
+    139.803022,
+    35.906528,
+    139.848767,
+    35.96685
+   ],
+   "xz_size": 2225612,
+   "year": 2023,
+   "buildings": 17049,
+   "roads": 7741
+  },
+  {
+   "name": "jp12100_context.db",
+   "label": "千葉市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp12100_context.db.xz",
+   "size": 51838976,
+   "sha256": "cd6c088aa4bcae1634f29e26c83c66a2b38bf316a36e921e3658d68bb57bf596",
+   "bounds": [
+    140.083231,
+    35.542862,
+    140.174494,
+    35.628943
+   ],
+   "xz_size": 9856600,
+   "year": 2024,
+   "buildings": 74681,
+   "roads": 27237
+  },
+  {
+   "name": "jp12206_context.db",
+   "label": "木更津市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp12206_context.db.xz",
+   "size": 67227648,
+   "sha256": "ff8a379f48294711fb0ad68c6d034dfd0a54967aae7dac60de7046f9dde339c8",
+   "bounds": [
+    139.888561,
+    35.316699,
+    140.128063,
+    35.444019
+   ],
+   "xz_size": 12873976,
+   "year": 2024,
+   "buildings": 95934,
+   "roads": 38938
+  },
+  {
+   "name": "jp12210_context.db",
+   "label": "茂原市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp12210_context.db.xz",
+   "size": 61104128,
+   "sha256": "97726c42814bde0cd3e6c0a40d0e6fa80775e2810a5a38d75ce570a1d35ebac5",
+   "bounds": [
+    140.245199,
+    35.380231,
+    140.381314,
+    35.502406
+   ],
+   "xz_size": 11562584,
+   "year": 2022,
+   "buildings": 85354,
+   "roads": 37759
+  },
+  {
+   "name": "jp12217_context.db",
+   "label": "柏市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp12217_context.db.xz",
+   "size": 111575040,
+   "sha256": "b3b4576d2ddd08ff085e3694441778a8ef0c93f5ee80a3b1a2f3d50a41330bb0",
+   "bounds": [
+    139.912505,
+    35.780512,
+    140.110101,
+    35.931234
+   ],
+   "xz_size": 21541676,
+   "year": 2020,
+   "buildings": 169223,
+   "roads": 54487
+  },
+  {
+   "name": "jp12221_context.db",
+   "label": "八千代市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp12221_context.db.xz",
+   "size": 45801472,
+   "sha256": "bc05d11859a3516a229bb95e5e9bfa6f267d5dbc7fa714c1a8f5bf00bb3debd6",
+   "bounds": [
+    140.062818,
+    35.69209,
+    140.147964,
+    35.783243
+   ],
+   "xz_size": 8920416,
+   "year": 2022,
+   "buildings": 69868,
+   "roads": 24954
+  },
+  {
+   "name": "jp12347_context.db",
+   "label": "多古町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp12347_context.db.xz",
+   "size": 9752576,
+   "sha256": "bf86c92a2ef13251b65817148870abbe5347424d1bb2cd1c3caa3446197169ad",
+   "bounds": [
+    140.402548,
+    35.692313,
+    140.480154,
+    35.786417
+   ],
+   "xz_size": 1650708,
+   "year": 2025,
+   "buildings": 9155,
+   "roads": 6907
+  },
+  {
+   "name": "jp13101_context.db",
+   "label": "千代田区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13101_context.db.xz",
+   "size": 25956352,
+   "sha256": "6abb2751e1af5427c6ddd3011e33ef16961638c6e172ec0a5ac72ac09f2943f7",
+   "bounds": [
+    139.72464,
+    35.666146,
+    139.787837,
+    35.708504
+   ],
+   "xz_size": 4909768,
+   "year": 2025,
+   "buildings": 38743,
+   "roads": 15375
+  },
+  {
+   "name": "jp13102_context.db",
+   "label": "中央区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13102_context.db.xz",
+   "size": 24379392,
+   "sha256": "6d97a91da368425dbef518873471bd40ccc46a58b45e5de59d4be3ec929f93cc",
+   "bounds": [
+    139.749446,
+    35.640817,
+    139.800499,
+    35.700244
+   ],
+   "xz_size": 4606884,
+   "year": 2025,
+   "buildings": 37025,
+   "roads": 14539
+  },
+  {
+   "name": "jp13103_context.db",
+   "label": "港区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13103_context.db.xz",
+   "size": 35401728,
+   "sha256": "b44a2d0c7c36f33c05c9adb66c55b4f6083c78ab1cd2e22bf900238703a9e559",
+   "bounds": [
+    139.698818,
+    35.616253,
+    139.788085,
+    35.683501
+   ],
+   "xz_size": 6721740,
+   "year": 2025,
+   "buildings": 51170,
+   "roads": 17535
+  },
+  {
+   "name": "jp13104_context.db",
+   "label": "新宿区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13104_context.db.xz",
+   "size": 63012864,
+   "sha256": "dc054997df05158a3f6ea6cb3d63a5dc1aa4c49fc18bacb5ebc1f0023751f250",
+   "bounds": [
+    139.662427,
+    35.666454,
+    139.750446,
+    35.73339
+   ],
+   "xz_size": 12227700,
+   "year": 2025,
+   "buildings": 100663,
+   "roads": 31433
+  },
+  {
+   "name": "jp13105_context.db",
+   "label": "文京区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13105_context.db.xz",
+   "size": 47992832,
+   "sha256": "7c8e595cf3b7aac841611360d5b4a34729799a0ebb336476fb80911902ed38dc",
+   "bounds": [
+    139.712244,
+    35.690862,
+    139.775404,
+    35.741864
+   ],
+   "xz_size": 9313516,
+   "year": 2025,
+   "buildings": 79416,
+   "roads": 23864
+  },
+  {
+   "name": "jp13106_context.db",
+   "label": "台東区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13106_context.db.xz",
+   "size": 40030208,
+   "sha256": "7bcca5c5f35a7fec5a9447e729bbb16f428fe57d7c927ff0fe1ae6bbae86787b",
+   "bounds": [
+    139.762155,
+    35.691467,
+    139.813115,
+    35.733469
+   ],
+   "xz_size": 7675556,
+   "year": 2025,
+   "buildings": 66638,
+   "roads": 22221
+  },
+  {
+   "name": "jp13107_context.db",
+   "label": "墨田区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13107_context.db.xz",
+   "size": 51625984,
+   "sha256": "a0541331bfeab8a7bfe321c04f95e3419c017aa5b9d97dc7d141e0b55db7e3dd",
+   "bounds": [
+    139.787288,
+    35.683164,
+    139.850152,
+    35.750131
+   ],
+   "xz_size": 10033704,
+   "year": 2025,
+   "buildings": 88026,
+   "roads": 27223
+  },
+  {
+   "name": "jp13108_context.db",
+   "label": "江東区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13108_context.db.xz",
+   "size": 47931392,
+   "sha256": "4a3391ec112cdf39937b2794c4924848e3d5d42c517841dcb65bd55ee23b882a",
+   "bounds": [
+    139.768139,
+    35.578695,
+    139.850253,
+    35.708539
+   ],
+   "xz_size": 9345584,
+   "year": 2025,
+   "buildings": 81916,
+   "roads": 23914
+  },
+  {
+   "name": "jp13109_context.db",
+   "label": "品川区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13109_context.db.xz",
+   "size": 60993536,
+   "sha256": "ecadb7490ba19508373b936b9d8b6fc1c3d1f00e8bc5a12abc3efb2851ac8a9a",
+   "bounds": [
+    139.687279,
+    35.582903,
+    139.775539,
+    35.641914
+   ],
+   "xz_size": 11764256,
+   "year": 2025,
+   "buildings": 100655,
+   "roads": 28843
+  },
+  {
+   "name": "jp13110_context.db",
+   "label": "目黒区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13110_context.db.xz",
+   "size": 65593344,
+   "sha256": "b861bc3e3eae1a54373180e8eac21b8ceb54bdd3faa5c3659423f6225959b758",
+   "bounds": [
+    139.649918,
+    35.599919,
+    139.725772,
+    35.666999
+   ],
+   "xz_size": 12732848,
+   "year": 2025,
+   "buildings": 105852,
+   "roads": 32955
+  },
+  {
+   "name": "jp13111_context.db",
+   "label": "大田区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13111_context.db.xz",
+   "size": 116125696,
+   "sha256": "1d2dbdee3c4b87da538c25c65ef0aaeeef2bad8f2bbe3ffa7aeab2333aa4c4d9",
+   "bounds": [
+    139.649889,
+    35.523416,
+    139.825419,
+    35.616866
+   ],
+   "xz_size": 22555296,
+   "year": 2025,
+   "buildings": 195311,
+   "roads": 55052
+  },
+  {
+   "name": "jp13112_context.db",
+   "label": "世田谷区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13112_context.db.xz",
+   "size": 172269568,
+   "sha256": "abc6058eb7a268cf79cc280e81d4ffb5c08cd19a275651477318a82d3802a6b6",
+   "bounds": [
+    139.574745,
+    35.591566,
+    139.687706,
+    35.683809
+   ],
+   "xz_size": 33400720,
+   "year": 2025,
+   "buildings": 277246,
+   "roads": 81840
+  },
+  {
+   "name": "jp13113_context.db",
+   "label": "渋谷区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13113_context.db.xz",
+   "size": 57950208,
+   "sha256": "58bc7f262e522f0a522d72456f8b726d55c2a147eea3c85e80a3e4569ebeea52",
+   "bounds": [
+    139.649701,
+    35.633135,
+    139.725772,
+    35.700211
+   ],
+   "xz_size": 11169500,
+   "year": 2025,
+   "buildings": 90544,
+   "roads": 28544
+  },
+  {
+   "name": "jp13114_context.db",
+   "label": "中野区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13114_context.db.xz",
+   "size": 90382336,
+   "sha256": "ac5abef6530c06a27b835e728c8b6ecdde61c86554f5f3d754d534ad929ee41c",
+   "bounds": [
+    139.612192,
+    35.674781,
+    139.700171,
+    35.741948
+   ],
+   "xz_size": 17586952,
+   "year": 2025,
+   "buildings": 151691,
+   "roads": 42793
+  },
+  {
+   "name": "jp13115_context.db",
+   "label": "杉並区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13115_context.db.xz",
+   "size": 133963776,
+   "sha256": "097857b897ea98788effddac50dbaccba28dd423bfa2c63763d9f3c94653ada0",
+   "bounds": [
+    139.574822,
+    35.658182,
+    139.675293,
+    35.733517
+   ],
+   "xz_size": 26081936,
+   "year": 2025,
+   "buildings": 224577,
+   "roads": 62581
+  },
+  {
+   "name": "jp13116_context.db",
+   "label": "豊島区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13116_context.db.xz",
+   "size": 67112960,
+   "sha256": "f177a0f726351d0091901eab6c085dc2ea5483113944a83fbd84ceb2b979a5ba",
+   "bounds": [
+    139.674848,
+    35.708035,
+    139.762693,
+    35.750327
+   ],
+   "xz_size": 13084904,
+   "year": 2025,
+   "buildings": 111521,
+   "roads": 34229
+  },
+  {
+   "name": "jp13117_context.db",
+   "label": "北区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13117_context.db.xz",
+   "size": 77410304,
+   "sha256": "f625eec4ddbb7585e152a98d114cdc8a71f73b94b466a30c8d33260e7b672154",
+   "bounds": [
+    139.686896,
+    35.724776,
+    139.775159,
+    35.799517
+   ],
+   "xz_size": 15126996,
+   "year": 2025,
+   "buildings": 130580,
+   "roads": 38183
+  },
+  {
+   "name": "jp13118_context.db",
+   "label": "荒川区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13118_context.db.xz",
+   "size": 49221632,
+   "sha256": "10620f914c9c0398852c81918b344c8041181f253c9ac2639ed4e9e843293912",
+   "bounds": [
+    139.73739,
+    35.716548,
+    139.824354,
+    35.758401
+   ],
+   "xz_size": 9528432,
+   "year": 2025,
+   "buildings": 84156,
+   "roads": 25165
+  },
+  {
+   "name": "jp13119_context.db",
+   "label": "板橋区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13119_context.db.xz",
+   "size": 95059968,
+   "sha256": "11c0c73765f417e3e7ece85ac74e6e417c57d716cf6c9534770815a9205b2d7d",
+   "bounds": [
+    139.624275,
+    35.733082,
+    139.725225,
+    35.799517
+   ],
+   "xz_size": 18485040,
+   "year": 2025,
+   "buildings": 155180,
+   "roads": 48657
+  },
+  {
+   "name": "jp13120_context.db",
+   "label": "練馬区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13120_context.db.xz",
+   "size": 145170432,
+   "sha256": "afb004366aa2941a74efdfc4078e409ca7c3681139390d5162630ac86eef66b4",
+   "bounds": [
+    139.562093,
+    35.708229,
+    139.687862,
+    35.783776
+   ],
+   "xz_size": 28342048,
+   "year": 2025,
+   "buildings": 237547,
+   "roads": 74586
+  },
+  {
+   "name": "jp13121_context.db",
+   "label": "足立区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13121_context.db.xz",
+   "size": 137687040,
+   "sha256": "d898a3d21299630ab1c6f99fc50d8d87ba94e374d3f7f885a739af1720c0a74b",
+   "bounds": [
+    139.72491,
+    35.732806,
+    139.862857,
+    35.817496
+   ],
+   "xz_size": 26775656,
+   "year": 2025,
+   "buildings": 222959,
+   "roads": 71666
+  },
+  {
+   "name": "jp13122_context.db",
+   "label": "葛飾区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13122_context.db.xz",
+   "size": 100327424,
+   "sha256": "180b7519ae03d585a2820fa975ef3d8eda84603423c7778ff08905544e2215e7",
+   "bounds": [
+    139.812145,
+    35.708165,
+    139.890548,
+    35.800037
+   ],
+   "xz_size": 19580464,
+   "year": 2025,
+   "buildings": 165519,
+   "roads": 52081
+  },
+  {
+   "name": "jp13123_context.db",
+   "label": "江戸川区 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13123_context.db.xz",
+   "size": 108941312,
+   "sha256": "23024b5c20cbae1bbcd2b8bbef55a4d080ed8b40cd8daf9ed1c54952c89af695",
+   "bounds": [
+    139.824716,
+    35.637939,
+    139.917546,
+    35.758459
+   ],
+   "xz_size": 21486572,
+   "year": 2025,
+   "buildings": 183904,
+   "roads": 58778
+  },
+  {
+   "name": "jp13201_context.db",
+   "label": "八王子市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13201_context.db.xz",
+   "size": 168202240,
+   "sha256": "102e35fb8a3b1c9e5988cea42f0d59ed930cfa58cfa0076657c6d4b2ed2c557a",
+   "bounds": [
+    139.166457,
+    35.591516,
+    139.43767,
+    35.725043
+   ],
+   "xz_size": 32443828,
+   "year": 2025,
+   "buildings": 248063,
+   "roads": 87503
+  },
+  {
+   "name": "jp13202_context.db",
+   "label": "立川市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13202_context.db.xz",
+   "size": 56377344,
+   "sha256": "361a5ed9a06536173919c923174ada3efd2e7a29c1d1790a3c87be8158f7dd2f",
+   "bounds": [
+    139.349739,
+    35.674965,
+    139.450156,
+    35.750044
+   ],
+   "xz_size": 10938136,
+   "year": 2025,
+   "buildings": 90150,
+   "roads": 29622
+  },
+  {
+   "name": "jp13203_context.db",
+   "label": "武蔵野市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13203_context.db.xz",
+   "size": 50171904,
+   "sha256": "a5349e18f98ccd17c79b998dcbebbdb083c594d72235d1f98446c3a13f6fc242",
+   "bounds": [
+    139.512221,
+    35.691387,
+    139.600622,
+    35.725195
+   ],
+   "xz_size": 9616376,
+   "year": 2025,
+   "buildings": 83817,
+   "roads": 22901
+  },
+  {
+   "name": "jp13204_context.db",
+   "label": "三鷹市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13204_context.db.xz",
+   "size": 58904576,
+   "sha256": "dde5e5260f445ddc680bad90ec9bb15fa9501b36a49d01a966d21c461577cc58",
+   "bounds": [
+    139.512415,
+    35.658083,
+    139.600307,
+    35.708514
+   ],
+   "xz_size": 11381360,
+   "year": 2025,
+   "buildings": 97003,
+   "roads": 27232
+  },
+  {
+   "name": "jp13205_context.db",
+   "label": "青梅市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13205_context.db.xz",
+   "size": 57384960,
+   "sha256": "f5ef1b73c37f8f28ef92c3fc1599fb73dd60b6fa1455dd80aa5aeef494d9aad4",
+   "bounds": [
+    139.141605,
+    35.749988,
+    139.337574,
+    35.843962
+   ],
+   "xz_size": 10626740,
+   "year": 2025,
+   "buildings": 73032,
+   "roads": 33304
+  },
+  {
+   "name": "jp13206_context.db",
+   "label": "府中市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13206_context.db.xz",
+   "size": 64102400,
+   "sha256": "444d7965f50a7b19f0c58827434a78f912da6cd4376674bbcda27acdd2988418",
+   "bounds": [
+    139.424681,
+    35.641382,
+    139.538625,
+    35.700715
+   ],
+   "xz_size": 12378104,
+   "year": 2025,
+   "buildings": 99278,
+   "roads": 34234
+  },
+  {
+   "name": "jp13207_context.db",
+   "label": "昭島市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13207_context.db.xz",
+   "size": 33423360,
+   "sha256": "b03a68e9219daa27539e0c94888fab0915db3c0119b565625cbfc33171578856",
+   "bounds": [
+    139.324931,
+    35.683256,
+    139.40028,
+    35.733434
+   ],
+   "xz_size": 6331756,
+   "year": 2025,
+   "buildings": 52113,
+   "roads": 18241
+  },
+  {
+   "name": "jp13208_context.db",
+   "label": "調布市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13208_context.db.xz",
+   "size": 67944448,
+   "sha256": "d5665df14774c2d31d42e8a3dfbb5c64a42115ff7a4cb1ba6273de79d0d99328",
+   "bounds": [
+    139.512333,
+    35.633273,
+    139.60011,
+    35.691864
+   ],
+   "xz_size": 12970200,
+   "year": 2025,
+   "buildings": 103656,
+   "roads": 33642
+  },
+  {
+   "name": "jp13209_context.db",
+   "label": "町田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13209_context.db.xz",
+   "size": 102907904,
+   "sha256": "6d2a8a1e195d36656a065ff04178d625014813dda2057ce69e1c7c263f7d0d7a",
+   "bounds": [
+    139.26476,
+    35.501252,
+    139.507293,
+    35.625321
+   ],
+   "xz_size": 19724768,
+   "year": 2025,
+   "buildings": 150762,
+   "roads": 52899
+  },
+  {
+   "name": "jp13210_context.db",
+   "label": "小金井市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13210_context.db.xz",
+   "size": 37494784,
+   "sha256": "2dab650e430946781eaa0140c33cad3bd972b397c11584e1fd295062cea75da8",
+   "bounds": [
+    139.474663,
+    35.683264,
+    139.537871,
+    35.725183
+   ],
+   "xz_size": 7086492,
+   "year": 2025,
+   "buildings": 61690,
+   "roads": 18172
+  },
+  {
+   "name": "jp13211_context.db",
+   "label": "小平市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13211_context.db.xz",
+   "size": 63827968,
+   "sha256": "d9b77ba6ef003be2dd1bf7426cdb78800aa3a14dd500600bb6837c9213f00fd0",
+   "bounds": [
+    139.41126,
+    35.699785,
+    139.525068,
+    35.750259
+   ],
+   "xz_size": 12320560,
+   "year": 2025,
+   "buildings": 105487,
+   "roads": 32245
+  },
+  {
+   "name": "jp13212_context.db",
+   "label": "日野市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13212_context.db.xz",
+   "size": 56737792,
+   "sha256": "dda2958f7c10e3e49f5f99f9ec6807a2dc46c5180a91bef349be50ff2ecc4c26",
+   "bounds": [
+    139.349608,
+    35.633266,
+    139.450199,
+    35.700085
+   ],
+   "xz_size": 10943268,
+   "year": 2025,
+   "buildings": 86302,
+   "roads": 30663
+  },
+  {
+   "name": "jp13213_context.db",
+   "label": "東村山市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13213_context.db.xz",
+   "size": 45858816,
+   "sha256": "206d676d8fe481a94144d4a78403346653f75e1e83b4ce74858cc4e6c8bf7dbd",
+   "bounds": [
+    139.437288,
+    35.733121,
+    139.513016,
+    35.782174
+   ],
+   "xz_size": 8777280,
+   "year": 2025,
+   "buildings": 73129,
+   "roads": 25283
+  },
+  {
+   "name": "jp13214_context.db",
+   "label": "国分寺市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13214_context.db.xz",
+   "size": 40525824,
+   "sha256": "72841fca2deb596acf176aead9b987ed4d50abd393d9148b0ed7cfa44c5f5188",
+   "bounds": [
+    139.424773,
+    35.683242,
+    139.500412,
+    35.725177
+   ],
+   "xz_size": 7762380,
+   "year": 2025,
+   "buildings": 66397,
+   "roads": 20574
+  },
+  {
+   "name": "jp13215_context.db",
+   "label": "国立市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13215_context.db.xz",
+   "size": 27742208,
+   "sha256": "da13bc8d9d2cb2f056fa69827552945dcdbdfcea74722697a86d7b767ac73b28",
+   "bounds": [
+    139.412338,
+    35.666484,
+    139.463275,
+    35.708476
+   ],
+   "xz_size": 5217896,
+   "year": 2025,
+   "buildings": 45215,
+   "roads": 14616
+  },
+  {
+   "name": "jp13218_context.db",
+   "label": "福生市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13218_context.db.xz",
+   "size": 23252992,
+   "sha256": "708b07b5eba44d6a817c9828e0220e27c5d8a3411147494fdeaef824d3da2e0c",
+   "bounds": [
+    139.312304,
+    35.70801,
+    139.362577,
+    35.758543
+   ],
+   "xz_size": 4377744,
+   "year": 2025,
+   "buildings": 36766,
+   "roads": 11620
+  },
+  {
+   "name": "jp13219_context.db",
+   "label": "狛江市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13219_context.db.xz",
+   "size": 29773824,
+   "sha256": "e210f7760f9f40d7bba7558157536757710ddd85a364e3ca99aa2448a9e21676",
+   "bounds": [
+    139.54959,
+    35.61998,
+    139.600235,
+    35.658562
+   ],
+   "xz_size": 5289316,
+   "year": 2025,
+   "buildings": 41541,
+   "roads": 11732
+  },
+  {
+   "name": "jp13220_context.db",
+   "label": "東大和市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13220_context.db.xz",
+   "size": 33275904,
+   "sha256": "3a374ccfae1f52ce84ee16884d992d785d65c452cd1efc04c7caa49c72605ef0",
+   "bounds": [
+    139.387527,
+    35.724901,
+    139.462648,
+    35.769498
+   ],
+   "xz_size": 6231216,
+   "year": 2025,
+   "buildings": 52384,
+   "roads": 18007
+  },
+  {
+   "name": "jp13221_context.db",
+   "label": "清瀬市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13221_context.db.xz",
+   "size": 24244224,
+   "sha256": "85b4907a6d94d37bade8ba84772248fa91ed25d137c691dc281fa18fe0f4321b",
+   "bounds": [
+    139.487221,
+    35.758041,
+    139.547335,
+    35.806971
+   ],
+   "xz_size": 4513892,
+   "year": 2025,
+   "buildings": 37362,
+   "roads": 13543
+  },
+  {
+   "name": "jp13222_context.db",
+   "label": "東久留米市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13222_context.db.xz",
+   "size": 40644608,
+   "sha256": "ab155e17c47b8dc6fd2cbe523c88479882e50c5472736b710c684311444f07ea",
+   "bounds": [
+    139.474831,
+    35.724893,
+    139.550165,
+    35.775079
+   ],
+   "xz_size": 7725184,
+   "year": 2025,
+   "buildings": 63711,
+   "roads": 21906
+  },
+  {
+   "name": "jp13223_context.db",
+   "label": "武蔵村山市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13223_context.db.xz",
+   "size": 31182848,
+   "sha256": "c4d6145ff56af905242a2f87fc7b02abfd39b3cd00053c7e11631142d552f663",
+   "bounds": [
+    139.349825,
+    35.724926,
+    139.425211,
+    35.77492
+   ],
+   "xz_size": 5819212,
+   "year": 2025,
+   "buildings": 47784,
+   "roads": 16736
+  },
+  {
+   "name": "jp13224_context.db",
+   "label": "多摩市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13224_context.db.xz",
+   "size": 31129600,
+   "sha256": "432542b0c506fe645dd7c2dba02801a519c5e66780db8354d3f969fb54fe5d88",
+   "bounds": [
+    139.387311,
+    35.599965,
+    139.475281,
+    35.658468
+   ],
+   "xz_size": 5687028,
+   "year": 2025,
+   "buildings": 41755,
+   "roads": 16786
+  },
+  {
+   "name": "jp13225_context.db",
+   "label": "稲城市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13225_context.db.xz",
+   "size": 22786048,
+   "sha256": "49086ee70cfc5a8fa42f84227b1c1af5031f96319686f2182743c226c8454031",
+   "bounds": [
+    139.462084,
+    35.604578,
+    139.537865,
+    35.658601
+   ],
+   "xz_size": 4171596,
+   "year": 2025,
+   "buildings": 34217,
+   "roads": 10451
+  },
+  {
+   "name": "jp13227_context.db",
+   "label": "羽村市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13227_context.db.xz",
+   "size": 20971520,
+   "sha256": "e84ada5b38e8a59113c113a45078cddbd5b1e9bc7ccfba25439b8b910e472166",
+   "bounds": [
+    139.286978,
+    35.741333,
+    139.342771,
+    35.783421
+   ],
+   "xz_size": 3945492,
+   "year": 2025,
+   "buildings": 33449,
+   "roads": 10435
+  },
+  {
+   "name": "jp13228_context.db",
+   "label": "あきる野市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13228_context.db.xz",
+   "size": 47030272,
+   "sha256": "8d3981fbfa9ee73c673817d1c56480979947af00d18dd6a1cbfaf7ef42fc8c28",
+   "bounds": [
+    139.141605,
+    35.695672,
+    139.337759,
+    35.78343
+   ],
+   "xz_size": 8808952,
+   "year": 2025,
+   "buildings": 67209,
+   "roads": 25203
+  },
+  {
+   "name": "jp13229_context.db",
+   "label": "西東京市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13229_context.db.xz",
+   "size": 52977664,
+   "sha256": "7332d9785e5ca04d93f31d17e38de35c2e53147c1b5e8a90cd694407ee6ea9b6",
+   "bounds": [
+    139.511856,
+    35.708178,
+    139.575396,
+    35.76602
+   ],
+   "xz_size": 10141872,
+   "year": 2025,
+   "buildings": 84862,
+   "roads": 27451
+  },
+  {
+   "name": "jp13303_context.db",
+   "label": "瑞穂町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13303_context.db.xz",
+   "size": 21045248,
+   "sha256": "c9d47e6ddc73d8f4fd5b773c13c9cda36b76004dbfee33c80a8a78e6dd6fbec8",
+   "bounds": [
+    139.31223,
+    35.733306,
+    139.377642,
+    35.796416
+   ],
+   "xz_size": 3962044,
+   "year": 2025,
+   "buildings": 33752,
+   "roads": 10394
+  },
+  {
+   "name": "jp13305_context.db",
+   "label": "日の出町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13305_context.db.xz",
+   "size": 16965632,
+   "sha256": "cb48e2a8bf597539e3d2dacf52eb0b9fb6a15ada71809dba8a47ac4bb28efded",
+   "bounds": [
+    139.16268,
+    35.72493,
+    139.28782,
+    35.790447
+   ],
+   "xz_size": 2968640,
+   "year": 2025,
+   "buildings": 22902,
+   "roads": 9462
+  },
+  {
+   "name": "jp13307_context.db",
+   "label": "檜原村 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13307_context.db.xz",
+   "size": 5181440,
+   "sha256": "00180aa87362cdc50f8502521199091c0d9f340130f3670a32b02b8e013cb858",
+   "bounds": [
+    139.013868,
+    35.679751,
+    139.174965,
+    35.778744
+   ],
+   "xz_size": 840336,
+   "year": 2025,
+   "buildings": 4439,
+   "roads": 2386
+  },
+  {
+   "name": "jp13308_context.db",
+   "label": "奥多摩町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13308_context.db.xz",
+   "size": 10256384,
+   "sha256": "4dc92f0f18ede93b8b57c0db29f2eb7a7bcee46e9ebd91a303e8e92103f9f984",
+   "bounds": [
+    138.943453,
+    35.735061,
+    139.187582,
+    35.897691
+   ],
+   "xz_size": 1628604,
+   "year": 2025,
+   "buildings": 8515,
+   "roads": 5168
+  },
+  {
+   "name": "jp13361_context.db",
+   "label": "大島町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13361_context.db.xz",
+   "size": 12447744,
+   "sha256": "8c75e7cedd37745145e85a08e42e48fec8321fd0558377ff54bdf63aa4aa9da8",
+   "bounds": [
+    139.350218,
+    34.679923,
+    139.447825,
+    34.797533
+   ],
+   "xz_size": 2127036,
+   "year": 2024,
+   "buildings": 12010,
+   "roads": 8304
+  },
+  {
+   "name": "jp13362_context.db",
+   "label": "利島村 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13362_context.db.xz",
+   "size": 659456,
+   "sha256": "9972f884c1348b6f4414be9c484078d37b88b2b2063396ca6a33d0aa32c64377",
+   "bounds": [
+    139.270918,
+    34.513878,
+    139.2891,
+    34.531981
+   ],
+   "xz_size": 106296,
+   "year": 2024,
+   "buildings": 475,
+   "roads": 303
+  },
+  {
+   "name": "jp13363_context.db",
+   "label": "新島村 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13363_context.db.xz",
+   "size": 3874816,
+   "sha256": "b342a32616acd43287db5ba910e1a117f7b5bd66715d156dd683d73d986658fd",
+   "bounds": [
+    139.201953,
+    34.319155,
+    139.286097,
+    34.423896
+   ],
+   "xz_size": 679012,
+   "year": 2024,
+   "buildings": 4156,
+   "roads": 2157
+  },
+  {
+   "name": "jp13364_context.db",
+   "label": "神津島村 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13364_context.db.xz",
+   "size": 2179072,
+   "sha256": "c3bec3fa778d674fc8158dd0c908bd10520c3cee659ccede591c6102ec6229a8",
+   "bounds": [
+    139.12171,
+    34.188774,
+    139.156891,
+    34.241661
+   ],
+   "xz_size": 368680,
+   "year": 2024,
+   "buildings": 2141,
+   "roads": 954
+  },
+  {
+   "name": "jp13381_context.db",
+   "label": "三宅村 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13381_context.db.xz",
+   "size": 5521408,
+   "sha256": "90158ba309e1e033370540e43a2f95bddef8dcbe1bea5c614996e5d47a7be73b",
+   "bounds": [
+    139.474953,
+    34.048712,
+    139.565595,
+    34.124529
+   ],
+   "xz_size": 900404,
+   "year": 2024,
+   "buildings": 4295,
+   "roads": 2906
+  },
+  {
+   "name": "jp13382_context.db",
+   "label": "御蔵島村 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13382_context.db.xz",
+   "size": 753664,
+   "sha256": "b6992999e1ff56f43ac5f96ff66f38d8d391a105715e1b85a386cb6f6d13f237",
+   "bounds": [
+    139.584039,
+    33.862939,
+    139.627292,
+    33.898521
+   ],
+   "xz_size": 113980,
+   "year": 2024,
+   "buildings": 406,
+   "roads": 272
+  },
+  {
+   "name": "jp13401_context.db",
+   "label": "八丈町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13401_context.db.xz",
+   "size": 12214272,
+   "sha256": "facd451212bb6a8815723203519d335d85305412d6302f04503c97fd85842812",
+   "bounds": [
+    139.739397,
+    33.059325,
+    139.856375,
+    33.157679
+   ],
+   "xz_size": 1975092,
+   "year": 2024,
+   "buildings": 9032,
+   "roads": 8136
+  },
+  {
+   "name": "jp13402_context.db",
+   "label": "青ケ島村 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13402_context.db.xz",
+   "size": 724992,
+   "sha256": "24e3cc880652faf5ec4c581c1f2daf7f9e274e52b25629e9591d312604c49fae",
+   "bounds": [
+    139.756539,
+    32.446505,
+    139.773748,
+    32.470686
+   ],
+   "xz_size": 115900,
+   "year": 2024,
+   "buildings": 450,
+   "roads": 415
+  },
+  {
+   "name": "jp13421_context.db",
+   "label": "小笠原村 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp13421_context.db.xz",
+   "size": 2498560,
+   "sha256": "633b4e2654b9e13858760aba9c06b5ba2cd6bb68c6acb1f0b9eb3a2619ee3d3e",
+   "bounds": [
+    142.142939,
+    26.609944,
+    142.219827,
+    27.10402
+   ],
+   "xz_size": 412980,
+   "year": 2025,
+   "buildings": 2096,
+   "roads": 1272
+  },
+  {
+   "name": "jp14100_context.db",
+   "label": "横浜市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp14100_context.db.xz",
+   "size": 516403200,
+   "sha256": "874fa2eb4aeaf6231f1768bb63549112ee76a8aa80469d057b4a6f199a3d5b67",
+   "bounds": [
+    139.465221,
+    35.313165,
+    139.724096,
+    35.59264
+   ],
+   "xz_size": 99591816,
+   "year": 2024,
+   "buildings": 883044,
+   "roads": 121798
+  },
+  {
+   "name": "jp14130_context.db",
+   "label": "川崎市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp14130_context.db.xz",
+   "size": 188817408,
+   "sha256": "2b39dd3fa202a8e7d727463392bf64fa80224a59b52ef6967bf8483d2002a026",
+   "bounds": [
+    139.449832,
+    35.470227,
+    139.83529,
+    35.641488
+   ],
+   "xz_size": 37205380,
+   "year": 2022,
+   "buildings": 305720,
+   "roads": 91828
+  },
+  {
+   "name": "jp14150_context.db",
+   "label": "相模原市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp14150_context.db.xz",
+   "size": 183410688,
+   "sha256": "ce63adf3516e869c009485769aaa6b1f57566584efe08479094bb7c9fe5d43d6",
+   "bounds": [
+    139.105606,
+    35.489379,
+    139.459268,
+    35.660057
+   ],
+   "xz_size": 35573796,
+   "year": 2024,
+   "buildings": 274450,
+   "roads": 99503
+  },
+  {
+   "name": "jp14201_context.db",
+   "label": "横須賀市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp14201_context.db.xz",
+   "size": 111517696,
+   "sha256": "1c7f30ede378294a50f715d4422a2cbbe92b16b73e35b97d6fb1e80f26346de6",
+   "bounds": [
+    139.583115,
+    35.19081,
+    139.744804,
+    35.330052
+   ],
+   "xz_size": 20715048,
+   "year": 2020,
+   "buildings": 148212,
+   "roads": 61411
+  },
+  {
+   "name": "jp14204_context.db",
+   "label": "鎌倉市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp14204_context.db.xz",
+   "size": 56045568,
+   "sha256": "ce5641dbee02f7499955c0d2437bbe8172910e0fdd51df93412368b891201520",
+   "bounds": [
+    139.488749,
+    35.2998,
+    139.589303,
+    35.368247
+   ],
+   "xz_size": 10067620,
+   "year": 2024,
+   "buildings": 69269,
+   "roads": 28042
+  },
+  {
+   "name": "jp14205_context.db",
+   "label": "藤沢市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp14205_context.db.xz",
+   "size": 116563968,
+   "sha256": "78ff23ad88b633a957172a79a7684c94bf5b629066dd75905b82ea641308386f",
+   "bounds": [
+    139.393602,
+    35.29808,
+    139.516762,
+    35.429101
+   ],
+   "xz_size": 21942876,
+   "year": 2025,
+   "buildings": 169856,
+   "roads": 53658
+  },
+  {
+   "name": "jp14212_context.db",
+   "label": "厚木市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp14212_context.db.xz",
+   "size": 79052800,
+   "sha256": "fd584851431d9eea07f8498622ca8b21af9e13e5d311bb99b7fcda89ea01e504",
+   "bounds": [
+    139.230749,
+    35.393226,
+    139.378364,
+    35.525899
+   ],
+   "xz_size": 14636360,
+   "year": 2023,
+   "buildings": 107751,
+   "roads": 39715
+  },
+  {
+   "name": "jp14382_context.db",
+   "label": "箱根町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp14382_context.db.xz",
+   "size": 13156352,
+   "sha256": "4ebec1f588ade0e5574904bd8348fc445fab4369c8367961ff6ed8711152005d",
+   "bounds": [
+    138.974172,
+    35.175588,
+    139.121431,
+    35.289923
+   ],
+   "xz_size": 2241964,
+   "year": 2020,
+   "buildings": 14240,
+   "roads": 6726
+  },
+  {
+   "name": "jp15100_context.db",
+   "label": "新潟市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp15100_context.db.xz",
+   "size": 345628672,
+   "sha256": "01d51a60cc5f70bcba7f72e2febd45cb9decaa247f138171855d66cb11c5ebf6",
+   "bounds": [
+    138.784895,
+    37.678534,
+    139.270416,
+    37.999492
+   ],
+   "xz_size": 65657984,
+   "year": 2023,
+   "buildings": 406673,
+   "roads": 245550
+  },
+  {
+   "name": "jp15202_context.db",
+   "label": "長岡市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp15202_context.db.xz",
+   "size": 141107200,
+   "sha256": "dc8fccbb210294c0814ca079a4490f66487e1f31e5907e02ce17d479772a962c",
+   "bounds": [
+    138.701302,
+    37.22838,
+    139.022432,
+    37.664413
+   ],
+   "xz_size": 26676404,
+   "year": 2024,
+   "buildings": 165390,
+   "roads": 92806
+  },
+  {
+   "name": "jp15204_context.db",
+   "label": "三条市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp15204_context.db.xz",
+   "size": 172032,
+   "sha256": "a3e55df3eec6e64d8db02c28e82f6490011b1e491720722e522fdd11c61cd5fa",
+   "bounds": [
+    138.953184,
+    37.630461,
+    138.957061,
+    37.633415
+   ],
+   "xz_size": 29804,
+   "year": 2025,
+   "buildings": 214,
+   "roads": 60
+  },
+  {
+   "name": "jp15206_context.db",
+   "label": "新発田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp15206_context.db.xz",
+   "size": 42438656,
+   "sha256": "11155f8d0677f4658178e5f0c29415bb6971141e91ce04c382322b30d978d1e1",
+   "bounds": [
+    139.242202,
+    37.899836,
+    139.379473,
+    37.984813
+   ],
+   "xz_size": 8013068,
+   "year": 2025,
+   "buildings": 63106,
+   "roads": 22373
+  },
+  {
+   "name": "jp15209_context.db",
+   "label": "加茂市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp15209_context.db.xz",
+   "size": 19251200,
+   "sha256": "6274a8b79392d4d806b16789a572ad5d7cce076d1890045d45d87e8013acfa93",
+   "bounds": [
+    138.989327,
+    37.580245,
+    139.144636,
+    37.705927
+   ],
+   "xz_size": 3379896,
+   "year": 2023,
+   "buildings": 22894,
+   "roads": 11830
+  },
+  {
+   "name": "jp15222_context.db",
+   "label": "上越市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp15222_context.db.xz",
+   "size": 72273920,
+   "sha256": "c0389b9ba89e73fba45bc9a46c60989bb16a2b4163ddf3561a3cf3585e49ceab",
+   "bounds": [
+    138.210302,
+    37.056632,
+    138.409743,
+    37.291978
+   ],
+   "xz_size": 14001648,
+   "year": 2023,
+   "buildings": 104214,
+   "roads": 43754
+  },
+  {
+   "name": "jp16202_context.db",
+   "label": "高岡市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp16202_context.db.xz",
+   "size": 106356736,
+   "sha256": "e617ee922df55a26cb5620eea12f3b2fc9883e52f4abe07a658bdb7c723993ca",
+   "bounds": [
+    136.840475,
+    36.657,
+    137.101288,
+    36.829083
+   ],
+   "xz_size": 20526256,
+   "year": 2024,
+   "buildings": 142212,
+   "roads": 66826
+  },
+  {
+   "name": "jp16211_context.db",
+   "label": "射水市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp16211_context.db.xz",
+   "size": 38973440,
+   "sha256": "2090fe2be5821068ff0e983abdf15aa8182baef72aa999b0c54b4597d4c9fd56",
+   "bounds": [
+    137.015256,
+    36.647004,
+    137.180017,
+    36.7926
+   ],
+   "xz_size": 6776192,
+   "year": 2024,
+   "buildings": 83698,
+   "roads": 0
+  },
+  {
+   "name": "jp16321_context.db",
+   "label": "舟橋村 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp16321_context.db.xz",
+   "size": 1777664,
+   "sha256": "3abd10f77ef2bb01a6b8d57fb349325de4b30d21ba2811b60ade87d0b6a57514",
+   "bounds": [
+    137.294855,
+    36.686802,
+    137.320269,
+    36.712098
+   ],
+   "xz_size": 333300,
+   "year": 2025,
+   "buildings": 2179,
+   "roads": 1394
+  },
+  {
+   "name": "jp17201_context.db",
+   "label": "金沢市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp17201_context.db.xz",
+   "size": 182153216,
+   "sha256": "c28f85949baadfed3dee3ccefafd29bf8a4e767111cb9aa6ae86e91cb88c2986",
+   "bounds": [
+    136.558337,
+    36.495789,
+    136.749669,
+    36.673763
+   ],
+   "xz_size": 33568836,
+   "year": 2024,
+   "buildings": 213878,
+   "roads": 111340
+  },
+  {
+   "name": "jp17206_context.db",
+   "label": "加賀市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp17206_context.db.xz",
+   "size": 49364992,
+   "sha256": "fadd537bb37f44ccc1a0d4c04712d1a4878305885c683b09c9d0a4aa61e0bff4",
+   "bounds": [
+    136.244299,
+    36.221553,
+    136.417858,
+    36.382816
+   ],
+   "xz_size": 9173560,
+   "year": 2024,
+   "buildings": 54153,
+   "roads": 35154
+  },
+  {
+   "name": "jp19201_context.db",
+   "label": "甲府市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp19201_context.db.xz",
+   "size": 82268160,
+   "sha256": "e7fb4d16dcc118eff06975ab4cc8d6827301202e301f76be8b8c16abfa1aabe3",
+   "bounds": [
+    138.524126,
+    35.56193,
+    138.636235,
+    35.717798
+   ],
+   "xz_size": 15844252,
+   "year": 2023,
+   "buildings": 121880,
+   "roads": 44972
+  },
+  {
+   "name": "jp20201_context.db",
+   "label": "長野市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp20201_context.db.xz",
+   "size": 145588224,
+   "sha256": "feef8531b13f6a9e359878b584938f947f413ea6fca27d3782ee576d823754f7",
+   "bounds": [
+    137.92137,
+    36.463658,
+    138.313139,
+    36.789457
+   ],
+   "xz_size": 29790288,
+   "year": 2024,
+   "buildings": 322346,
+   "roads": 0
+  },
+  {
+   "name": "jp20202_context.db",
+   "label": "松本市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp20202_context.db.xz",
+   "size": 149458944,
+   "sha256": "9cbeba809033f3cb6a710da97c0066d7a94721f0cc07d76dcc8a6c49b7ae202b",
+   "bounds": [
+    137.781011,
+    36.128353,
+    138.072008,
+    36.298036
+   ],
+   "xz_size": 27526184,
+   "year": 2020,
+   "buildings": 183959,
+   "roads": 82152
+  },
+  {
+   "name": "jp20204_context.db",
+   "label": "岡谷市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp20204_context.db.xz",
+   "size": 31367168,
+   "sha256": "c3583eb1b918fd4861cf70dbe432e3aa082ba4a5bf71eda27739c9830a72f98d",
+   "bounds": [
+    138.009434,
+    36.009651,
+    138.078355,
+    36.09948
+   ],
+   "xz_size": 5658332,
+   "year": 2022,
+   "buildings": 40030,
+   "roads": 15127
+  },
+  {
+   "name": "jp20206_context.db",
+   "label": "諏訪市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp20206_context.db.xz",
+   "size": 32419840,
+   "sha256": "2fd51bb0f21f50606d3dae971dab833166df4fcf4f1d181156d5944c549d75c4",
+   "bounds": [
+    138.037006,
+    35.955598,
+    138.198659,
+    36.121645
+   ],
+   "xz_size": 5887000,
+   "year": 2023,
+   "buildings": 39092,
+   "roads": 18817
+  },
+  {
+   "name": "jp20209_context.db",
+   "label": "伊那市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp20209_context.db.xz",
+   "size": 84979712,
+   "sha256": "4de4732941788a0fb76702b1f04f1657f6f135ec97464cb404af93258be8b6d9",
+   "bounds": [
+    137.864314,
+    35.696271,
+    138.144656,
+    35.925018
+   ],
+   "xz_size": 14426468,
+   "year": 2020,
+   "buildings": 75934,
+   "roads": 41267
+  },
+  {
+   "name": "jp20213_context.db",
+   "label": "飯山市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp20213_context.db.xz",
+   "size": 31993856,
+   "sha256": "ea876450719de91371edde7e8546c3c6fa5fee87037214f5a86b5dc796849f42",
+   "bounds": [
+    138.286354,
+    36.805441,
+    138.526715,
+    37.02342
+   ],
+   "xz_size": 5225716,
+   "year": 2025,
+   "buildings": 20209,
+   "roads": 24205
+  },
+  {
+   "name": "jp20214_context.db",
+   "label": "茅野市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp20214_context.db.xz",
+   "size": 58068992,
+   "sha256": "88ee56db881f99c14ff21f08f19abaa23fe57b4f6dbe8356ba2752908e05161e",
+   "bounds": [
+    138.12283,
+    35.936414,
+    138.372498,
+    36.112359
+   ],
+   "xz_size": 10720396,
+   "year": 2023,
+   "buildings": 69727,
+   "roads": 29951
+  },
+  {
+   "name": "jp20217_context.db",
+   "label": "佐久市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp20217_context.db.xz",
+   "size": 89600000,
+   "sha256": "c0723a13930ba88bdae84fca08aa223c3b81d688ddc2998b0dbabd650c2d1741",
+   "bounds": [
+    138.30072,
+    36.155034,
+    138.607248,
+    36.315704
+   ],
+   "xz_size": 16307512,
+   "year": 2025,
+   "buildings": 91389,
+   "roads": 60286
+  },
+  {
+   "name": "jp20220_context.db",
+   "label": "安曇野市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp20220_context.db.xz",
+   "size": 87183360,
+   "sha256": "11266369f73fdcbcd71e1c51b53575113ef30403918d2ce0a4bcdfe0c6627ddd",
+   "bounds": [
+    137.805425,
+    36.237731,
+    137.981378,
+    36.411643
+   ],
+   "xz_size": 16353508,
+   "year": 2025,
+   "buildings": 107908,
+   "roads": 51601
+  },
+  {
+   "name": "jp21201_context.db",
+   "label": "岐阜市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp21201_context.db.xz",
+   "size": 167448576,
+   "sha256": "6bd38aa4f7b396e21a9f17b4920c88261287c595c0380bb9434382f710bde9e2",
+   "bounds": [
+    136.680506,
+    35.351126,
+    136.88612,
+    35.535327
+   ],
+   "xz_size": 32860372,
+   "year": 2025,
+   "buildings": 267351,
+   "roads": 85009
+  },
+  {
+   "name": "jp21202_context.db",
+   "label": "大垣市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp21202_context.db.xz",
+   "size": 71491584,
+   "sha256": "33672996d1152b665c8e17aa7e81b69baa04a3a594ff2421b847eaca34aebbda",
+   "bounds": [
+    136.542625,
+    35.295866,
+    136.687949,
+    35.408601
+   ],
+   "xz_size": 13694696,
+   "year": 2025,
+   "buildings": 101865,
+   "roads": 46298
+  },
+  {
+   "name": "jp21211_context.db",
+   "label": "美濃加茂市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp21211_context.db.xz",
+   "size": 46448640,
+   "sha256": "f0ddad3f80dccb98ee923537a801dec05c426a8cab198fd5b133d8927a32944b",
+   "bounds": [
+    136.959685,
+    35.430474,
+    137.08613,
+    35.544977
+   ],
+   "xz_size": 8727404,
+   "year": 2024,
+   "buildings": 65251,
+   "roads": 26536
+  },
+  {
+   "name": "jp22100_context.db",
+   "label": "静岡市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22100_context.db.xz",
+   "size": 213794816,
+   "sha256": "9150217a5d2568da53999ad5bfbacc3ac0ea8c9baf5857892938dab8fc25fac2",
+   "bounds": [
+    138.181655,
+    34.900898,
+    138.630107,
+    35.322835
+   ],
+   "xz_size": 42536580,
+   "year": 2023,
+   "buildings": 351871,
+   "roads": 103641
+  },
+  {
+   "name": "jp22130_context.db",
+   "label": "浜松市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22130_context.db.xz",
+   "size": 349319168,
+   "sha256": "04c0ce2d4d824983fe18b8ff75a75d813ebecd4d82dae9b8a14dd4965cd93ffe",
+   "bounds": [
+    137.491555,
+    34.649299,
+    138.034333,
+    35.250058
+   ],
+   "xz_size": 67534116,
+   "year": 2023,
+   "buildings": 514293,
+   "roads": 199983
+  },
+  {
+   "name": "jp22203_context.db",
+   "label": "沼津市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22203_context.db.xz",
+   "size": 93458432,
+   "sha256": "aab639f5d5da7be9e0fdda9cefda8b4aba0e247b7ffa35e0ae5661e940ea7ef3",
+   "bounds": [
+    138.75301,
+    34.94175,
+    138.921826,
+    35.198444
+   ],
+   "xz_size": 16973132,
+   "year": 2023,
+   "buildings": 112949,
+   "roads": 49050
+  },
+  {
+   "name": "jp22205_context.db",
+   "label": "熱海市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22205_context.db.xz",
+   "size": 10936320,
+   "sha256": "ed0025e92fe9a3bb533359f8ce0abee1c57c501c8bd0115ee881678928e821ff",
+   "bounds": [
+    139.031361,
+    35.030038,
+    139.175578,
+    35.145436
+   ],
+   "xz_size": 2161180,
+   "year": 2023,
+   "buildings": 22280,
+   "roads": 599
+  },
+  {
+   "name": "jp22206_context.db",
+   "label": "三島市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22206_context.db.xz",
+   "size": 23187456,
+   "sha256": "553d27a00894f2b40b8c4657cda79ef64abd5a9b7d08b9690b97ecd00b75c005",
+   "bounds": [
+    138.904271,
+    35.076242,
+    139.013492,
+    35.188211
+   ],
+   "xz_size": 4670232,
+   "year": 2023,
+   "buildings": 48550,
+   "roads": 310
+  },
+  {
+   "name": "jp22207_context.db",
+   "label": "富士宮市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22207_context.db.xz",
+   "size": 41734144,
+   "sha256": "6cf8976e2c0dce2ca1af01a967771dd0af68f470e7c2606fb221d370a8576262",
+   "bounds": [
+    138.516927,
+    35.157623,
+    138.738373,
+    35.431656
+   ],
+   "xz_size": 8507900,
+   "year": 2023,
+   "buildings": 86334,
+   "roads": 381
+  },
+  {
+   "name": "jp22208_context.db",
+   "label": "伊東市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22208_context.db.xz",
+   "size": 22261760,
+   "sha256": "5300b18795dc74aa8ff4eb05118451f09267ad0f4f0284cc2a8e30e560b55bab",
+   "bounds": [
+    139.034662,
+    34.851713,
+    139.143971,
+    35.036678
+   ],
+   "xz_size": 4570104,
+   "year": 2023,
+   "buildings": 46364,
+   "roads": 783
+  },
+  {
+   "name": "jp22209_context.db",
+   "label": "島田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22209_context.db.xz",
+   "size": 27504640,
+   "sha256": "8826a4e4013e120fb737fe25cd56945368de9d8778356009804701eac4d6dd32",
+   "bounds": [
+    138.014942,
+    34.78557,
+    138.24595,
+    35.048053
+   ],
+   "xz_size": 5759932,
+   "year": 2023,
+   "buildings": 60589,
+   "roads": 842
+  },
+  {
+   "name": "jp22210_context.db",
+   "label": "富士市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22210_context.db.xz",
+   "size": 57331712,
+   "sha256": "258f1573eff4f612e7d443c54c599b700bb8c36c1f55ecf5811ffb60f4ed6d60",
+   "bounds": [
+    138.560006,
+    35.123538,
+    138.786286,
+    35.30302
+   ],
+   "xz_size": 12046460,
+   "year": 2023,
+   "buildings": 128300,
+   "roads": 678
+  },
+  {
+   "name": "jp22211_context.db",
+   "label": "磐田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22211_context.db.xz",
+   "size": 41439232,
+   "sha256": "c07e3e9315672076143b5c9e246361ad1b7ac4d0bd0298dd6b861f9b61281474",
+   "bounds": [
+    137.795554,
+    34.64996,
+    137.910735,
+    34.886242
+   ],
+   "xz_size": 8538652,
+   "year": 2023,
+   "buildings": 89329,
+   "roads": 891
+  },
+  {
+   "name": "jp22212_context.db",
+   "label": "焼津市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22212_context.db.xz",
+   "size": 29777920,
+   "sha256": "fc61dd5e4fd0e8e4c15b99cfff65714389f83c62769b164cac2c5be865683564",
+   "bounds": [
+    138.244143,
+    34.771408,
+    138.347457,
+    34.92194
+   ],
+   "xz_size": 6156732,
+   "year": 2023,
+   "buildings": 64944,
+   "roads": 481
+  },
+  {
+   "name": "jp22213_context.db",
+   "label": "掛川市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22213_context.db.xz",
+   "size": 112668672,
+   "sha256": "1a40d06a1a74e51bc4adf017bc5318d98a771cee0fadd0bf6383afe79e3743d9",
+   "bounds": [
+    137.93866,
+    34.643905,
+    138.101981,
+    34.911916
+   ],
+   "xz_size": 20024592,
+   "year": 2023,
+   "buildings": 111057,
+   "roads": 72854
+  },
+  {
+   "name": "jp22214_context.db",
+   "label": "藤枝市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22214_context.db.xz",
+   "size": 30900224,
+   "sha256": "a335b0fb2340b9ed7907affdd4e2e312185bb2d071357854db38aa03baa7cb40",
+   "bounds": [
+    138.154394,
+    34.816292,
+    138.316893,
+    35.006985
+   ],
+   "xz_size": 6486780,
+   "year": 2023,
+   "buildings": 69925,
+   "roads": 78
+  },
+  {
+   "name": "jp22215_context.db",
+   "label": "御殿場市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22215_context.db.xz",
+   "size": 21360640,
+   "sha256": "00920c7081835d4547fc47dbf2a244d6e5b9d3f0b8eb66acc8f57f58e0f7eb42",
+   "bounds": [
+    138.731812,
+    35.215309,
+    138.983126,
+    35.360014
+   ],
+   "xz_size": 4339972,
+   "year": 2023,
+   "buildings": 44058,
+   "roads": 800
+  },
+  {
+   "name": "jp22216_context.db",
+   "label": "袋井市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22216_context.db.xz",
+   "size": 24338432,
+   "sha256": "7b1301abc6a31e2521ece0aa34cd4e91fc193790a958607336eb9b3961118a31",
+   "bounds": [
+    137.850561,
+    34.668172,
+    137.995692,
+    34.821155
+   ],
+   "xz_size": 5093632,
+   "year": 2023,
+   "buildings": 54341,
+   "roads": 563
+  },
+  {
+   "name": "jp22219_context.db",
+   "label": "下田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22219_context.db.xz",
+   "size": 8904704,
+   "sha256": "9a135a2e196d9a82ce571f8f07604e89fc0ae096eed80f7b2e882bbea92399e7",
+   "bounds": [
+    138.857611,
+    34.632874,
+    138.987999,
+    34.761145
+   ],
+   "xz_size": 1717844,
+   "year": 2023,
+   "buildings": 18456,
+   "roads": 636
+  },
+  {
+   "name": "jp22220_context.db",
+   "label": "裾野市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22220_context.db.xz",
+   "size": 10641408,
+   "sha256": "0ee86a82da699de04211e75fefb2fe03e3073be0ade7c6af90acfb9a4e95e878",
+   "bounds": [
+    138.766964,
+    35.149825,
+    138.994593,
+    35.305917
+   ],
+   "xz_size": 2094308,
+   "year": 2023,
+   "buildings": 22693,
+   "roads": 373
+  },
+  {
+   "name": "jp22221_context.db",
+   "label": "湖西市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22221_context.db.xz",
+   "size": 15773696,
+   "sha256": "a93ad91d4a898327bba9a79aebb60fbab4aca2074a0aeed54b8e32cbebb1c587",
+   "bounds": [
+    137.479849,
+    34.676383,
+    137.598035,
+    34.776601
+   ],
+   "xz_size": 3228936,
+   "year": 2023,
+   "buildings": 34505,
+   "roads": 693
+  },
+  {
+   "name": "jp22222_context.db",
+   "label": "伊豆市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22222_context.db.xz",
+   "size": 14757888,
+   "sha256": "7820ff5ef560199b9ef161d41031183ddcad393eda15c1d81a32edd1e6c6af25",
+   "bounds": [
+    138.757119,
+    34.844859,
+    139.066499,
+    35.012838
+   ],
+   "xz_size": 2973756,
+   "year": 2023,
+   "buildings": 29942,
+   "roads": 1374
+  },
+  {
+   "name": "jp22223_context.db",
+   "label": "御前崎市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22223_context.db.xz",
+   "size": 13295616,
+   "sha256": "b55c2c95928c48000c792275a04ceccbe37af27e7a18ffab29fdc6e2fce9e237",
+   "bounds": [
+    138.078659,
+    34.59542,
+    138.23384,
+    34.700428
+   ],
+   "xz_size": 2712672,
+   "year": 2023,
+   "buildings": 29997,
+   "roads": 287
+  },
+  {
+   "name": "jp22224_context.db",
+   "label": "菊川市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22224_context.db.xz",
+   "size": 40296448,
+   "sha256": "2dccc914a2478b963b0c5840323602ae87e9a53e896122a54e1a485e907ea246",
+   "bounds": [
+    138.048947,
+    34.659312,
+    138.146129,
+    34.808264
+   ],
+   "xz_size": 7115468,
+   "year": 2023,
+   "buildings": 40852,
+   "roads": 27521
+  },
+  {
+   "name": "jp22225_context.db",
+   "label": "伊豆の国市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22225_context.db.xz",
+   "size": 12562432,
+   "sha256": "ae957a97bb12003d118345bae8690c7bde4ce2ce24e922cab64638c3e24ca151",
+   "bounds": [
+    138.906357,
+    34.989123,
+    139.046995,
+    35.082598
+   ],
+   "xz_size": 2517248,
+   "year": 2023,
+   "buildings": 27240,
+   "roads": 140
+  },
+  {
+   "name": "jp22226_context.db",
+   "label": "牧之原市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22226_context.db.xz",
+   "size": 17162240,
+   "sha256": "9a4a25565e7f7e1be0d6e216cb3d988fdcfa5dc29e7881cf9d4083a4e26dc133",
+   "bounds": [
+    138.131903,
+    34.618751,
+    138.250747,
+    34.800586
+   ],
+   "xz_size": 3540496,
+   "year": 2023,
+   "buildings": 38120,
+   "roads": 911
+  },
+  {
+   "name": "jp22301_context.db",
+   "label": "東伊豆町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22301_context.db.xz",
+   "size": 5349376,
+   "sha256": "3b12ce85c9f63f351e02b55fc3d77ac3f0488317823732f2ed183a7aae2a1ed4",
+   "bounds": [
+    138.998665,
+    34.765479,
+    139.080817,
+    34.882231
+   ],
+   "xz_size": 1052232,
+   "year": 2023,
+   "buildings": 11244,
+   "roads": 248
+  },
+  {
+   "name": "jp22302_context.db",
+   "label": "河津町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22302_context.db.xz",
+   "size": 4395008,
+   "sha256": "ccfc6e16e57efb698731d6d90110516aaeac953eaf83604da3fb9fde409d7ed2",
+   "bounds": [
+    138.903047,
+    34.718459,
+    139.024515,
+    34.832596
+   ],
+   "xz_size": 845684,
+   "year": 2023,
+   "buildings": 8264,
+   "roads": 384
+  },
+  {
+   "name": "jp22304_context.db",
+   "label": "南伊豆町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22304_context.db.xz",
+   "size": 4362240,
+   "sha256": "69515e58232d3b068fc98f98044830b698b125a43fb69836c68e2746e86e73c0",
+   "bounds": [
+    138.741256,
+    34.602977,
+    138.899668,
+    34.713118
+   ],
+   "xz_size": 877376,
+   "year": 2023,
+   "buildings": 9619,
+   "roads": 380
+  },
+  {
+   "name": "jp22305_context.db",
+   "label": "松崎町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22305_context.db.xz",
+   "size": 3407872,
+   "sha256": "d19af60510b61045d940071037280c336f5792b6db282f17acfca88202d58bf1",
+   "bounds": [
+    138.74237,
+    34.706909,
+    138.865613,
+    34.789378
+   ],
+   "xz_size": 664408,
+   "year": 2023,
+   "buildings": 6826,
+   "roads": 177
+  },
+  {
+   "name": "jp22306_context.db",
+   "label": "西伊豆町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22306_context.db.xz",
+   "size": 3620864,
+   "sha256": "2d67e39120e829eb8106dc4929351361c98979d8426bc7c6bbe2b9b6de191408",
+   "bounds": [
+    138.754054,
+    34.765422,
+    138.859698,
+    34.87254
+   ],
+   "xz_size": 723736,
+   "year": 2023,
+   "buildings": 7929,
+   "roads": 233
+  },
+  {
+   "name": "jp22325_context.db",
+   "label": "函南町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22325_context.db.xz",
+   "size": 8462336,
+   "sha256": "dac512d2bfd9c7b1be85a9fabca3f6c43389ca2581f32bf611697fa62162cf36",
+   "bounds": [
+    138.917139,
+    35.062534,
+    139.041171,
+    35.181601
+   ],
+   "xz_size": 1656060,
+   "year": 2023,
+   "buildings": 19029,
+   "roads": 296
+  },
+  {
+   "name": "jp22341_context.db",
+   "label": "清水町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22341_context.db.xz",
+   "size": 5541888,
+   "sha256": "19b373bcebdf14073bd7e5a6b7405d6b0ebb32061356b8a91d656b9851d2b9e2",
+   "bounds": [
+    138.885025,
+    35.077943,
+    138.914921,
+    35.119987
+   ],
+   "xz_size": 1087276,
+   "year": 2023,
+   "buildings": 12757,
+   "roads": 58
+  },
+  {
+   "name": "jp22342_context.db",
+   "label": "長泉町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22342_context.db.xz",
+   "size": 6803456,
+   "sha256": "cebcf7e5a2456c2b0b5e33a8858395a5f24630c043c4017df6af8a4d2e8420ef",
+   "bounds": [
+    138.833071,
+    35.113666,
+    138.911716,
+    35.197451
+   ],
+   "xz_size": 1329764,
+   "year": 2023,
+   "buildings": 14574,
+   "roads": 165
+  },
+  {
+   "name": "jp22344_context.db",
+   "label": "小山町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22344_context.db.xz",
+   "size": 5672960,
+   "sha256": "7f78e8f0ea7125ad27b5b2a24e5b4f5e52d5ac1567ae8834cff4eba5ce9cad7f",
+   "bounds": [
+    138.767704,
+    35.306447,
+    139.013981,
+    35.382898
+   ],
+   "xz_size": 1097932,
+   "year": 2023,
+   "buildings": 11366,
+   "roads": 119
+  },
+  {
+   "name": "jp22424_context.db",
+   "label": "吉田町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22424_context.db.xz",
+   "size": 9068544,
+   "sha256": "5af5ca39a46125dfe292b35079f79ad2c2ed694280f6eeeeff04a741c2d37e53",
+   "bounds": [
+    138.225158,
+    34.742716,
+    138.288306,
+    34.80247
+   ],
+   "xz_size": 1772456,
+   "year": 2023,
+   "buildings": 19907,
+   "roads": 183
+  },
+  {
+   "name": "jp22429_context.db",
+   "label": "川根本町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22429_context.db.xz",
+   "size": 3878912,
+   "sha256": "9b03b816e1e56924059881a75b2ebd2847f540076cef34868da827398b1f6cc8",
+   "bounds": [
+    138.024795,
+    34.979088,
+    138.237777,
+    35.195743
+   ],
+   "xz_size": 762040,
+   "year": 2023,
+   "buildings": 7911,
+   "roads": 59
+  },
+  {
+   "name": "jp22461_context.db",
+   "label": "森町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp22461_context.db.xz",
+   "size": 6434816,
+   "sha256": "fbabb47e3bb911c245f48bedf339adae9a8e1b1995b210b63b90fe04e1d2210a",
+   "bounds": [
+    137.874172,
+    34.785979,
+    138.029999,
+    34.952779
+   ],
+   "xz_size": 1286228,
+   "year": 2023,
+   "buildings": 14272,
+   "roads": 165
+  },
+  {
+   "name": "jp23100_context.db",
+   "label": "名古屋市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp23100_context.db.xz",
+   "size": 428646400,
+   "sha256": "daa59feb70f586cfcee15cc0ac4d01c1e3f8a398e5a50bf76563cc4acde653e1",
+   "bounds": [
+    136.791711,
+    35.034751,
+    137.059615,
+    35.259186
+   ],
+   "xz_size": 84696420,
+   "year": 2022,
+   "buildings": 738786,
+   "roads": 169335
+  },
+  {
+   "name": "jp23201_context.db",
+   "label": "豊橋市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp23201_context.db.xz",
+   "size": 158625792,
+   "sha256": "5edb04e0ed7334686700117609328d686a0e61bd015d8b964fa91e39dc3ff5d7",
+   "bounds": [
+    137.306375,
+    34.649157,
+    137.497011,
+    34.859666
+   ],
+   "xz_size": 30857176,
+   "year": 2024,
+   "buildings": 222245,
+   "roads": 92962
+  },
+  {
+   "name": "jp23202_context.db",
+   "label": "岡崎市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp23202_context.db.xz",
+   "size": 148725760,
+   "sha256": "2a8c3cacbdfa32aeeb817eaf765571de648cedee32ed95aef9d9410727bcddea",
+   "bounds": [
+    137.103541,
+    34.863755,
+    137.378072,
+    35.038756
+   ],
+   "xz_size": 28590100,
+   "year": 2020,
+   "buildings": 214053,
+   "roads": 81224
+  },
+  {
+   "name": "jp23206_context.db",
+   "label": "春日井市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp23206_context.db.xz",
+   "size": 120176640,
+   "sha256": "dc1ab1fde76919e4ec0eadd86b037c7f8eee593aa22ae53715664137d75d2ac8",
+   "bounds": [
+    136.924992,
+    35.217642,
+    137.084333,
+    35.337829
+   ],
+   "xz_size": 23303508,
+   "year": 2023,
+   "buildings": 206626,
+   "roads": 41925
+  },
+  {
+   "name": "jp23207_context.db",
+   "label": "豊川市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp23207_context.db.xz",
+   "size": 93786112,
+   "sha256": "4b338471818ce284ff46b106fa32deac761c34598f38c466724fad0029162d27",
+   "bounds": [
+    137.261756,
+    34.784603,
+    137.459831,
+    34.909411
+   ],
+   "xz_size": 18100268,
+   "year": 2022,
+   "buildings": 134987,
+   "roads": 49964
+  },
+  {
+   "name": "jp23208_context.db",
+   "label": "津島市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp23208_context.db.xz",
+   "size": 23928832,
+   "sha256": "c9b2f83732c1c59a80bad3dcd2e6c2e3202872de9527947605bcf152abae9fa0",
+   "bounds": [
+    136.707292,
+    35.132935,
+    136.786309,
+    35.199792
+   ],
+   "xz_size": 4403176,
+   "year": 2020,
+   "buildings": 34482,
+   "roads": 14777
+  },
+  {
+   "name": "jp23211_context.db",
+   "label": "豊田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp23211_context.db.xz",
+   "size": 207933440,
+   "sha256": "2f6476c50b1bb98e775f4679cd6ddd51e00def84d05f03e3bb2f12a5a495cde9",
+   "bounds": [
+    137.039498,
+    34.990237,
+    137.578142,
+    35.28968
+   ],
+   "xz_size": 41933688,
+   "year": 2023,
+   "buildings": 337061,
+   "roads": 125455
+  },
+  {
+   "name": "jp23212_context.db",
+   "label": "安城市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp23212_context.db.xz",
+   "size": 73285632,
+   "sha256": "5ffdc9e580188e9e6bb3a9b153a876265893427a0ec0bd25798020609dcf6e0f",
+   "bounds": [
+    137.010487,
+    34.88818,
+    137.125737,
+    35.009917
+   ],
+   "xz_size": 14255316,
+   "year": 2020,
+   "buildings": 105734,
+   "roads": 41427
+  },
+  {
+   "name": "jp23230_context.db",
+   "label": "日進市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp23230_context.db.xz",
+   "size": 32624640,
+   "sha256": "0d21167c0646a9e1588ff37d9b27b3898a107e788b6b297114d65a6f384f35a4",
+   "bounds": [
+    137.001057,
+    35.107697,
+    137.097851,
+    35.168619
+   ],
+   "xz_size": 6258504,
+   "year": 2023,
+   "buildings": 55229,
+   "roads": 13876
+  },
+  {
+   "name": "jp24202_context.db",
+   "label": "四日市市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp24202_context.db.xz",
+   "size": 160575488,
+   "sha256": "2d0136aa8856ee63bdc0e6e4cc75e943189ed06551453fcf1f7228477ae0524b",
+   "bounds": [
+    136.432081,
+    34.901538,
+    136.676919,
+    35.06663
+   ],
+   "xz_size": 30802276,
+   "year": 2022,
+   "buildings": 223373,
+   "roads": 89652
+  },
+  {
+   "name": "jp24203_context.db",
+   "label": "伊勢市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp24203_context.db.xz",
+   "size": 82243584,
+   "sha256": "32af0499d2c9265319643fef38ec84462e3c16de08a197964e2a4d584c8df27e",
+   "bounds": [
+    136.636434,
+    34.392681,
+    136.817024,
+    34.565408
+   ],
+   "xz_size": 15385168,
+   "year": 2024,
+   "buildings": 109707,
+   "roads": 42175
+  },
+  {
+   "name": "jp24212_context.db",
+   "label": "熊野市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp24212_context.db.xz",
+   "size": 15040512,
+   "sha256": "030557a949aa06c189705b574e34b54e47e0929e4c28b1ac71b528d9d944e213",
+   "bounds": [
+    135.855291,
+    33.794847,
+    136.219098,
+    34.032682
+   ],
+   "xz_size": 2493524,
+   "year": 2022,
+   "buildings": 29819,
+   "roads": 1242
+  },
+  {
+   "name": "jp25203_context.db",
+   "label": "長浜市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp25203_context.db.xz",
+   "size": 5615616,
+   "sha256": "568703a6ecdaccfcec0d5dbe97efb81175927782fdf4951b62c09a5b79697870",
+   "bounds": [
+    136.240624,
+    35.407029,
+    136.291842,
+    35.442848
+   ],
+   "xz_size": 1007672,
+   "year": 2024,
+   "buildings": 7499,
+   "roads": 3275
+  },
+  {
+   "name": "jp25204_context.db",
+   "label": "近江八幡市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp25204_context.db.xz",
+   "size": 38821888,
+   "sha256": "c32b171006d98899809bcb0b79b520e834f509dc948264782521880dec73271c",
+   "bounds": [
+    136.018934,
+    35.075883,
+    136.17315,
+    35.209375
+   ],
+   "xz_size": 7537908,
+   "year": 2025,
+   "buildings": 55850,
+   "roads": 25777
+  },
+  {
+   "name": "jp26100_context.db",
+   "label": "京都市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp26100_context.db.xz",
+   "size": 297316352,
+   "sha256": "116e7b1cc90ab8dd3c64a72e0082aee5cf119ee6dc332227a24b0b47d2be4216",
+   "bounds": [
+    135.652981,
+    34.882525,
+    135.840253,
+    35.093958
+   ],
+   "xz_size": 57996180,
+   "year": 2025,
+   "buildings": 513815,
+   "roads": 126686
+  },
+  {
+   "name": "jp26202_context.db",
+   "label": "舞鶴市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp26202_context.db.xz",
+   "size": 29552640,
+   "sha256": "328360ac2947d00c3bfc75544e687555d8ce66b73f0950432a60261ad3f391af",
+   "bounds": [
+    135.281312,
+    35.398775,
+    135.446099,
+    35.517278
+   ],
+   "xz_size": 5622264,
+   "year": 2025,
+   "buildings": 44640,
+   "roads": 15684
+  },
+  {
+   "name": "jp26465_context.db",
+   "label": "与謝野町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp26465_context.db.xz",
+   "size": 3727360,
+   "sha256": "2dcd964e523235015a0905adb3de8ae16bed8889ec00478b0a6d32eebb2bb41f",
+   "bounds": [
+    135.077779,
+    35.512411,
+    135.137903,
+    35.549997
+   ],
+   "xz_size": 676952,
+   "year": 2025,
+   "buildings": 4383,
+   "roads": 2474
+  },
+  {
+   "name": "jp27100_context.db",
+   "label": "大阪市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27100_context.db.xz",
+   "size": 373932032,
+   "sha256": "3a496ffe3086819f29759c911ed3d398a121569a699f02f88e5b572688537934",
+   "bounds": [
+    135.375934,
+    34.586915,
+    135.59915,
+    34.768301
+   ],
+   "xz_size": 72867772,
+   "year": 2025,
+   "buildings": 616063,
+   "roads": 199064
+  },
+  {
+   "name": "jp27140_context.db",
+   "label": "堺市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27140_context.db.xz",
+   "size": 221642752,
+   "sha256": "f860624e8c182b3caf047492fe3b6bf2bd5fe4f8eabd27136cbe360bbe586404",
+   "bounds": [
+    135.403675,
+    34.431186,
+    135.58742,
+    34.605665
+   ],
+   "xz_size": 42338844,
+   "year": 2024,
+   "buildings": 359402,
+   "roads": 90179
+  },
+  {
+   "name": "jp27202_context.db",
+   "label": "岸和田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27202_context.db.xz",
+   "size": 67358720,
+   "sha256": "91b2bf3f24a131820302b49b4d1fc32056144e22c95e9ac3911dc8a79116baea",
+   "bounds": [
+    135.351471,
+    34.348292,
+    135.457407,
+    34.499296
+   ],
+   "xz_size": 12826692,
+   "year": 2024,
+   "buildings": 98170,
+   "roads": 31411
+  },
+  {
+   "name": "jp27203_context.db",
+   "label": "豊中市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27203_context.db.xz",
+   "size": 85913600,
+   "sha256": "935bc59bd00823f33939d2e738feba21bb72a61c2b609b6c14d92314108bc209",
+   "bounds": [
+    135.439834,
+    34.730854,
+    135.507145,
+    34.824544
+   ],
+   "xz_size": 15590620,
+   "year": 2020,
+   "buildings": 124882,
+   "roads": 35168
+  },
+  {
+   "name": "jp27204_context.db",
+   "label": "池田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27204_context.db.xz",
+   "size": 33091584,
+   "sha256": "1ca48025573cb387f6525c1455222d71fd48fe3e968b0590abfc330835c1b930",
+   "bounds": [
+    135.416927,
+    34.790953,
+    135.459595,
+    34.874478
+   ],
+   "xz_size": 5806580,
+   "year": 2025,
+   "buildings": 45290,
+   "roads": 13950
+  },
+  {
+   "name": "jp27207_context.db",
+   "label": "高槻市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27207_context.db.xz",
+   "size": 80781312,
+   "sha256": "481c340b6882f59034b62104ddd5b3e5dad01e14a6ba0fd87e05030e4f97e791",
+   "bounds": [
+    135.566054,
+    34.782962,
+    135.66961,
+    34.890604
+   ],
+   "xz_size": 14773864,
+   "year": 2020,
+   "buildings": 110223,
+   "roads": 39275
+  },
+  {
+   "name": "jp27209_context.db",
+   "label": "守口市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27209_context.db.xz",
+   "size": 7409664,
+   "sha256": "dc68e80dd298a3c4c03463f4b0a22eabfd9b2af7046a6c4fe951ab1ed312dda7",
+   "bounds": [
+    135.558995,
+    34.728553,
+    135.596111,
+    34.755845
+   ],
+   "xz_size": 1351008,
+   "year": 2025,
+   "buildings": 11402,
+   "roads": 4669
+  },
+  {
+   "name": "jp27216_context.db",
+   "label": "河内長野市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27216_context.db.xz",
+   "size": 37986304,
+   "sha256": "910a5e9ad766725172cb17926c3e2f990e91e04f98dd6dbc181af5aa462bb711",
+   "bounds": [
+    135.488276,
+    34.337876,
+    135.658498,
+    34.479825
+   ],
+   "xz_size": 7049416,
+   "year": 2025,
+   "buildings": 50280,
+   "roads": 22884
+  },
+  {
+   "name": "jp27219_context.db",
+   "label": "和泉市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27219_context.db.xz",
+   "size": 36397056,
+   "sha256": "13e7b7d49b4c5f2a358cde00858751e165f681f8ba6ca6fe00ce0a0babae8575",
+   "bounds": [
+    135.415159,
+    34.362902,
+    135.525231,
+    34.516661
+   ],
+   "xz_size": 7373088,
+   "year": 2023,
+   "buildings": 75936,
+   "roads": 0
+  },
+  {
+   "name": "jp27221_context.db",
+   "label": "柏原市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27221_context.db.xz",
+   "size": 19791872,
+   "sha256": "728c8067f9f7f741970f6391200e82f92e9317196c4e9aa5ec5f07f9f09e6a43",
+   "bounds": [
+    135.607539,
+    34.548498,
+    135.680601,
+    34.604327
+   ],
+   "xz_size": 3117696,
+   "year": 2022,
+   "buildings": 28409,
+   "roads": 10791
+  },
+  {
+   "name": "jp27223_context.db",
+   "label": "門真市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27223_context.db.xz",
+   "size": 7041024,
+   "sha256": "8a0085779485978859d9439513542769a4052193f0434a0a44cc6087393aaaca",
+   "bounds": [
+    135.570434,
+    34.727213,
+    135.595124,
+    34.748022
+   ],
+   "xz_size": 1272056,
+   "year": 2025,
+   "buildings": 11404,
+   "roads": 3725
+  },
+  {
+   "name": "jp27224_context.db",
+   "label": "摂津市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27224_context.db.xz",
+   "size": 17678336,
+   "sha256": "caecc8bd507deb8909d99c479a1a5745524c316c62a566beb5513e83dc116ada",
+   "bounds": [
+    135.536526,
+    34.755113,
+    135.599715,
+    34.798453
+   ],
+   "xz_size": 3235264,
+   "year": 2020,
+   "buildings": 25537,
+   "roads": 10305
+  },
+  {
+   "name": "jp27227_context.db",
+   "label": "東大阪市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27227_context.db.xz",
+   "size": 102830080,
+   "sha256": "7e1d45960e272eb4fc663b503248f10f0e562ed3ed6c26051f77d97b830b9647",
+   "bounds": [
+    135.557124,
+    34.632316,
+    135.67909,
+    34.704015
+   ],
+   "xz_size": 20036336,
+   "year": 2024,
+   "buildings": 173135,
+   "roads": 57586
+  },
+  {
+   "name": "jp27341_context.db",
+   "label": "忠岡町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp27341_context.db.xz",
+   "size": 5029888,
+   "sha256": "62136ce246c7c90e0a13b0b569764f41ad7aeb61cd183ae81ddee3b0a8d572a0",
+   "bounds": [
+    135.371398,
+    34.473509,
+    135.41858,
+    34.506831
+   ],
+   "xz_size": 944176,
+   "year": 2020,
+   "buildings": 8018,
+   "roads": 2250
+  },
+  {
+   "name": "jp28201_context.db",
+   "label": "姫路市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp28201_context.db.xz",
+   "size": 150941696,
+   "sha256": "79534e3af00b45623d9a34a5156f169550e927392c41920b406e6512768af79c",
+   "bounds": [
+    134.460692,
+    34.641049,
+    134.809064,
+    35.09027
+   ],
+   "xz_size": 31009436,
+   "year": 2023,
+   "buildings": 330094,
+   "roads": 0
+  },
+  {
+   "name": "jp28210_context.db",
+   "label": "加古川市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp28210_context.db.xz",
+   "size": 96624640,
+   "sha256": "c7fea70b6ac838944c4c4c6b6cb3d6df2964e8542d4e967a2e270911b8b4ec07",
+   "bounds": [
+    134.802001,
+    34.707586,
+    134.933407,
+    34.851445
+   ],
+   "xz_size": 18370908,
+   "year": 2020,
+   "buildings": 122202,
+   "roads": 61928
+  },
+  {
+   "name": "jp28215_context.db",
+   "label": "三木市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp28215_context.db.xz",
+   "size": 64790528,
+   "sha256": "b2fe641d904b14f2beb49565c01078d6107c330c4ee05ad37335417acec46bcf",
+   "bounds": [
+    134.922314,
+    34.760185,
+    135.168569,
+    34.944488
+   ],
+   "xz_size": 11975616,
+   "year": 2023,
+   "buildings": 70856,
+   "roads": 44650
+  },
+  {
+   "name": "jp28225_context.db",
+   "label": "朝来市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp28225_context.db.xz",
+   "size": 14389248,
+   "sha256": "d126174c10c5ac02766d1628560e4c19d514e59bb6ae03c9a6bb333ca1626866",
+   "bounds": [
+    134.810403,
+    35.281143,
+    134.878835,
+    35.369459
+   ],
+   "xz_size": 2361348,
+   "year": 2022,
+   "buildings": 12615,
+   "roads": 10036
+  },
+  {
+   "name": "jp28229_context.db",
+   "label": "たつの市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp28229_context.db.xz",
+   "size": 73056256,
+   "sha256": "be3ddfa47af433c84b1199e8711d70ebf98a1234480cdfcd2b058a4d6d8c22b9",
+   "bounds": [
+    134.425791,
+    34.756344,
+    134.597666,
+    35.007724
+   ],
+   "xz_size": 13555980,
+   "year": 2023,
+   "buildings": 86325,
+   "roads": 48360
+  },
+  {
+   "name": "jp29210_context.db",
+   "label": "香芝市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp29210_context.db.xz",
+   "size": 21647360,
+   "sha256": "fcefbac7c5916a34c060a56d5cae38e9cf9f02aa042f81faf1e8456a32997216",
+   "bounds": [
+    135.65636,
+    34.518872,
+    135.729358,
+    34.57475
+   ],
+   "xz_size": 3973108,
+   "year": 2025,
+   "buildings": 32466,
+   "roads": 12053
+  },
+  {
+   "name": "jp29343_context.db",
+   "label": "三郷町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp29343_context.db.xz",
+   "size": 8376320,
+   "sha256": "2e22add34d3abd6bbad68601b24c655a9bc41d56475d7cd2cca151ad7bb6e1ce",
+   "bounds": [
+    135.650707,
+    34.585251,
+    135.712264,
+    34.61569
+   ],
+   "xz_size": 1500188,
+   "year": 2025,
+   "buildings": 11891,
+   "roads": 4138
+  },
+  {
+   "name": "jp30201_context.db",
+   "label": "和歌山市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp30201_context.db.xz",
+   "size": 126410752,
+   "sha256": "ee96f384b0f370a0ad5dae85c64749b1302a073966e629d4576362216b45a6c5",
+   "bounds": [
+    135.001353,
+    34.150897,
+    135.313409,
+    34.311692
+   ],
+   "xz_size": 24620812,
+   "year": 2023,
+   "buildings": 186565,
+   "roads": 76822
+  },
+  {
+   "name": "jp30406_context.db",
+   "label": "すさみ町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp30406_context.db.xz",
+   "size": 11747328,
+   "sha256": "8cb9f5bc48e6df0c2af8794f9dc0e73237d70d6e645bc752c554139be664bbed",
+   "bounds": [
+    135.468048,
+    33.500669,
+    135.650509,
+    33.619351
+   ],
+   "xz_size": 1821488,
+   "year": 2025,
+   "buildings": 8698,
+   "roads": 5808
+  },
+  {
+   "name": "jp30422_context.db",
+   "label": "太地町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp30422_context.db.xz",
+   "size": 1286144,
+   "sha256": "0197d3d5c71eec6a77a7c610eacdee50ca186df6ffb2f6a2bb1e116946e1e225",
+   "bounds": [
+    135.925439,
+    33.578321,
+    135.961536,
+    33.603556
+   ],
+   "xz_size": 260768,
+   "year": 2021,
+   "buildings": 2909,
+   "roads": 0
+  },
+  {
+   "name": "jp31201_context.db",
+   "label": "鳥取市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp31201_context.db.xz",
+   "size": 103682048,
+   "sha256": "369547690d44b786a7afbe61ca227818caf5bd5a4ab56fef0df35d2721ce5a8c",
+   "bounds": [
+    133.970479,
+    35.361551,
+    134.290058,
+    35.561818
+   ],
+   "xz_size": 18143404,
+   "year": 2020,
+   "buildings": 82738,
+   "roads": 78697
+  },
+  {
+   "name": "jp31202_context.db",
+   "label": "米子市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp31202_context.db.xz",
+   "size": 77725696,
+   "sha256": "fa74875f3e5eaeb1bdc196f7b6d1b8a04578045e4438d3f41ac404bc5e966462",
+   "bounds": [
+    133.242155,
+    35.377921,
+    133.479245,
+    35.498459
+   ],
+   "xz_size": 14820936,
+   "year": 2024,
+   "buildings": 99032,
+   "roads": 46678
+  },
+  {
+   "name": "jp31204_context.db",
+   "label": "境港市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp31204_context.db.xz",
+   "size": 20008960,
+   "sha256": "f4ddc8ca709dbbb651141f9aaf2d0507bf0ff070f6bfabfc3c683ae203f3a2cc",
+   "bounds": [
+    133.198533,
+    35.488075,
+    133.269411,
+    35.551697
+   ],
+   "xz_size": 3642552,
+   "year": 2022,
+   "buildings": 26170,
+   "roads": 11853
+  },
+  {
+   "name": "jp31384_context.db",
+   "label": "日吉津村 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp31384_context.db.xz",
+   "size": 2359296,
+   "sha256": "28511cda8be1a7596ac58c6024663bacfb69e80f5dbf2d326c7c258298c15236",
+   "bounds": [
+    133.37009,
+    35.429628,
+    133.391567,
+    35.455336
+   ],
+   "xz_size": 440740,
+   "year": 2023,
+   "buildings": 3080,
+   "roads": 1574
+  },
+  {
+   "name": "jp32201_context.db",
+   "label": "松江市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp32201_context.db.xz",
+   "size": 95084544,
+   "sha256": "bbaeac8cf7622be0b98c97e100fd6f0fb7bf80a7abacbe655b01981f43e18a07",
+   "bounds": [
+    132.875116,
+    35.344629,
+    133.325531,
+    35.603847
+   ],
+   "xz_size": 18128744,
+   "year": 2024,
+   "buildings": 114919,
+   "roads": 58782
+  },
+  {
+   "name": "jp32204_context.db",
+   "label": "益田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp32204_context.db.xz",
+   "size": 15073280,
+   "sha256": "619c3c12851e673ca24fd63ba72ad3a7cf609d1a0023ce31cebac2d14a6aa0fc",
+   "bounds": [
+    131.766584,
+    34.642427,
+    131.875327,
+    34.708797
+   ],
+   "xz_size": 2691676,
+   "year": 2024,
+   "buildings": 20068,
+   "roads": 10198
+  },
+  {
+   "name": "jp32528_context.db",
+   "label": "隠岐の島町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp32528_context.db.xz",
+   "size": 9515008,
+   "sha256": "6c2497c7c9b2b8e4790eec7a6ada0aae97cccc0da42607cf05870d7d5f7a57cc",
+   "bounds": [
+    133.284761,
+    36.171244,
+    133.362916,
+    36.24306
+   ],
+   "xz_size": 1584388,
+   "year": 2024,
+   "buildings": 7409,
+   "roads": 7876
+  },
+  {
+   "name": "jp33100_context.db",
+   "label": "岡山市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp33100_context.db.xz",
+   "size": 423555072,
+   "sha256": "524903527f5c38f12061a6af7245eb5fb1868605b61c0a05accd443fd2bd3a63",
+   "bounds": [
+    133.744208,
+    34.521793,
+    134.114046,
+    34.948803
+   ],
+   "xz_size": 79177920,
+   "year": 2025,
+   "buildings": 520223,
+   "roads": 283096
+  },
+  {
+   "name": "jp33202_context.db",
+   "label": "倉敷市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp33202_context.db.xz",
+   "size": 75874304,
+   "sha256": "02df7ad26734823a4cb2557a04ddd88723f6a4dc13a1085e43101f48d4a06d58",
+   "bounds": [
+    133.708157,
+    34.539907,
+    133.843372,
+    34.668741
+   ],
+   "xz_size": 14907168,
+   "year": 2024,
+   "buildings": 100503,
+   "roads": 63189
+  },
+  {
+   "name": "jp33203_context.db",
+   "label": "津山市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp33203_context.db.xz",
+   "size": 1220608,
+   "sha256": "b23ce9af2eeea03b9e7beb8965cc862d4f7f0523b148aa31e292e89bc3e69c60",
+   "bounds": [
+    133.997592,
+    35.057052,
+    134.008781,
+    35.065689
+   ],
+   "xz_size": 230552,
+   "year": 2025,
+   "buildings": 1940,
+   "roads": 519
+  },
+  {
+   "name": "jp33211_context.db",
+   "label": "備前市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp33211_context.db.xz",
+   "size": 42029056,
+   "sha256": "c8b3215fb08570974c156987cd282a9e9297825423a4e11555200e1d3c3f446b",
+   "bounds": [
+    134.104836,
+    34.680518,
+    134.326438,
+    34.927943
+   ],
+   "xz_size": 7449084,
+   "year": 2023,
+   "buildings": 43501,
+   "roads": 24832
+  },
+  {
+   "name": "jp33423_context.db",
+   "label": "早島町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp33423_context.db.xz",
+   "size": 7032832,
+   "sha256": "c14ce111328b7bfc74ac2855301b5bb432901d08246b89644ba38302e887dc35",
+   "bounds": [
+    133.802307,
+    34.591003,
+    133.839715,
+    34.627277
+   ],
+   "xz_size": 1211444,
+   "year": 2024,
+   "buildings": 7809,
+   "roads": 4071
+  },
+  {
+   "name": "jp34100_context.db",
+   "label": "広島市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp34100_context.db.xz",
+   "size": 258830336,
+   "sha256": "847d107a9f3495dbb86626dd0a445c116995d7372d72a2afcdc41f058a43cbac",
+   "bounds": [
+    132.306811,
+    34.312781,
+    132.65078,
+    34.586774
+   ],
+   "xz_size": 49961224,
+   "year": 2024,
+   "buildings": 369815,
+   "roads": 145702
+  },
+  {
+   "name": "jp34202_context.db",
+   "label": "呉市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp34202_context.db.xz",
+   "size": 102359040,
+   "sha256": "45d074486db37ccd59ca16558b69be779d77b813f807ce3b0c08d6bd6d19f1f2",
+   "bounds": [
+    132.45162,
+    34.050311,
+    132.868536,
+    34.325944
+   ],
+   "xz_size": 18918944,
+   "year": 2020,
+   "buildings": 118290,
+   "roads": 64483
+  },
+  {
+   "name": "jp34203_context.db",
+   "label": "竹原市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp34203_context.db.xz",
+   "size": 22466560,
+   "sha256": "a4a3ea3057c207d4da82914b9aa2ef706f08c9d33324c9baa8cf74fd57aa1304",
+   "bounds": [
+    132.785083,
+    34.297661,
+    133.010345,
+    34.429944
+   ],
+   "xz_size": 3916076,
+   "year": 2023,
+   "buildings": 23530,
+   "roads": 16243
+  },
+  {
+   "name": "jp34207_context.db",
+   "label": "福山市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp34207_context.db.xz",
+   "size": 263487488,
+   "sha256": "bf35c8a41145d6d57e7bef374391a5568050e9938c31b8ff66b4d695d88de103",
+   "bounds": [
+    133.211122,
+    34.335403,
+    133.466082,
+    34.710952
+   ],
+   "xz_size": 48584896,
+   "year": 2020,
+   "buildings": 327578,
+   "roads": 146335
+  },
+  {
+   "name": "jp34208_context.db",
+   "label": "府中市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp34208_context.db.xz",
+   "size": 21123072,
+   "sha256": "e7f07ef77c6b44b223fec6ef138022931f0ad25fa0b2b5b1776aacf3d99b322e",
+   "bounds": [
+    133.098775,
+    34.535118,
+    133.270295,
+    34.709677
+   ],
+   "xz_size": 3732356,
+   "year": 2022,
+   "buildings": 25368,
+   "roads": 14853
+  },
+  {
+   "name": "jp34209_context.db",
+   "label": "三次市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp34209_context.db.xz",
+   "size": 33468416,
+   "sha256": "025df5fa86efae8012aad7101fda36ae68891a43f327d53983070091e515fa68",
+   "bounds": [
+    132.811713,
+    34.689794,
+    133.012194,
+    34.83063
+   ],
+   "xz_size": 5491304,
+   "year": 2022,
+   "buildings": 31582,
+   "roads": 25943
+  },
+  {
+   "name": "jp34304_context.db",
+   "label": "海田町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp34304_context.db.xz",
+   "size": 7626752,
+   "sha256": "c9012af1f4ab75ad3984440d223e2eba01b1071c10ff068337f6c760977f0833",
+   "bounds": [
+    132.519191,
+    34.35289,
+    132.571615,
+    34.385006
+   ],
+   "xz_size": 1228488,
+   "year": 2025,
+   "buildings": 10860,
+   "roads": 4890
+  },
+  {
+   "name": "jp35215_context.db",
+   "label": "周南市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp35215_context.db.xz",
+   "size": 69062656,
+   "sha256": "3eac3ac68ec2cd72a5d8fcb472cc10a8394a5daf1d250cb00e037f825f4f834f",
+   "bounds": [
+    131.657399,
+    33.970645,
+    132.007225,
+    34.242694
+   ],
+   "xz_size": 13187316,
+   "year": 2024,
+   "buildings": 90289,
+   "roads": 43449
+  },
+  {
+   "name": "jp36201_context.db",
+   "label": "徳島市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp36201_context.db.xz",
+   "size": 127111168,
+   "sha256": "6e0a8b8cb940b74a1706b47751ac7e8b2d60dbd192f838c981d159b30c7d4b76",
+   "bounds": [
+    134.424277,
+    33.955455,
+    134.60499,
+    34.12929
+   ],
+   "xz_size": 24526028,
+   "year": 2023,
+   "buildings": 180404,
+   "roads": 78455
+  },
+  {
+   "name": "jp36387_context.db",
+   "label": "美波町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp36387_context.db.xz",
+   "size": 4038656,
+   "sha256": "e48c76abb9de9f0d255ea0e93b370e3459271d0d5fff8205c6522e02f04a81cd",
+   "bounds": [
+    134.501207,
+    33.704107,
+    134.601996,
+    33.780237
+   ],
+   "xz_size": 705108,
+   "year": 2025,
+   "buildings": 4619,
+   "roads": 2344
+  },
+  {
+   "name": "jp37201_context.db",
+   "label": "高松市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp37201_context.db.xz",
+   "size": 217374720,
+   "sha256": "fc609c45c70d536a665fd02fab912c8af23b3efdf769e4f63bdc5820242608e0",
+   "bounds": [
+    133.924624,
+    34.111738,
+    134.166197,
+    34.433652
+   ],
+   "xz_size": 40630904,
+   "year": 2022,
+   "buildings": 268154,
+   "roads": 137529
+  },
+  {
+   "name": "jp37206_context.db",
+   "label": "さぬき市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp37206_context.db.xz",
+   "size": 53227520,
+   "sha256": "1e36d2c796367b3f4cae21a9b0d3bcf2d536573c2e6814d927bb06a7568db18e",
+   "bounds": [
+    134.154996,
+    34.166612,
+    134.288254,
+    34.36948
+   ],
+   "xz_size": 9441216,
+   "year": 2024,
+   "buildings": 50073,
+   "roads": 36894
+  },
+  {
+   "name": "jp38201_context.db",
+   "label": "松山市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp38201_context.db.xz",
+   "size": 222289920,
+   "sha256": "67ae22f041a6f27021353cb4f86ed7ca9d58037c9d413bdeadd4014a08e91c71",
+   "bounds": [
+    132.637226,
+    33.735502,
+    132.87514,
+    34.009487
+   ],
+   "xz_size": 40804040,
+   "year": 2020,
+   "buildings": 293861,
+   "roads": 124248
+  },
+  {
+   "name": "jp38203_context.db",
+   "label": "宇和島市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp38203_context.db.xz",
+   "size": 43835392,
+   "sha256": "e42d56f6f2f99cd35a3a9ebbaa17fe477e6d85a310f60f89a08c58891e84cde2",
+   "bounds": [
+    132.47296,
+    33.051736,
+    132.615679,
+    33.302815
+   ],
+   "xz_size": 7464044,
+   "year": 2025,
+   "buildings": 42404,
+   "roads": 22575
+  },
+  {
+   "name": "jp38215_context.db",
+   "label": "東温市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp38215_context.db.xz",
+   "size": 21516288,
+   "sha256": "15b1969287b072a2f6b0bad1deb0816c1ff7e7c38465bc9b242c0d8bf7506da3",
+   "bounds": [
+    132.822331,
+    33.770501,
+    132.923393,
+    33.820452
+   ],
+   "xz_size": 3763004,
+   "year": 2023,
+   "buildings": 24909,
+   "roads": 16148
+  },
+  {
+   "name": "jp39201_context.db",
+   "label": "高知市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp39201_context.db.xz",
+   "size": 44351488,
+   "sha256": "d9539b29fae8d77c016b828a98b4b355acc03249df593a4f460dc8546acc29c7",
+   "bounds": [
+    133.480626,
+    33.533826,
+    133.56866,
+    33.582241
+   ],
+   "xz_size": 8937720,
+   "year": 2023,
+   "buildings": 100372,
+   "roads": 0
+  },
+  {
+   "name": "jp39203_context.db",
+   "label": "安芸市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp39203_context.db.xz",
+   "size": 8544256,
+   "sha256": "2033b20d745bab52ada5d51c38121ef3171e9805614f07d2459a23f49b82290f",
+   "bounds": [
+    133.820218,
+    33.447258,
+    133.957287,
+    33.522637
+   ],
+   "xz_size": 1551308,
+   "year": 2025,
+   "buildings": 11455,
+   "roads": 6052
+  },
+  {
+   "name": "jp39211_context.db",
+   "label": "香南市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp39211_context.db.xz",
+   "size": 12091392,
+   "sha256": "e464cd56ba4cffb675905abe4c059d9659f12c900a418acc5821be94065a7057",
+   "bounds": [
+    133.681344,
+    33.515976,
+    133.776203,
+    33.569495
+   ],
+   "xz_size": 2083236,
+   "year": 2025,
+   "buildings": 13363,
+   "roads": 9138
+  },
+  {
+   "name": "jp39386_context.db",
+   "label": "いの町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp39386_context.db.xz",
+   "size": 14761984,
+   "sha256": "fed7f34fd3ed7911cc964c48f7dcfae6aa3d8acf5a565f69c664824b2b8b2501",
+   "bounds": [
+    133.397785,
+    33.510671,
+    133.473188,
+    33.573788
+   ],
+   "xz_size": 2490364,
+   "year": 2024,
+   "buildings": 16533,
+   "roads": 9039
+  },
+  {
+   "name": "jp40100_context.db",
+   "label": "北九州市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp40100_context.db.xz",
+   "size": 251031552,
+   "sha256": "8427fc274b1096b15271121193b4dd7a0ee77353e22b6bcda3848e15b4dc6ab6",
+   "bounds": [
+    130.675516,
+    33.761894,
+    131.021518,
+    33.969455
+   ],
+   "xz_size": 46908100,
+   "year": 2020,
+   "buildings": 311155,
+   "roads": 141226
+  },
+  {
+   "name": "jp40130_context.db",
+   "label": "福岡市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp40130_context.db.xz",
+   "size": 256532480,
+   "sha256": "1c3fa6a57653eb2c053f4196b4e359c55da19ebcf90294f1ad1d0192f4c98a86",
+   "bounds": [
+    130.033752,
+    33.427188,
+    130.495029,
+    33.869959
+   ],
+   "xz_size": 49018548,
+   "year": 2024,
+   "buildings": 355491,
+   "roads": 139964
+  },
+  {
+   "name": "jp40202_context.db",
+   "label": "大牟田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp40202_context.db.xz",
+   "size": 73240576,
+   "sha256": "6dfae60afacfc3ea64d8a1738b2794063b2c49e4a1bf4116b8356a67030aeb20",
+   "bounds": [
+    130.396334,
+    33.001366,
+    130.542158,
+    33.097329
+   ],
+   "xz_size": 13314192,
+   "year": 2023,
+   "buildings": 90247,
+   "roads": 40575
+  },
+  {
+   "name": "jp40203_context.db",
+   "label": "久留米市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp40203_context.db.xz",
+   "size": 100581376,
+   "sha256": "496e8b634ba90875b2dc8c6ca487b2e86e88170f8814e52efabd02fb344ebc86",
+   "bounds": [
+    130.38772,
+    33.224413,
+    130.731449,
+    33.368181
+   ],
+   "xz_size": 18778180,
+   "year": 2020,
+   "buildings": 102376,
+   "roads": 79259
+  },
+  {
+   "name": "jp40205_context.db",
+   "label": "飯塚市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp40205_context.db.xz",
+   "size": 84500480,
+   "sha256": "b0a8cc1e2c3a2dc587b17f6cd688e997e8e175973aea2b25dd0ab4af55886b42",
+   "bounds": [
+    130.560042,
+    33.504591,
+    130.766205,
+    33.704965
+   ],
+   "xz_size": 15450676,
+   "year": 2020,
+   "buildings": 94882,
+   "roads": 51520
+  },
+  {
+   "name": "jp40220_context.db",
+   "label": "宗像市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp40220_context.db.xz",
+   "size": 57409536,
+   "sha256": "129d18e8f8a7f73a1fcb0d8f4c0413947a86ae4a5a16579e3b0c0444ade421b2",
+   "bounds": [
+    130.40797,
+    33.756731,
+    130.638422,
+    33.913368
+   ],
+   "xz_size": 10364340,
+   "year": 2020,
+   "buildings": 68199,
+   "roads": 31084
+  },
+  {
+   "name": "jp40223_context.db",
+   "label": "古賀市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp40223_context.db.xz",
+   "size": 28729344,
+   "sha256": "d6d7e1070e36bb8c59055a9043c29aee5bb7d57122b9295f596939428790a1b6",
+   "bounds": [
+    130.449391,
+    33.693315,
+    130.55839,
+    33.753074
+   ],
+   "xz_size": 5190328,
+   "year": 2024,
+   "buildings": 40453,
+   "roads": 12805
+  },
+  {
+   "name": "jp40225_context.db",
+   "label": "うきは市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp40225_context.db.xz",
+   "size": 33939456,
+   "sha256": "0be5221d29e1185c9a2d54b0cc2ee003a387169c0e912e39edb1738914535201",
+   "bounds": [
+    130.718792,
+    33.261388,
+    130.866172,
+    33.367325
+   ],
+   "xz_size": 5631624,
+   "year": 2025,
+   "buildings": 28740,
+   "roads": 20133
+  },
+  {
+   "name": "jp40447_context.db",
+   "label": "筑前町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp40447_context.db.xz",
+   "size": 21831680,
+   "sha256": "66a17200e820d336c9242d7eb3fa28552ef9189667a59b1fc8c78e89bde1955f",
+   "bounds": [
+    130.561096,
+    33.406125,
+    130.663869,
+    33.51021
+   ],
+   "xz_size": 3718516,
+   "year": 2023,
+   "buildings": 26337,
+   "roads": 6067
+  },
+  {
+   "name": "jp41203_context.db",
+   "label": "鳥栖市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp41203_context.db.xz",
+   "size": 33857536,
+   "sha256": "d3eedf200567275ccb5a1181a3c8c17e16e80426942d02cfd4134c3d2f0a346a",
+   "bounds": [
+    130.444759,
+    33.327044,
+    130.542223,
+    33.420028
+   ],
+   "xz_size": 6234272,
+   "year": 2025,
+   "buildings": 44423,
+   "roads": 20474
+  },
+  {
+   "name": "jp41206_context.db",
+   "label": "武雄市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp41206_context.db.xz",
+   "size": 43282432,
+   "sha256": "bf122fbb925c66a99f50400eedcb7f314f4084f9627374f0fcf1a78216003f39",
+   "bounds": [
+    129.902591,
+    33.112165,
+    130.101993,
+    33.281033
+   ],
+   "xz_size": 7641784,
+   "year": 2022,
+   "buildings": 37246,
+   "roads": 31894
+  },
+  {
+   "name": "jp41208_context.db",
+   "label": "小城市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp41208_context.db.xz",
+   "size": 34099200,
+   "sha256": "888c1cd74d4f7cfeef8193b3a18361b0581f5978f851b98df67efc3dc76d9bb1",
+   "bounds": [
+    130.140653,
+    33.195439,
+    130.243363,
+    33.335135
+   ],
+   "xz_size": 6016800,
+   "year": 2022,
+   "buildings": 31940,
+   "roads": 25724
+  },
+  {
+   "name": "jp41423_context.db",
+   "label": "大町町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp41423_context.db.xz",
+   "size": 5926912,
+   "sha256": "2d5e354516a4a45ef4ca0443356c73038ca4675e3b3d119780d0eddb2c1d1600",
+   "bounds": [
+    130.08969,
+    33.198694,
+    130.136831,
+    33.236768
+   ],
+   "xz_size": 990028,
+   "year": 2022,
+   "buildings": 5680,
+   "roads": 3902
+  },
+  {
+   "name": "jp41424_context.db",
+   "label": "江北町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp41424_context.db.xz",
+   "size": 9056256,
+   "sha256": "f743cb35dc71f8a804ede002ed7b5c6cd5db604934a27e758f1ff8361e2fbcfb",
+   "bounds": [
+    130.12472,
+    33.187612,
+    130.202295,
+    33.249563
+   ],
+   "xz_size": 1553516,
+   "year": 2022,
+   "buildings": 8788,
+   "roads": 6509
+  },
+  {
+   "name": "jp41425_context.db",
+   "label": "白石町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp41425_context.db.xz",
+   "size": 28663808,
+   "sha256": "afbf48bdd9edba9887659de308b99cf76b4f8551655a4c9e17d3169b9ac67b7e",
+   "bounds": [
+    130.070501,
+    33.113764,
+    130.229702,
+    33.211651
+   ],
+   "xz_size": 5073816,
+   "year": 2022,
+   "buildings": 27741,
+   "roads": 21248
+  },
+  {
+   "name": "jp42202_context.db",
+   "label": "佐世保市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp42202_context.db.xz",
+   "size": 180432896,
+   "sha256": "00229eca3909be709efd482c071fdb522a7b8808eda0540bd0a99e0449491525",
+   "bounds": [
+    129.064469,
+    33.050366,
+    129.869609,
+    33.341234
+   ],
+   "xz_size": 31195620,
+   "year": 2022,
+   "buildings": 142147,
+   "roads": 127937
+  },
+  {
+   "name": "jp42208_context.db",
+   "label": "松浦市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp42208_context.db.xz",
+   "size": 14102528,
+   "sha256": "7b3409bccb442ce9f94a4af7d5dc6056f342dbdceafda76e11dfc50911f1a99b",
+   "bounds": [
+    129.645969,
+    33.325219,
+    129.793239,
+    33.398564
+   ],
+   "xz_size": 2309124,
+   "year": 2024,
+   "buildings": 11922,
+   "roads": 9231
+  },
+  {
+   "name": "jp42323_context.db",
+   "label": "波佐見町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp42323_context.db.xz",
+   "size": 16629760,
+   "sha256": "e983e88d83d74684fe032247cf504b821cf01d9a6792bc9fe2d1c2eae6dec6bd",
+   "bounds": [
+    129.844051,
+    33.101773,
+    129.95477,
+    33.164731
+   ],
+   "xz_size": 2640924,
+   "year": 2024,
+   "buildings": 12074,
+   "roads": 10995
+  },
+  {
+   "name": "jp43100_context.db",
+   "label": "熊本市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp43100_context.db.xz",
+   "size": 252526592,
+   "sha256": "f002724d88947feabdcaac0ae00946d03c71389d4305a2af4e78d12449ebd01e",
+   "bounds": [
+    130.578327,
+    32.699055,
+    130.808809,
+    32.918997
+   ],
+   "xz_size": 44867496,
+   "year": 2022,
+   "buildings": 236941,
+   "roads": 178978
+  },
+  {
+   "name": "jp43204_context.db",
+   "label": "荒尾市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp43204_context.db.xz",
+   "size": 36941824,
+   "sha256": "1de325b349ef7d95baee545186f705d0604709c898641cb7acbd311dec946240",
+   "bounds": [
+    130.415923,
+    32.936869,
+    130.527341,
+    33.011347
+   ],
+   "xz_size": 6598544,
+   "year": 2020,
+   "buildings": 46431,
+   "roads": 18704
+  },
+  {
+   "name": "jp43206_context.db",
+   "label": "玉名市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp43206_context.db.xz",
+   "size": 63983616,
+   "sha256": "181901586810089d6a4e9cad1d5b630cebbc54541fea2bab58ed6783a7d60aee",
+   "bounds": [
+    130.477187,
+    32.844092,
+    130.621531,
+    32.995042
+   ],
+   "xz_size": 11423032,
+   "year": 2024,
+   "buildings": 57112,
+   "roads": 47642
+  },
+  {
+   "name": "jp43213_context.db",
+   "label": "宇城市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp43213_context.db.xz",
+   "size": 24621056,
+   "sha256": "8a01fdd84aa00ae42ae3b4698b4f51d38f06deea355eb6f4630952c031d2d1b2",
+   "bounds": [
+    130.649706,
+    32.572631,
+    130.724375,
+    32.677541
+   ],
+   "xz_size": 4356620,
+   "year": 2025,
+   "buildings": 27096,
+   "roads": 15279
+  },
+  {
+   "name": "jp43443_context.db",
+   "label": "益城町 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp43443_context.db.xz",
+   "size": 20819968,
+   "sha256": "f35fcec32ca95e4383f381cb0886520c9e122e0c73cad198884875c51fed1fc8",
+   "bounds": [
+    130.778006,
+    32.736337,
+    130.886397,
+    32.838031
+   ],
+   "xz_size": 3615120,
+   "year": 2023,
+   "buildings": 20853,
+   "roads": 15816
+  },
+  {
+   "name": "jp44204_context.db",
+   "label": "日田市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp44204_context.db.xz",
+   "size": 30822400,
+   "sha256": "649a357048c1a43e18d332d77ea9930f022b94bba09d04d06a92a18026404855",
+   "bounds": [
+    130.874997,
+    33.28069,
+    130.984267,
+    33.371962
+   ],
+   "xz_size": 5488008,
+   "year": 2020,
+   "buildings": 35058,
+   "roads": 18654
+  },
+  {
+   "name": "jp44206_context.db",
+   "label": "臼杵市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp44206_context.db.xz",
+   "size": 18694144,
+   "sha256": "da5acddc47320ad84fe551944aa73a797c17971dd903a371dceef66a349b7120",
+   "bounds": [
+    131.740576,
+    33.085719,
+    131.834208,
+    33.176249
+   ],
+   "xz_size": 3118524,
+   "year": 2023,
+   "buildings": 18815,
+   "roads": 10816
+  },
+  {
+   "name": "jp45203_context.db",
+   "label": "延岡市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp45203_context.db.xz",
+   "size": 32489472,
+   "sha256": "82b860e0d88bb43fbd03abe7974c86033e6be51fcf836b68ce4c3d074d627407",
+   "bounds": [
+    131.553442,
+    32.497108,
+    131.728661,
+    32.647854
+   ],
+   "xz_size": 6518980,
+   "year": 2023,
+   "buildings": 65797,
+   "roads": 0
+  },
+  {
+   "name": "jp46220_context.db",
+   "label": "南さつま市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp46220_context.db.xz",
+   "size": 6307840,
+   "sha256": "7f21b572cc8b0a5c05668871cc0db6c4c6c371902fbc17e7ceeb640d65a15c73",
+   "bounds": [
+    130.28374,
+    31.403166,
+    130.34164,
+    31.437128
+   ],
+   "xz_size": 1152896,
+   "year": 2024,
+   "buildings": 8802,
+   "roads": 3702
+  },
+  {
+   "name": "jp47201_context.db",
+   "label": "那覇市 建物",
+   "url": "https://github.com/969flash/gorani-data/releases/download/jp/jp47201_context.db.xz",
+   "size": 51949568,
+   "sha256": "6459796d56d01d3edd6931516fdc0c3ca042b2480b6d7480b794cc9da79f8c5d",
+   "bounds": [
+    127.639973,
+    26.176509,
+    127.73877,
+    26.247195
+   ],
+   "xz_size": 9500180,
+   "year": 2020,
+   "buildings": 63198,
+   "roads": 30123
+  }
+ ]
+}
