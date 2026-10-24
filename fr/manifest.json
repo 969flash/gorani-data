@@ -1,0 +1,1637 @@
+{
+ "version": "2026-10-22",
+ "packs": [
+  {
+   "name": "fr001_context.db",
+   "label": "D001 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr001_context.db.xz",
+   "size": 353312768,
+   "sha256": "16851e57ea12f6149dcadbcf3f2cf84449ab2293fc62d5ccee94a9337d2a705a",
+   "bounds": [
+    4.664044,
+    45.56614,
+    6.171453,
+    46.564137
+   ],
+   "xz_size": 62021752,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 819029
+  },
+  {
+   "name": "fr002_context.db",
+   "label": "D002 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr002_context.db.xz",
+   "size": 286601216,
+   "sha256": "468e0bbbb1f6daab13291d43e34f9d48485512ba0313c63a5d9f4df6bfdffe21",
+   "bounds": [
+    2.888249,
+    48.792696,
+    4.324405,
+    50.113768
+   ],
+   "xz_size": 50915612,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 680777
+  },
+  {
+   "name": "fr003_context.db",
+   "label": "D003 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr003_context.db.xz",
+   "size": 224817152,
+   "sha256": "341336d2005778d9b069eb1d63b114d5badf096a67a3627d5abb35b8cf8f3875",
+   "bounds": [
+    2.21435,
+    45.886065,
+    4.07079,
+    46.847536
+   ],
+   "xz_size": 40730844,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 543448
+  },
+  {
+   "name": "fr004_context.db",
+   "label": "D004 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr004_context.db.xz",
+   "size": 108593152,
+   "sha256": "f9fc1290901ed6537017a65393e14c8e7fdef31a532d05ec726a8dbcc2430776",
+   "bounds": [
+    5.436274,
+    43.624372,
+    7.005535,
+    44.697126
+   ],
+   "xz_size": 19344716,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 257493
+  },
+  {
+   "name": "fr005_context.db",
+   "label": "D005 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr005_context.db.xz",
+   "size": 81825792,
+   "sha256": "5d34d109f6d605a533314eb9d405b1a8e7786ca1aa2716ed45a80077a49f63f7",
+   "bounds": [
+    5.356932,
+    44.145614,
+    7.076068,
+    45.168852
+   ],
+   "xz_size": 14560340,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 195413
+  },
+  {
+   "name": "fr006_context.db",
+   "label": "D006 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr006_context.db.xz",
+   "size": 253992960,
+   "sha256": "5cf63f140b1193be9cf47df021466763709ca699b5e36a8b4f60610f8e4882a5",
+   "bounds": [
+    6.575423,
+    43.43963,
+    7.718844,
+    44.402856
+   ],
+   "xz_size": 43430016,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 582016
+  },
+  {
+   "name": "fr007_context.db",
+   "label": "D007 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr007_context.db.xz",
+   "size": 279891968,
+   "sha256": "4cf57d03ea12888081bb3da0f3342bf3adcdfb203d9bf8bbf3eff64a193f3719",
+   "bounds": [
+    3.798113,
+    44.220064,
+    4.948258,
+    45.410969
+   ],
+   "xz_size": 49109076,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 660528
+  },
+  {
+   "name": "fr008_context.db",
+   "label": "D008 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr008_context.db.xz",
+   "size": 124559360,
+   "sha256": "efdbc2b3e04967a0e4f80849ed48c7244fd115daafd94881a488fe1c185fcf6f",
+   "bounds": [
+    3.95954,
+    49.183111,
+    5.437943,
+    50.169091
+   ],
+   "xz_size": 21904416,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 307542
+  },
+  {
+   "name": "fr009_context.db",
+   "label": "D009 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr009_context.db.xz",
+   "size": 133988352,
+   "sha256": "40473571ccdd6dd798a0f974b07b6ffd3ebe413e9db63297c26e05f79499470d",
+   "bounds": [
+    0.764766,
+    42.534751,
+    2.234029,
+    43.360857
+   ],
+   "xz_size": 23886976,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 332392
+  },
+  {
+   "name": "fr010_context.db",
+   "label": "D010 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr010_context.db.xz",
+   "size": 150921216,
+   "sha256": "42fc1768e4015504994b7cb5f86e4133c3e9ab2ba1c29f9e865c9f07ec30af81",
+   "bounds": [
+    3.31639,
+    47.881719,
+    4.929778,
+    48.757058
+   ],
+   "xz_size": 26976452,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 356885
+  },
+  {
+   "name": "fr011_context.db",
+   "label": "D011 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr011_context.db.xz",
+   "size": 231919616,
+   "sha256": "d460f78289135decff4ec585083f71313110b67b0f7700bc34e96c585ec55224",
+   "bounds": [
+    1.627251,
+    42.610954,
+    3.285819,
+    43.504287
+   ],
+   "xz_size": 40349908,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 553740
+  },
+  {
+   "name": "fr012_context.db",
+   "label": "D012 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr012_context.db.xz",
+   "size": 222625792,
+   "sha256": "a602e8580c3e893e53ee34482dcdd843615b30379263136b287fff5fa4f1d1f3",
+   "bounds": [
+    1.776783,
+    43.646941,
+    3.507337,
+    44.983945
+   ],
+   "xz_size": 40309832,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 522314
+  },
+  {
+   "name": "fr013_context.db",
+   "label": "D013 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr013_context.db.xz",
+   "size": 578879488,
+   "sha256": "69d9e937fcba6bce6836ef62bf36823d363b44a63fe60774db223b71791f6e50",
+   "bounds": [
+    4.172257,
+    43.144255,
+    5.870906,
+    43.969303
+   ],
+   "xz_size": 98206292,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 1330508
+  },
+  {
+   "name": "fr014_context.db",
+   "label": "D014 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr014_context.db.xz",
+   "size": 296050688,
+   "sha256": "608453f1cd9a4e03971e41cff0b36f4182eb3166d0c42874a8756304cbba8280",
+   "bounds": [
+    -1.227952,
+    48.707157,
+    0.514437,
+    49.474907
+   ],
+   "xz_size": 53110964,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 692474
+  },
+  {
+   "name": "fr015_context.db",
+   "label": "D015 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr015_context.db.xz",
+   "size": 111128576,
+   "sha256": "69bd95817ea6499126d4a19abd842bdb84057adb7b719965b3c365a5b37e218f",
+   "bounds": [
+    2.000974,
+    44.570941,
+    3.427623,
+    45.526988
+   ],
+   "xz_size": 20342164,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 268677
+  },
+  {
+   "name": "fr016_context.db",
+   "label": "D016 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr016_context.db.xz",
+   "size": 253136896,
+   "sha256": "0cad78ef0e832f85c705649104f2ab76879c78d4598255c4ba6d2edfff92fecf",
+   "bounds": [
+    -0.52796,
+    45.146558,
+    1.010822,
+    46.184418
+   ],
+   "xz_size": 45046088,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 604509
+  },
+  {
+   "name": "fr017_context.db",
+   "label": "D017 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr017_context.db.xz",
+   "size": 450486272,
+   "sha256": "dad948a2a04a07f46a30f6cd76be1b2805fa98fdea466eec02dd5e05b5ee003f",
+   "bounds": [
+    -1.562325,
+    45.044046,
+    0.069526,
+    46.415652
+   ],
+   "xz_size": 77741880,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 1013513
+  },
+  {
+   "name": "fr018_context.db",
+   "label": "D018 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr018_context.db.xz",
+   "size": 206241792,
+   "sha256": "1092c47b424cb1a86d0b32223033c01a79d9d39c5e2bcf1e1b64f48f9b0999fd",
+   "bounds": [
+    1.708572,
+    46.376487,
+    3.145472,
+    47.673858
+   ],
+   "xz_size": 37122152,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 499475
+  },
+  {
+   "name": "fr019_context.db",
+   "label": "D019 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr019_context.db.xz",
+   "size": 177405952,
+   "sha256": "fba45ce95a1e18faaa3b312e9f12e3aec27a5f5727782797e93a83107b096b53",
+   "bounds": [
+    1.163927,
+    44.875825,
+    2.592298,
+    45.809592
+   ],
+   "xz_size": 32645128,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 437204
+  },
+  {
+   "name": "fr021_context.db",
+   "label": "D021 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr021_context.db.xz",
+   "size": 212299776,
+   "sha256": "e225634b7ac852b1702990782706906b81cc07a49cec8e11a9b1934d98d4dd20",
+   "bounds": [
+    3.999703,
+    46.856626,
+    5.577262,
+    48.075908
+   ],
+   "xz_size": 37644788,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 495342
+  },
+  {
+   "name": "fr022_context.db",
+   "label": "D022 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr022_context.db.xz",
+   "size": 372330496,
+   "sha256": "0502a1a2df0e0a1a6dfea71b7823d95b42e11071c86ba7cc92615afbe4ece3b3",
+   "bounds": [
+    -3.732925,
+    47.990232,
+    -1.841637,
+    48.908489
+   ],
+   "xz_size": 66490796,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 851602
+  },
+  {
+   "name": "fr023_context.db",
+   "label": "D023 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr023_context.db.xz",
+   "size": 123867136,
+   "sha256": "0e7805649fcb77eb8cb835f0b5c3a50108788f84a6e89fb9d8b10feb8969c39e",
+   "bounds": [
+    1.310572,
+    45.620758,
+    2.672462,
+    46.499451
+   ],
+   "xz_size": 22868320,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 302854
+  },
+  {
+   "name": "fr024_context.db",
+   "label": "D024 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr024_context.db.xz",
+   "size": 327786496,
+   "sha256": "4655fb2c110cc00224417288e118998bdddab7545eb9828de886379d2ffa6d26",
+   "bounds": [
+    -0.104148,
+    44.525969,
+    1.511663,
+    45.758588
+   ],
+   "xz_size": 59823484,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 796230
+  },
+  {
+   "name": "fr025_context.db",
+   "label": "D025 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr025_context.db.xz",
+   "size": 182288384,
+   "sha256": "c53cee6df5651f8d372b9c836868fe9d92482dc1a203a61a93a919d76bfe6f5f",
+   "bounds": [
+    5.633509,
+    46.510904,
+    7.062585,
+    47.623175
+   ],
+   "xz_size": 32682112,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 429891
+  },
+  {
+   "name": "fr026_context.db",
+   "label": "D026 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr026_context.db.xz",
+   "size": 288915456,
+   "sha256": "b4006c26b30498a630f8e30dc2133d1b9c846069c395f60e6ce3f50a7e4e7149",
+   "bounds": [
+    4.584458,
+    44.071615,
+    5.893633,
+    45.388966
+   ],
+   "xz_size": 50635892,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 681600
+  },
+  {
+   "name": "fr027_context.db",
+   "label": "D027 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr027_context.db.xz",
+   "size": 331411456,
+   "sha256": "59fb8b77a1872acf2f5fe1252b6c9e612fd37da0248093f8e355aff63c8f571c",
+   "bounds": [
+    0.227384,
+    48.624476,
+    1.871194,
+    49.530308
+   ],
+   "xz_size": 59802484,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 813109
+  },
+  {
+   "name": "fr028_context.db",
+   "label": "D028 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr028_context.db.xz",
+   "size": 219095040,
+   "sha256": "bfabdb95edd24fcb01d3c85fbab0db46ba7c8828cdf73205fbc06f3408c393f9",
+   "bounds": [
+    0.689383,
+    47.909151,
+    2.060896,
+    48.985585
+   ],
+   "xz_size": 39327912,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 523818
+  },
+  {
+   "name": "fr029_context.db",
+   "label": "D029 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr029_context.db.xz",
+   "size": 404586496,
+   "sha256": "93062485fba4a7b18c8bed62bb85e03c31a3eda0d21b630f6e89bbe7fc40c6a5",
+   "bounds": [
+    -5.131362,
+    47.704735,
+    -3.320302,
+    48.751328
+   ],
+   "xz_size": 71399456,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 904887
+  },
+  {
+   "name": "fr02a_context.db",
+   "label": "D02A bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr02a_context.db.xz",
+   "size": 63582208,
+   "sha256": "7ea290642ea4e0bc18e1664df0ced907b7e431313f7fa65affe301705732a9d9",
+   "bounds": [
+    8.552075,
+    41.334418,
+    9.407029,
+    42.416427
+   ],
+   "xz_size": 11317068,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 150803
+  },
+  {
+   "name": "fr02b_context.db",
+   "label": "D02B bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr02b_context.db.xz",
+   "size": 70836224,
+   "sha256": "45446b7036258ffb0f7a936a40840b5ccd10477e2354fdfd9ff1b89814d7280a",
+   "bounds": [
+    8.5742,
+    41.792955,
+    9.558118,
+    43.027052
+   ],
+   "xz_size": 12399728,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 164599
+  },
+  {
+   "name": "fr030_context.db",
+   "label": "D030 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr030_context.db.xz",
+   "size": 377483264,
+   "sha256": "85df6be9b4436797a6c22f57cb7f2cde89c1efe6c25e5a905586b0a768dd18b0",
+   "bounds": [
+    3.205118,
+    43.461281,
+    4.907908,
+    44.501981
+   ],
+   "xz_size": 65630372,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 868291
+  },
+  {
+   "name": "fr031_context.db",
+   "label": "D031 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr031_context.db.xz",
+   "size": 500600832,
+   "sha256": "691940a66d3725595c7446b5bc38320370319d9e40abca9334a32b492c63b306",
+   "bounds": [
+    0.380019,
+    42.700167,
+    2.109639,
+    43.966458
+   ],
+   "xz_size": 87226820,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 1175868
+  },
+  {
+   "name": "fr032_context.db",
+   "label": "D032 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr032_context.db.xz",
+   "size": 183037952,
+   "sha256": "d2c9f1ad93ff3208d6e64d644c38c0f2412a9e046bc6b3454f0c21dcea0233be",
+   "bounds": [
+    -0.344232,
+    43.267244,
+    1.265265,
+    44.124779
+   ],
+   "xz_size": 32971096,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 441125
+  },
+  {
+   "name": "fr033_context.db",
+   "label": "D033 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr033_context.db.xz",
+   "size": 632791040,
+   "sha256": "5bd95357ea0179873c7ab9e11dd157217cc1165e617d503c2eadfeee11844a13",
+   "bounds": [
+    -1.261045,
+    44.150319,
+    0.378402,
+    45.620198
+   ],
+   "xz_size": 109206076,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 1446769
+  },
+  {
+   "name": "fr034_context.db",
+   "label": "D034 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr034_context.db.xz",
+   "size": 416993280,
+   "sha256": "d98d64ca394057def5c017d6eaba94121f8f577875953af1ce4186c35300ef63",
+   "bounds": [
+    2.480467,
+    43.180869,
+    4.255913,
+    44.014516
+   ],
+   "xz_size": 71613812,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 958488
+  },
+  {
+   "name": "fr035_context.db",
+   "label": "D035 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr035_context.db.xz",
+   "size": 430989312,
+   "sha256": "54043ca4c30cafad6ddb2c0f990ea7bf2315ceebe653a93c26da42dd0ba60c3b",
+   "bounds": [
+    -2.355635,
+    47.587537,
+    -0.949245,
+    48.710594
+   ],
+   "xz_size": 75891508,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 969980
+  },
+  {
+   "name": "fr036_context.db",
+   "label": "D036 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr036_context.db.xz",
+   "size": 170049536,
+   "sha256": "70916988b557213c75600a89cdc56e539b5c6b65d71c303f64280a4c2ba7e153",
+   "bounds": [
+    0.802569,
+    46.302621,
+    2.26893,
+    47.321492
+   ],
+   "xz_size": 30834292,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 412862
+  },
+  {
+   "name": "fr037_context.db",
+   "label": "D037 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr037_context.db.xz",
+   "size": 269139968,
+   "sha256": "eab2db8f9dee3b1bd5b52e84cbe1fd876ee32dbdcaf38d6a7dd83601152343ae",
+   "bounds": [
+    -0.010731,
+    46.691975,
+    1.431335,
+    47.754792
+   ],
+   "xz_size": 47976768,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 641430
+  },
+  {
+   "name": "fr038_context.db",
+   "label": "D038 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr038_context.db.xz",
+   "size": 432484352,
+   "sha256": "daa2a2e9c80155cf0a1c98b5194230e82d3d25f23f93c2fa423682d0e6450cfb",
+   "bounds": [
+    4.678008,
+    44.654438,
+    6.416308,
+    45.928402
+   ],
+   "xz_size": 76453040,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 1002781
+  },
+  {
+   "name": "fr039_context.db",
+   "label": "D039 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr039_context.db.xz",
+   "size": 144322560,
+   "sha256": "2d5d779720a5df1f505221ea38ca8ca3c5dabe4aa376f44058cebfc07f284e76",
+   "bounds": [
+    5.188525,
+    46.215704,
+    6.269711,
+    47.351022
+   ],
+   "xz_size": 25851148,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 340882
+  },
+  {
+   "name": "fr040_context.db",
+   "label": "D040 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr040_context.db.xz",
+   "size": 296787968,
+   "sha256": "3cc648bd139e2eb451906ad99e16064aa742798ce93a9d662c1ab79a7f4e5f9d",
+   "bounds": [
+    -1.554342,
+    43.444193,
+    0.198878,
+    44.576153
+   ],
+   "xz_size": 52257012,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 696783
+  },
+  {
+   "name": "fr041_context.db",
+   "label": "D041 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr041_context.db.xz",
+   "size": 219668480,
+   "sha256": "464ff5852117276349750b230782b282186e751ab70a1d2c5e88be220e6d347c",
+   "bounds": [
+    0.513924,
+    47.142281,
+    2.31283,
+    48.177619
+   ],
+   "xz_size": 39633380,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 525489
+  },
+  {
+   "name": "fr042_context.db",
+   "label": "D042 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr042_context.db.xz",
+   "size": 303947776,
+   "sha256": "73a0e4e96d1d0d434310647eb8a8aab144ca1eb60dc63b4c9de8d820d402465e",
+   "bounds": [
+    3.625889,
+    45.188015,
+    4.823963,
+    46.31795
+   ],
+   "xz_size": 53761260,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 716186
+  },
+  {
+   "name": "fr043_context.db",
+   "label": "D043 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr043_context.db.xz",
+   "size": 156274688,
+   "sha256": "489a2166b084efb90b432062dc16320db0998c14bcaadca6b1e1b00d020e0756",
+   "bounds": [
+    3.019986,
+    44.699522,
+    4.55432,
+    45.471991
+   ],
+   "xz_size": 28103372,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 371484
+  },
+  {
+   "name": "fr044_context.db",
+   "label": "D044 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr044_context.db.xz",
+   "size": 581271552,
+   "sha256": "0ff9e30501b8a7f58710ecb3c8f81b859eb6c97d85843bb65db0d7ba31ba530d",
+   "bounds": [
+    -2.620593,
+    46.81649,
+    -0.880654,
+    47.880405
+   ],
+   "xz_size": 101033936,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 1307445
+  },
+  {
+   "name": "fr045_context.db",
+   "label": "D045 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr045_context.db.xz",
+   "size": 269803520,
+   "sha256": "e8fb286b6b10f397758aa94d8437cc7bc7e42176ce0e8c851c6a7b76d670b0e3",
+   "bounds": [
+    1.449452,
+    47.438417,
+    3.195218,
+    48.389954
+   ],
+   "xz_size": 48441772,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 637103
+  },
+  {
+   "name": "fr046_context.db",
+   "label": "D046 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr046_context.db.xz",
+   "size": 187523072,
+   "sha256": "32db972e166c25e261cf9499546e0077047b84f2a1f7bd46fc8fb347aa7b1f5a",
+   "bounds": [
+    0.920625,
+    44.158537,
+    2.273884,
+    45.091205
+   ],
+   "xz_size": 34059396,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 453988
+  },
+  {
+   "name": "fr047_context.db",
+   "label": "D047 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr047_context.db.xz",
+   "size": 230850560,
+   "sha256": "ee2735f1b51e8c0b0c30a7cc0ca95faad0b9d44df41444ebe9512efe6745f625",
+   "bounds": [
+    -0.200772,
+    43.92789,
+    1.141321,
+    44.810597
+   ],
+   "xz_size": 41154544,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 557226
+  },
+  {
+   "name": "fr048_context.db",
+   "label": "D048 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr048_context.db.xz",
+   "size": 69738496,
+   "sha256": "bc0ea9a9891cf22d9605a05b8e6f8c93d0bca0d5010955e0f713e7e9d9f21977",
+   "bounds": [
+    2.920869,
+    44.068011,
+    4.057362,
+    45.015197
+   ],
+   "xz_size": 12569652,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 163417
+  },
+  {
+   "name": "fr049_context.db",
+   "label": "D049 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr049_context.db.xz",
+   "size": 419885056,
+   "sha256": "1338561593618fdb43c2bf0230411602c49daa4aab28dca39e3602c5b3f5ee9a",
+   "bounds": [
+    -1.418488,
+    46.924978,
+    0.299627,
+    47.854467
+   ],
+   "xz_size": 73657432,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 951513
+  },
+  {
+   "name": "fr050_context.db",
+   "label": "D050 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr050_context.db.xz",
+   "size": 290439168,
+   "sha256": "40c9068a57f08218a07c73a4d412f43fc896504a24883ee137016ae0b9718284",
+   "bounds": [
+    -1.947243,
+    48.410824,
+    -0.666739,
+    49.726836
+   ],
+   "xz_size": 52090160,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 681035
+  },
+  {
+   "name": "fr051_context.db",
+   "label": "D051 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr051_context.db.xz",
+   "size": 238178304,
+   "sha256": "d98ed95d032bf88c7a4a655bbb001f5ea5ec6be81b7162d55d3f3a0199436b4f",
+   "bounds": [
+    3.33309,
+    48.47059,
+    5.107816,
+    49.450608
+   ],
+   "xz_size": 41974816,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 560716
+  },
+  {
+   "name": "fr052_context.db",
+   "label": "D052 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr052_context.db.xz",
+   "size": 109785088,
+   "sha256": "0011ee516243712c67c9bc8b0aff77fc617709f8a1cf131239300f543f6b9c84",
+   "bounds": [
+    4.562949,
+    47.534477,
+    5.954384,
+    48.733449
+   ],
+   "xz_size": 19505012,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 251209
+  },
+  {
+   "name": "fr053_context.db",
+   "label": "D053 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr053_context.db.xz",
+   "size": 210898944,
+   "sha256": "89cb302418b54a8b3323cd35a80bed067e87ba32f48ba40c32c2eb9eae5b353b",
+   "bounds": [
+    -1.305347,
+    47.688589,
+    0.018681,
+    48.61211
+   ],
+   "xz_size": 37734788,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 485718
+  },
+  {
+   "name": "fr054_context.db",
+   "label": "D054 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr054_context.db.xz",
+   "size": 266891264,
+   "sha256": "adb05da5ba673440a6939129ef8d0ea84ac73cac39919f956b5fa317ce3708ac",
+   "bounds": [
+    5.358369,
+    48.30472,
+    7.190242,
+    49.566369
+   ],
+   "xz_size": 46543416,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 636748
+  },
+  {
+   "name": "fr055_context.db",
+   "label": "D055 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr055_context.db.xz",
+   "size": 121483264,
+   "sha256": "3e372525b42dfe5c63136c55b099b23354bc99418f37750426e1c0c27842e58c",
+   "bounds": [
+    4.821234,
+    48.365563,
+    5.920715,
+    49.635501
+   ],
+   "xz_size": 21704736,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 288187
+  },
+  {
+   "name": "fr056_context.db",
+   "label": "D056 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr056_context.db.xz",
+   "size": 391077888,
+   "sha256": "82f6217b0c7c0392a92d4ab9f2bd32be181ac9b022798891ce78fca4b603ce55",
+   "bounds": [
+    -3.80064,
+    47.282939,
+    -1.968719,
+    48.25577
+   ],
+   "xz_size": 69173004,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 882159
+  },
+  {
+   "name": "fr057_context.db",
+   "label": "D057 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr057_context.db.xz",
+   "size": 413290496,
+   "sha256": "176957d58f1d1a67427eccbfe18a6ed55e368071e6df3c199589b58bf0e0d83f",
+   "bounds": [
+    5.829214,
+    48.482626,
+    7.699861,
+    49.530325
+   ],
+   "xz_size": 71604080,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 1003819
+  },
+  {
+   "name": "fr058_context.db",
+   "label": "D058 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr058_context.db.xz",
+   "size": 151142400,
+   "sha256": "deb680a82b34c9c02ad71b90b8229dc10602ed788b6f710e2fd0a260664eb879",
+   "bounds": [
+    2.784126,
+    46.608069,
+    4.297836,
+    47.632766
+   ],
+   "xz_size": 27340336,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 364202
+  },
+  {
+   "name": "fr059_context.db",
+   "label": "D059 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr059_context.db.xz",
+   "size": 887369728,
+   "sha256": "f432da2ae1f29cbc5889e706a6334a30d820689ce88fb63f9197a9b1819f6c1e",
+   "bounds": [
+    2.020806,
+    49.924082,
+    4.231866,
+    51.087949
+   ],
+   "xz_size": 151331008,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 2012392
+  },
+  {
+   "name": "fr060_context.db",
+   "label": "D060 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr060_context.db.xz",
+   "size": 351764480,
+   "sha256": "8f7036e822939d8ed8422afc901cfce26554bb57884af3dd8509b26a8f1a057f",
+   "bounds": [
+    1.623033,
+    49.017308,
+    3.232179,
+    49.808696
+   ],
+   "xz_size": 62062984,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 841021
+  },
+  {
+   "name": "fr061_context.db",
+   "label": "D061 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr061_context.db.xz",
+   "size": 217145344,
+   "sha256": "8e9b7d3d6ddc88be303b3f071f2085d74dc90fa94d8f3d5b7561dddd69ac86ea",
+   "bounds": [
+    -0.92628,
+    48.134831,
+    1.043863,
+    49.0173
+   ],
+   "xz_size": 39360240,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 523571
+  },
+  {
+   "name": "fr062_context.db",
+   "label": "D062 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr062_context.db.xz",
+   "size": 643964928,
+   "sha256": "07c3fd6aa18b31736c4a95ed9c0886437e971829dc2444fcc92337fd4b8f5467",
+   "bounds": [
+    1.548896,
+    49.982879,
+    3.245159,
+    51.028879
+   ],
+   "xz_size": 111967480,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 1481507
+  },
+  {
+   "name": "fr063_context.db",
+   "label": "D063 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr063_context.db.xz",
+   "size": 304312320,
+   "sha256": "71b982ae84ede78b8d9bd8f274287e0ca8655e9866eb886a7668610cecd589c8",
+   "bounds": [
+    2.323754,
+    45.243426,
+    4.049186,
+    46.301164
+   ],
+   "xz_size": 54255712,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 720515
+  },
+  {
+   "name": "fr064_context.db",
+   "label": "D064 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr064_context.db.xz",
+   "size": 311599104,
+   "sha256": "3b0d1f4913361d1df7c737e0b2b69274593a0cb839a14b787f09cd6a8c97582b",
+   "bounds": [
+    -1.803355,
+    42.782011,
+    0.089317,
+    43.641023
+   ],
+   "xz_size": 54950252,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 722040
+  },
+  {
+   "name": "fr065_context.db",
+   "label": "D065 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr065_context.db.xz",
+   "size": 162914304,
+   "sha256": "e6f21406c0e6c9bb3fb368e819143c460e2487d0bd28520cec141feff65f6c88",
+   "bounds": [
+    -0.383734,
+    42.684507,
+    0.698898,
+    43.656955
+   ],
+   "xz_size": 28847816,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 391021
+  },
+  {
+   "name": "fr066_context.db",
+   "label": "D066 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr066_context.db.xz",
+   "size": 193425408,
+   "sha256": "fe27eeb31142ad562284e742ae02874a7a09950ed2d5894b4d4b224b39793f1a",
+   "bounds": [
+    1.730397,
+    42.346855,
+    3.175739,
+    42.963452
+   ],
+   "xz_size": 32856144,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 452256
+  },
+  {
+   "name": "fr067_context.db",
+   "label": "D067 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr067_context.db.xz",
+   "size": 397209600,
+   "sha256": "ee6aa363111624435350e335175ae3766a5f5147d7d4d0f477df892ceec0b70a",
+   "bounds": [
+    6.878916,
+    48.076701,
+    8.220741,
+    49.122762
+   ],
+   "xz_size": 68923092,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 947822
+  },
+  {
+   "name": "fr068_context.db",
+   "label": "D068 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr068_context.db.xz",
+   "size": 286445568,
+   "sha256": "de72bf35da4c4ad93a00d85f9ca69e4a3c6f0374ec6c074b989c0b5a2b07d71a",
+   "bounds": [
+    6.786758,
+    47.420125,
+    7.610557,
+    48.354883
+   ],
+   "xz_size": 49531184,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 688027
+  },
+  {
+   "name": "fr069_context.db",
+   "label": "D069 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr069_context.db.xz",
+   "size": 409767936,
+   "sha256": "e13f1f98bb2de1094d711cbf2f184f23bd745d42d897047058ed870fdd527fef",
+   "bounds": [
+    4.17902,
+    45.409397,
+    5.223768,
+    46.349578
+   ],
+   "xz_size": 70375992,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 911395
+  },
+  {
+   "name": "fr070_context.db",
+   "label": "D070 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr070_context.db.xz",
+   "size": 173125632,
+   "sha256": "93d70d6c15f1ce826c44440bad1e79f9ff0e984dfa2f6d3c56c27ebb5e302d8a",
+   "bounds": [
+    5.303093,
+    47.208254,
+    6.889302,
+    48.062021
+   ],
+   "xz_size": 30984452,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 411923
+  },
+  {
+   "name": "fr071_context.db",
+   "label": "D071 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr071_context.db.xz",
+   "size": 324366336,
+   "sha256": "522f1e8728162f1463573aeab3cd947a70ba852aad2d0d2d77827e9a6a26dd3a",
+   "bounds": [
+    3.558284,
+    46.111538,
+    5.528328,
+    47.200262
+   ],
+   "xz_size": 58321044,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 775427
+  },
+  {
+   "name": "fr072_context.db",
+   "label": "D072 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr072_context.db.xz",
+   "size": 286924800,
+   "sha256": "30d29e678368e90edde04f6a10d79b19038829cf8b9c88b130f70c26baaa030d",
+   "bounds": [
+    -0.511233,
+    47.523841,
+    0.984223,
+    48.528441
+   ],
+   "xz_size": 51337400,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 676769
+  },
+  {
+   "name": "fr073_context.db",
+   "label": "D073 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr073_context.db.xz",
+   "size": 192884736,
+   "sha256": "c4018a53e3c6161c0ed63b23270200622d3c4e803bfc62687a7db934264c7ec0",
+   "bounds": [
+    5.558023,
+    45.009243,
+    7.123182,
+    45.983438
+   ],
+   "xz_size": 34283864,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 453840
+  },
+  {
+   "name": "fr074_context.db",
+   "label": "D074 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr074_context.db.xz",
+   "size": 259223552,
+   "sha256": "c1cac24539f0da9dc0e874fb17b2eff2b0002c0ed47bcb68274b2a5c86ed7052",
+   "bounds": [
+    5.743034,
+    45.639153,
+    7.004915,
+    46.407991
+   ],
+   "xz_size": 45845080,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 608919
+  },
+  {
+   "name": "fr075_context.db",
+   "label": "D075 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr075_context.db.xz",
+   "size": 304762880,
+   "sha256": "39c12f288e2ff1b59f58974edbcc13c800fb409ed593f3f72d9cfd9d4b14fd90",
+   "bounds": [
+    2.156496,
+    48.769978,
+    2.538786,
+    48.948098
+   ],
+   "xz_size": 50157168,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 606303
+  },
+  {
+   "name": "fr076_context.db",
+   "label": "D076 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr076_context.db.xz",
+   "size": 443228160,
+   "sha256": "3e5598f1c3db5abe5b2e4cf202c8625b8b5b42ea1c48964f3b7e5e280dcaa9ed",
+   "bounds": [
+    0.06715,
+    49.206454,
+    1.858648,
+    50.113962
+   ],
+   "xz_size": 78268380,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 1057562
+  },
+  {
+   "name": "fr077_context.db",
+   "label": "D077 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr077_context.db.xz",
+   "size": 521596928,
+   "sha256": "b0ec9d7ed01c700bb3f7f60d22ca402a10af5d06071522652749e30bfc6863ab",
+   "bounds": [
+    2.326039,
+    48.07556,
+    3.624568,
+    49.157493
+   ],
+   "xz_size": 90616756,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 1224856
+  },
+  {
+   "name": "fr078_context.db",
+   "label": "D078 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr078_context.db.xz",
+   "size": 442662912,
+   "sha256": "41faad5e27e427c60729a02ff55668f2ddde4b17ce1b6e28c8cd2289585ab649",
+   "bounds": [
+    1.379725,
+    48.402098,
+    2.296628,
+    49.129858
+   ],
+   "xz_size": 76089388,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 1000376
+  },
+  {
+   "name": "fr079_context.db",
+   "label": "D079 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr079_context.db.xz",
+   "size": 281460736,
+   "sha256": "c87d68f5dbc8e73502d82d581dca356517cc062a325b190e5d805dbb6c1f9163",
+   "bounds": [
+    -0.969159,
+    45.93095,
+    0.285176,
+    47.153457
+   ],
+   "xz_size": 49467300,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 645309
+  },
+  {
+   "name": "fr080_context.db",
+   "label": "D080 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr080_context.db.xz",
+   "size": 343584768,
+   "sha256": "9023f60a233870a02d9b4cea6967334f5c85a08f31701a3d2c08c7c4f2fc9aa5",
+   "bounds": [
+    1.323363,
+    49.527195,
+    3.264428,
+    50.412704
+   ],
+   "xz_size": 60422136,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 827734
+  },
+  {
+   "name": "fr081_context.db",
+   "label": "D081 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr081_context.db.xz",
+   "size": 249999360,
+   "sha256": "12826d9f3c97186a8f9696dd1ab47743e42df4a5414b9dde5b65c3fe3a66aa2e",
+   "bounds": [
+    1.473006,
+    43.338458,
+    2.995048,
+    44.246011
+   ],
+   "xz_size": 44448132,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 601758
+  },
+  {
+   "name": "fr082_context.db",
+   "label": "D082 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr082_context.db.xz",
+   "size": 176254976,
+   "sha256": "0af17cc9c416e534a634b908fcc4014ec49669713660eaefa57c9299182219af",
+   "bounds": [
+    0.675176,
+    43.723341,
+    2.063141,
+    44.43876
+   ],
+   "xz_size": 31733776,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 424144
+  },
+  {
+   "name": "fr083_context.db",
+   "label": "D083 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr083_context.db.xz",
+   "size": 453226496,
+   "sha256": "e81b706f03987239d28c2741304f10b1590772c47fe3dbc89b3c18769f7374d7",
+   "bounds": [
+    5.598689,
+    42.982975,
+    6.973975,
+    43.853786
+   ],
+   "xz_size": 77574004,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 1039067
+  },
+  {
+   "name": "fr084_context.db",
+   "label": "D084 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr084_context.db.xz",
+   "size": 314343424,
+   "sha256": "b7745a9b56d90529c0eee54c9b03ec3faaf9f4fb7291bb49b96f5d279180be3d",
+   "bounds": [
+    4.586376,
+    43.614165,
+    5.819332,
+    44.473623
+   ],
+   "xz_size": 54550436,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 726630
+  },
+  {
+   "name": "fr085_context.db",
+   "label": "D085 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr085_context.db.xz",
+   "size": 462524416,
+   "sha256": "3039a1f8dd07c66e573e9e5e837255d57dd0c1149c6b89a73ac8d56164f54f59",
+   "bounds": [
+    -2.39972,
+    46.258706,
+    -0.473316,
+    47.129589
+   ],
+   "xz_size": 80570852,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 1019412
+  },
+  {
+   "name": "fr086_context.db",
+   "label": "D086 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr086_context.db.xz",
+   "size": 261271552,
+   "sha256": "7d2ced52a5f4b352a333e250b2bef809cf4eafd052a0610d43fef6c40042affe",
+   "bounds": [
+    -0.166152,
+    46.003537,
+    1.275431,
+    47.220758
+   ],
+   "xz_size": 46589116,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 617420
+  },
+  {
+   "name": "fr087_context.db",
+   "label": "D087 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr087_context.db.xz",
+   "size": 191868928,
+   "sha256": "2c898bbaeba50dea63984dddd64011959727880e81b7156e68dc04bc15d97c97",
+   "bounds": [
+    0.56599,
+    45.393185,
+    1.969258,
+    46.444681
+   ],
+   "xz_size": 34732112,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 463386
+  },
+  {
+   "name": "fr088_context.db",
+   "label": "D088 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr088_context.db.xz",
+   "size": 193662976,
+   "sha256": "6e78f37682eb4eb7735b996181bcde33449dc43558c5890a5162a46fab92df8c",
+   "bounds": [
+    5.329682,
+    47.768341,
+    7.265748,
+    48.556691
+   ],
+   "xz_size": 34855448,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 463463
+  },
+  {
+   "name": "fr089_context.db",
+   "label": "D089 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr089_context.db.xz",
+   "size": 214528000,
+   "sha256": "dd053d2a14ba4e193eb6529025ea2bd2058035578ebe8543427fab142f3cec60",
+   "bounds": [
+    2.782473,
+    47.266905,
+    4.400407,
+    48.437351
+   ],
+   "xz_size": 38321272,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 510481
+  },
+  {
+   "name": "fr090_context.db",
+   "label": "D090 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr090_context.db.xz",
+   "size": 68476928,
+   "sha256": "0bc0f6538a0da7bfffc7d153a5003425f7e53f2f05dff6fa9f44837d2ae618af",
+   "bounds": [
+    6.691553,
+    47.396011,
+    7.209091,
+    47.869333
+   ],
+   "xz_size": 12064040,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 161412
+  },
+  {
+   "name": "fr091_context.db",
+   "label": "D091 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr091_context.db.xz",
+   "size": 379097088,
+   "sha256": "f86addb5b13ec3851bb233d670dab127e1d03656bb2c48e0249f3dd583d0cfe6",
+   "bounds": [
+    1.848294,
+    48.239765,
+    2.653531,
+    48.821191
+   ],
+   "xz_size": 65108660,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 868214
+  },
+  {
+   "name": "fr092_context.db",
+   "label": "D092 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr092_context.db.xz",
+   "size": 340058112,
+   "sha256": "8cd5765bde7900fdcf2338d607a5ffa045cbc3a7e55ef8193c6ae89519306d6b",
+   "bounds": [
+    2.076815,
+    48.684273,
+    2.406001,
+    48.996289
+   ],
+   "xz_size": 56461988,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 696955
+  },
+  {
+   "name": "fr093_context.db",
+   "label": "D093 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr093_context.db.xz",
+   "size": 393392128,
+   "sha256": "90a6cdeae40109f0333b95c1aefaabe812e3f3daa329d72b94d621ad1caa0788",
+   "bounds": [
+    2.219585,
+    48.766185,
+    2.671523,
+    49.055937
+   ],
+   "xz_size": 65863188,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 846223
+  },
+  {
+   "name": "fr094_context.db",
+   "label": "D094 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr094_context.db.xz",
+   "size": 364421120,
+   "sha256": "adabb2e181cf1fc67a9be2e0761f3ea1ad9717823a394a53ba7c3057222f474f",
+   "bounds": [
+    2.242832,
+    48.641869,
+    2.684213,
+    48.906775
+   ],
+   "xz_size": 61108416,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 790223
+  },
+  {
+   "name": "fr095_context.db",
+   "label": "D095 bâtiments",
+   "url": "https://github.com/969flash/gorani-data/releases/download/fr/fr095_context.db.xz",
+   "size": 402538496,
+   "sha256": "f1b99a70e827de2a89bc154386403c223929064b6854504ee998e61116b6fb65",
+   "bounds": [
+    1.5405,
+    48.863547,
+    2.66383,
+    49.285241
+   ],
+   "xz_size": 69001064,
+   "year": 2026,
+   "date": "2026-09-15",
+   "buildings": 910454
+  }
+ ]
+}
