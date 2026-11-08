@@ -1,37 +1,42 @@
 {
  "update": {
-  "latest": "0.3.8",
-  "date": "2026-11-06",
+  "latest": "0.3.9",
+  "date": "2026-11-08",
   "items": {
    "ko": [
-    "Rhino 8: 3D 형상을 Brep(닫힌 폴리서피스)으로도 냅니다",
-    "해외 대상지: OSM 서버가 붐비면 잠시 기다렸다 다시 시도합니다",
-    "SketchUp Windows: 패널이 열리지 않던 문제를 고쳤습니다",
-    "최근 대상지를 목록에서 지울 수 있습니다"
+    "계단 지형의 단 테두리가 원본 등고선을 따라갑니다(격자 톱니·메워진 골짜기 고침). 매끈한 지형도 더 부드럽습니다",
+    "Rhino 8 Brep: 지형의 단 하나가 평면 면 하나로 나오고, 만드는 시간이 크게 줄었습니다",
+    "수면: 호수·저수지는 평평하게, 흐르는 물은 물가를 따라 기울게 만듭니다",
+    "Rhino 8·7: 업데이트 안내에서 [지금 업데이트]로 바로 설치합니다",
+    "최근 결과를 다시 열 수 있고, 구역을 여러 개 그려 하나로 합칠 수 있습니다"
    ],
    "en": [
-    "Rhino 8: 3D geometry can now be output as Brep (closed polysurfaces)",
-    "Overseas sites: retries after a short wait when the OSM server is busy",
-    "SketchUp Windows: fixed the panel not opening",
-    "You can remove recent sites from the list"
+    "Stepped terrain now follows the source contours (fixed grid-shaped teeth and filled-in valleys). Smooth terrain is smoother too",
+    "Rhino 8 Brep: each terrain step comes out as a single planar face, and it builds much faster",
+    "Water: lakes and reservoirs are flat, and flowing water slopes along its banks",
+    "Rhino 8 and 7: install right away with [Update now] in the update notice",
+    "You can reopen recent results, and draw several areas that merge into one"
    ],
    "es": [
-    "Rhino 8: la geometría 3D ahora puede salir como Brep (polisuperficies cerradas)",
-    "Sitios fuera de Corea: si el servidor de OSM está ocupado, espera y reintenta",
-    "SketchUp Windows: se corrigió que el panel no se abriera",
-    "Ahora puede quitar sitios recientes de la lista"
+    "El terreno escalonado ahora sigue las curvas de nivel originales (se corrigieron los dientes de la malla y los valles rellenados). El terreno suave también es más suave",
+    "Rhino 8 Brep: cada escalón del terreno sale como una sola cara plana y se genera mucho más rápido",
+    "Agua: lagos y embalses quedan planos, y el agua que fluye se inclina a lo largo de sus orillas",
+    "Rhino 8 y 7: instale de inmediato con [Actualizar ahora] en el aviso de actualización",
+    "Puede volver a abrir resultados recientes y dibujar varias áreas que se unen en una"
    ],
    "ja": [
-    "Rhino 8: 3D形状をBrep（閉じたポリサーフェス）でも出せます",
-    "海外の対象地: OSMサーバーが混雑しているときは少し待って再試行します",
-    "SketchUp Windows: パネルが開かない問題を直しました",
-    "最近の対象地を一覧から消せます"
+    "段々の地形の段の縁が元の等高線に沿うようになりました（格子状のギザギザと埋まった谷を修正）。なめらかな地形もより滑らかです",
+    "Rhino 8 Brep: 地形の段ひとつが平面ひとつで出て、作成時間が大きく短くなりました",
+    "水面: 湖・貯水池は平らに、流れる水は岸に沿って傾けて作ります",
+    "Rhino 8・7: 更新のお知らせの［今すぐ更新］ですぐにインストールできます",
+    "最近の結果を開き直せます。区域を複数描いて一つにまとめられます"
    ],
    "zh": [
-    "Rhino 8：3D几何现在可输出为Brep（封闭多重曲面）",
-    "海外场地：OSM 服务器繁忙时稍等后重试",
-    "SketchUp Windows：修复了面板无法打开的问题",
-    "可从列表中删除最近的场地"
+    "阶梯地形的台阶边缘现在沿原始等高线（修复了网格锯齿和被填平的山谷）。平滑地形也更平滑",
+    "Rhino 8 Brep：地形每一级台阶输出为一个平面，生成时间大幅缩短",
+    "水面：湖泊和水库保持平坦，流动的水沿岸边倾斜",
+    "Rhino 8 和 7：在更新提示中点击［立即更新］即可直接安装",
+    "可以重新打开最近的结果，也可以绘制多个区域并合并为一个"
    ]
   }
  },
@@ -4270,15 +4275,15 @@
    "name": "41111_site.db",
    "label": "경기도 수원시 장안구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41111_site.db.xz",
-   "size": 53096448,
-   "sha256": "78460d5632531b7dfb991a4b976a64a5344738882101ddbd794cf92409cc55cf",
+   "size": 52985856,
+   "sha256": "c1c8ab3f8f22e2364b11975677e5836cfb6cfac93fb7f3e9594ac3771d9c2eb9",
    "bounds": [
     196395.3,
     520495.1,
     203618.5,
     528135.3
    ],
-   "xz_size": 5745584
+   "xz_size": 5726604
   },
   {
    "name": "41111_terrain.db",
@@ -4312,15 +4317,15 @@
    "name": "41113_site.db",
    "label": "경기도 수원시 권선구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41113_site.db.xz",
-   "size": 83124224,
-   "sha256": "ecfe4c1ae4ec9a1a47d094c752283a28e1dc6131485a6b81d33d9f1202013e7f",
+   "size": 83111936,
+   "sha256": "51385e84e1de4e9b412d2ef9699d2c2a23732889da7e925056f354f92a3f196e",
    "bounds": [
     193434.8,
     513776.6,
     203895.2,
     522838.0
    ],
-   "xz_size": 9235852
+   "xz_size": 9222268
   },
   {
    "name": "41113_terrain.db",
@@ -4354,15 +4359,15 @@
    "name": "41115_site.db",
    "label": "경기도 수원시 팔달구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41115_site.db.xz",
-   "size": 54206464,
-   "sha256": "4de2be0b7ffe19eb4e9f939b5ee9b0ce5aa1eca0d40f0b23cff06c0920fdd06b",
+   "size": 54210560,
+   "sha256": "f4fb75949fbab34cfe0cdfa5a8b103c8c3a44b45e7908d70ef012d0cfd0f7906",
    "bounds": [
     197868.5,
     517368.6,
     204260.9,
     521781.2
    ],
-   "xz_size": 5598372
+   "xz_size": 5602252
   },
   {
    "name": "41115_terrain.db",
@@ -4397,14 +4402,14 @@
    "label": "경기도 수원시 영통구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41117_site.db.xz",
    "size": 32772096,
-   "sha256": "a829ba502aa0349ff42e6bc05526163d74f03fa93b77878ad1c1b72ec969650d",
+   "sha256": "26ec86d0e6311d2d39d5f83da25740a6ea61c07ae6029c46656f3ab4d331e533",
    "bounds": [
     202731.0,
     514520.0,
     208095.2,
     524679.4
    ],
-   "xz_size": 3560000
+   "xz_size": 3558168
   },
   {
    "name": "41117_terrain.db",
@@ -4438,15 +4443,15 @@
    "name": "41131_site.db",
    "label": "경기도 성남시 수정구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41131_site.db.xz",
-   "size": 84312064,
-   "sha256": "3e7c26996ed014e99695bec2b1537b16834a9d53d9fb5df63a3e2027872c94f2",
+   "size": 84353024,
+   "sha256": "e3938a0d2351abcb9185fa9f32fb524b0c7c13a7fe074d3b2577f7d19c3cc6f4",
    "bounds": [
     203538.7,
     532998.4,
     215791.2,
     541868.0
    ],
-   "xz_size": 8106512
+   "xz_size": 8131132
   },
   {
    "name": "41131_terrain.db",
@@ -4480,15 +4485,15 @@
    "name": "41133_site.db",
    "label": "경기도 성남시 중원구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41133_site.db.xz",
-   "size": 47960064,
-   "sha256": "f3ad357fc4d127d8b82ed479c2282ff2011593218c1238f46c22f7ddb7132a9b",
+   "size": 47935488,
+   "sha256": "d9673968ecc6017b84ece02e6b06b1e252a03c8df7827e7e02f4298d0b5687b4",
    "bounds": [
     210186.4,
     534118.6,
     217392.8,
     541846.6
    ],
-   "xz_size": 4517216
+   "xz_size": 4515644
   },
   {
    "name": "41133_terrain.db",
@@ -4522,15 +4527,15 @@
    "name": "41135_site.db",
    "label": "경기도 성남시 분당구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41135_site.db.xz",
-   "size": 51421184,
-   "sha256": "e988c7f68f84cae194213a039dd2c8aa1c21461d02ec12bfe91d7849424f291b",
+   "size": 51449856,
+   "sha256": "8399803c67a6f1c7d1872fdc537f75d9e2e4f437f6b0550a5db8975ce9e5b26c",
    "bounds": [
     202269.2,
     525870.8,
     215639.9,
     535518.2
    ],
-   "xz_size": 5290240
+   "xz_size": 5283764
   },
   {
    "name": "41135_terrain.db",
@@ -4564,15 +4569,15 @@
    "name": "41150_site.db",
    "label": "경기도 의정부시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41150_site.db.xz",
-   "size": 81690624,
-   "sha256": "d9d8c9cbf02559992613c14a1f8bc7cb7fb2a5004bdcd327c8ce28bb80b552ce",
+   "size": 83152896,
+   "sha256": "7e486ccb9e87f86eb8415950d87a6c023ab4e53563172650121f89d9f55d3ab1",
    "bounds": [
     199968.0,
     565018.0,
     212851.5,
     575497.7
    ],
-   "xz_size": 9978748
+   "xz_size": 10124952
   },
   {
    "name": "41150_terrain.db",
@@ -4606,15 +4611,15 @@
    "name": "41171_site.db",
    "label": "경기도 안양시 만안구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41171_site.db.xz",
-   "size": 47951872,
-   "sha256": "8a575cfa9268e9a312b53d7289068481386041639f4408edc88e6482474d448b",
+   "size": 48074752,
+   "sha256": "a28dd2114650fd2ae50f870149035877e44228647bc8249e37bacd90f31c56ac",
    "bounds": [
     188430.1,
     529649.4,
     195625.0,
     538487.4
    ],
-   "xz_size": 4925200
+   "xz_size": 4931940
   },
   {
    "name": "41171_terrain.db",
@@ -4648,15 +4653,15 @@
    "name": "41173_site.db",
    "label": "경기도 안양시 동안구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41173_site.db.xz",
-   "size": 27545600,
-   "sha256": "db570049f4c7282428b680d3ef5b76a2eb0e24cfe5f882ad27b5b70499521e9e",
+   "size": 27627520,
+   "sha256": "3599d7de019bd01cc28606adb5e2f3e21d0d271325784e81fbd017899fb85cbc",
    "bounds": [
     193396.7,
     528961.7,
     198627.2,
     537832.5
    ],
-   "xz_size": 2902108
+   "xz_size": 2901020
   },
   {
    "name": "41173_terrain.db",
@@ -4690,15 +4695,15 @@
    "name": "41192_site.db",
    "label": "경기도 부천시 원미구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41192_site.db.xz",
-   "size": 36728832,
-   "sha256": "a548be7db845423776c23581b459ccecd534f0c6f7e1162aff8c0d56cd16d6e9",
+   "size": 36724736,
+   "sha256": "7365ad58f7107e5bd85654bf6f6ffb549f3678f2acbe81c7b95240faab07d8e9",
    "bounds": [
     176970.9,
     542361.1,
     184329.9,
     547200.1
    ],
-   "xz_size": 4118912
+   "xz_size": 4118316
   },
   {
    "name": "41192_terrain.db",
@@ -4732,15 +4737,15 @@
    "name": "41194_site.db",
    "label": "경기도 부천시 소사구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41194_site.db.xz",
-   "size": 24899584,
-   "sha256": "8b71a96224df3380242477b584057034f04e7f3352c2b006b0c6c079137af8db",
+   "size": 24911872,
+   "sha256": "43baf29160e2c7dc4ed22982cbe54a61605446acb94ea740fdb35217eecf6a97",
    "bounds": [
     177024.0,
     539767.5,
     185472.8,
     543677.0
    ],
-   "xz_size": 2833220
+   "xz_size": 2830960
   },
   {
    "name": "41194_terrain.db",
@@ -4774,15 +4779,15 @@
    "name": "41196_site.db",
    "label": "경기도 부천시 오정구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41196_site.db.xz",
-   "size": 33652736,
-   "sha256": "46c2d2aeb8ea2457893372688e6add213b96cea6706594321301c7cc34574598",
+   "size": 33685504,
+   "sha256": "e334160a57151a60fc38169517f75a09b99e3b3b56de827dd08dff50c2c9105a",
    "bounds": [
     178593.4,
     544980.4,
     185016.4,
     550736.3
    ],
-   "xz_size": 3727020
+   "xz_size": 3728108
   },
   {
    "name": "41196_terrain.db",
@@ -4816,15 +4821,15 @@
    "name": "41210_site.db",
    "label": "경기도 광명시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41210_site.db.xz",
-   "size": 57425920,
-   "sha256": "d50d5d23109614dd8b480e8d120934ed1dfcf133f0c424a251d64fed2b4f8f68",
+   "size": 57376768,
+   "sha256": "b57fd137428da6ef9df94687d1a8c7333615302acb03434a8a2f6284f779845b",
    "bounds": [
     184437.3,
     533393.3,
     191309.9,
     544155.1
    ],
-   "xz_size": 6869980
+   "xz_size": 6856860
   },
   {
    "name": "41210_terrain.db",
@@ -4858,15 +4863,15 @@
    "name": "41220_site.db",
    "label": "경기도 평택시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41220_site.db.xz",
-   "size": 519585792,
-   "sha256": "753d1bd4a49cdeb5744fcd479bf8f9c02ed7af9cd30bb4db49e6525b05b1466e",
+   "size": 519675904,
+   "sha256": "d8971ca1e580b4398d43d9e1e67f3de06b2121b241bf981cfe2a8417c01fae29",
    "bounds": [
     180286.9,
     478456.2,
     213909.8,
     505213.9
    ],
-   "xz_size": 67995244
+   "xz_size": 68102320
   },
   {
    "name": "41220_terrain.db",
@@ -4900,15 +4905,15 @@
    "name": "41250_site.db",
    "label": "경기도 동두천시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41250_site.db.xz",
-   "size": 65925120,
-   "sha256": "858f20187b88c66409f736ab2cc38c0a1b8e54c13693c30debb7cdf30fae2357",
+   "size": 65880064,
+   "sha256": "1f94262713319bd219f9cad56f1fa53277b3131dae7f8d30009fd4579bd534f8",
    "bounds": [
     200411.7,
     584539.6,
     213477.4,
     597877.4
    ],
-   "xz_size": 8212104
+   "xz_size": 8217028
   },
   {
    "name": "41250_terrain.db",
@@ -4942,15 +4947,15 @@
    "name": "41271_site.db",
    "label": "경기도 안산시 상록구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41271_site.db.xz",
-   "size": 85921792,
-   "sha256": "bb4cc9adbaa68cbe48f286ea97a4103ae5d9067bdf46615bf214db4c006ccffb",
+   "size": 85716992,
+   "sha256": "643a9fff09819e719425885753314c09be874bdc0952173541f3f17d4c7a772f",
    "bounds": [
     183495.3,
     519081.6,
     194840.7,
     530879.9
    ],
-   "xz_size": 8981320
+   "xz_size": 8966064
   },
   {
    "name": "41271_terrain.db",
@@ -4984,15 +4989,15 @@
    "name": "41273_site.db",
    "label": "경기도 안산시 단원구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41273_site.db.xz",
-   "size": 115343360,
-   "sha256": "4018c0032a640e6cdd1400defe1492fe4f3c7cd5520fe6d8a0541b644ac3b4ff",
+   "size": 115212288,
+   "sha256": "2c7445b3d1e51f0ac3e83f878f697db763b7a03764fc1679ab8329c5edad03bc",
    "bounds": [
     144717.0,
     497646.3,
     186264.7,
     529784.9
    ],
-   "xz_size": 12440412
+   "xz_size": 12445864
   },
   {
    "name": "41273_terrain.db",
@@ -5026,15 +5031,15 @@
    "name": "41281_site.db",
    "label": "경기도 고양시 덕양구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41281_site.db.xz",
-   "size": 182648832,
-   "sha256": "86de0ad74413b13da275f395af229e582135ae65eb47e67b4384deead55c6aa6",
+   "size": 181370880,
+   "sha256": "a905c2811f2afb26e85d83b3e0c25f0d0979f0d2fc8572f919bd203885eab81a",
    "bounds": [
     179580.6,
     552792.1,
     199143.3,
     572150.1
    ],
-   "xz_size": 21329144
+   "xz_size": 21545536
   },
   {
    "name": "41281_terrain.db",
@@ -5068,15 +5073,15 @@
    "name": "41285_site.db",
    "label": "경기도 고양시 일산동구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41285_site.db.xz",
-   "size": 81149952,
-   "sha256": "c1b4c02680ab0a74401abb197bd834adc44485b0a4222ac5bd19add9c31a01ee",
+   "size": 81162240,
+   "sha256": "70fb6ee1c596b7ff5852b66a53f7401d50e85d58bbccfc3aa42cbbce3c4438e3",
    "bounds": [
     176573.2,
     558319.5,
     187427.2,
     570954.4
    ],
-   "xz_size": 9589232
+   "xz_size": 9592584
   },
   {
    "name": "41285_terrain.db",
@@ -5110,15 +5115,15 @@
    "name": "41287_site.db",
    "label": "경기도 고양시 일산서구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41287_site.db.xz",
-   "size": 43290624,
-   "sha256": "6c295e03846672568eec249b0f063522423a9a653fad7685db604699ccb1895b",
+   "size": 43302912,
+   "sha256": "bb7c5b17473c13af2579b9e36a5f5f9bcf8bfc6c6edb6b155c5f5164808d9768",
    "bounds": [
     171509.0,
     560992.9,
     180957.2,
     567699.7
    ],
-   "xz_size": 5070168
+   "xz_size": 5075060
   },
   {
    "name": "41287_terrain.db",
@@ -5152,15 +5157,15 @@
    "name": "41290_site.db",
    "label": "경기도 과천시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41290_site.db.xz",
-   "size": 32870400,
-   "sha256": "a85ba232be3d04c273c036553b3c2f7561af80855a7d73b1eec936fab98549aa",
+   "size": 32874496,
+   "sha256": "05224bd069f8e3c2db08626722d89690424e6f811cbaa3d33cad8e5d094bd5f8",
    "bounds": [
     196424.5,
     533335.9,
     203470.3,
     541002.2
    ],
-   "xz_size": 3671236
+   "xz_size": 3675224
   },
   {
    "name": "41290_terrain.db",
@@ -5195,14 +5200,14 @@
    "label": "경기도 구리시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41310_site.db.xz",
    "size": 50331648,
-   "sha256": "e6aacf1a185f0645d2355a19b7c48b50be9858a894c217bc3e5d6ef3ee8d6e37",
+   "sha256": "4c0a222abcccc34e45818abc44377a6447dc488987168925ba470c78d5f121be",
    "bounds": [
     208845.3,
     550837.4,
     215068.3,
     560927.0
    ],
-   "xz_size": 5204244
+   "xz_size": 5211704
   },
   {
    "name": "41310_terrain.db",
@@ -5236,15 +5241,15 @@
    "name": "41360_site.db",
    "label": "경기도 남양주시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41360_site.db.xz",
-   "size": 414031872,
-   "sha256": "c2ceffff153c16e789f4dc7c0ece7e84a34cc65dbceca78b0f12757095bbe050",
+   "size": 414490624,
+   "sha256": "b88df789461012b3dd9eed528f9102c4433f23de6d793f99ddd35d287bf5c428",
    "bounds": [
     207373.3,
     545769.7,
     233504.7,
     575240.4
    ],
-   "xz_size": 47997976
+   "xz_size": 48087448
   },
   {
    "name": "41360_terrain.db",
@@ -5278,15 +5283,15 @@
    "name": "41370_site.db",
    "label": "경기도 오산시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41370_site.db.xz",
-   "size": 68403200,
-   "sha256": "2a07e21a4b70ec239b01c5ef8e1a7966fbcf2fea76a75bac3ba9e3ef65da5400",
+   "size": 68345856,
+   "sha256": "322e15e47480567158fed5f20b2df76664399528cce6e8481396057f0aa6c4a1",
    "bounds": [
     199383.6,
     502742.2,
     209229.1,
     511501.0
    ],
-   "xz_size": 7937652
+   "xz_size": 7929560
   },
   {
    "name": "41370_terrain.db",
@@ -5320,15 +5325,15 @@
    "name": "41390_site.db",
    "label": "경기도 시흥시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41390_site.db.xz",
-   "size": 163659776,
-   "sha256": "2b2e73d8489ee1d0111924159454a72e933259eec4f6f61f906d8c7eb151ba37",
+   "size": 163844096,
+   "sha256": "ed8722f64bf12421547e5695d7f11b9d21208d3b33dde7214141ca637475af91",
    "bounds": [
     169204.2,
     523382.5,
     189499.8,
     541652.7
    ],
-   "xz_size": 19270788
+   "xz_size": 19259312
   },
   {
    "name": "41390_terrain.db",
@@ -5362,15 +5367,15 @@
    "name": "41410_site.db",
    "label": "경기도 군포시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41410_site.db.xz",
-   "size": 47104000,
-   "sha256": "200f5d03d81928899a21600160dd293f7051dffa7fb6f3a14d46bff9e77bb018",
+   "size": 47108096,
+   "sha256": "1ae3b1a098883b8602dd36e086a317f4607c1a9225f60c0a6121d11787daf6ec",
    "bounds": [
     188632.5,
     522689.2,
     196857.4,
     531236.6
    ],
-   "xz_size": 5087576
+   "xz_size": 5092104
   },
   {
    "name": "41410_terrain.db",
@@ -5404,15 +5409,15 @@
    "name": "41430_site.db",
    "label": "경기도 의왕시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41430_site.db.xz",
-   "size": 87871488,
-   "sha256": "1d462e870f4f71697478a951d15e0e603733b1c96b87a409584da0bfe106de64",
+   "size": 87449600,
+   "sha256": "78ad8cc70da18c8d5247399cf56888214c8f01e4705a6a24530d7d36ee86ebb2",
    "bounds": [
     193605.2,
     522149.9,
     203769.4,
     534988.2
    ],
-   "xz_size": 8494432
+   "xz_size": 8513448
   },
   {
    "name": "41430_terrain.db",
@@ -5446,15 +5451,15 @@
    "name": "41450_site.db",
    "label": "경기도 하남시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41450_site.db.xz",
-   "size": 125550592,
-   "sha256": "2c7c194c6d3be0d57dc1e4a181b2b1ed25b17eaccc870057b0d0a0e0e264cf6f",
+   "size": 125718528,
+   "sha256": "63809de7a913639f608e95b63afb0b900f2c1323d1cca46ffdaf4c0ed9b53861",
    "bounds": [
     212191.2,
     540860.5,
     225257.7,
     554256.1
    ],
-   "xz_size": 13008356
+   "xz_size": 13013024
   },
   {
    "name": "41450_terrain.db",
@@ -5488,15 +5493,15 @@
    "name": "41461_site.db",
    "label": "경기도 용인시 처인구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41461_site.db.xz",
-   "size": 474054656,
-   "sha256": "7ef281d5db90197041b817990c862fc2897ae12a758115a63af34745ee0d0833",
+   "size": 473980928,
+   "sha256": "6e9c4e28a0e09e537c6b6437d712d65c0c9c5f0f8e59848ca6e32589153bbf21",
    "bounds": [
     209478.5,
     498265.9,
     237989.6,
     529177.1
    ],
-   "xz_size": 56296796
+   "xz_size": 56241756
   },
   {
    "name": "41461_terrain.db",
@@ -5530,15 +5535,15 @@
    "name": "41463_site.db",
    "label": "경기도 용인시 기흥구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41463_site.db.xz",
-   "size": 93200384,
-   "sha256": "dd6c4a721317dec3458d70ba0762f5248f2d7a03d956f69f570ba49956fb24a2",
+   "size": 93188096,
+   "sha256": "960f8ab55fa4536f3a6fc567e56cd1f61c60e6c3318f32ae210d3429b437fa86",
    "bounds": [
     205530.8,
     512755.2,
     215821.0,
     525156.8
    ],
-   "xz_size": 10714584
+   "xz_size": 10718748
   },
   {
    "name": "41463_terrain.db",
@@ -5572,15 +5577,15 @@
    "name": "41465_site.db",
    "label": "경기도 용인시 수지구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41465_site.db.xz",
-   "size": 48332800,
-   "sha256": "5b4f4dc0fedb9a632d71619f03c4667e0ec28d935dc662b1027cfb6bbf71a56c",
+   "size": 48345088,
+   "sha256": "785c56da58851dc94b7d9348a0c8847468084eb0c5af3408f81a85807514b814",
    "bounds": [
     201761.0,
     521367.2,
     212776.8,
     530471.0
    ],
-   "xz_size": 5397324
+   "xz_size": 5385440
   },
   {
    "name": "41465_terrain.db",
@@ -5614,15 +5619,15 @@
    "name": "41480_site.db",
    "label": "경기도 파주시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41480_site.db.xz",
-   "size": 505147392,
-   "sha256": "1997c6af8d83d73ad3d6a494ce28b5a9a3009b25e3a29a60c625168d3a5dfc72",
+   "size": 505479168,
+   "sha256": "1950a3e22946ec6122e1009ca47ade46837f4f987d0498796384381d8be25a88",
    "bounds": [
     170704.9,
     565304.2,
     201620.2,
     601234.1
    ],
-   "xz_size": 63983336
+   "xz_size": 63988776
   },
   {
    "name": "41480_terrain.db",
@@ -5656,15 +5661,15 @@
    "name": "41500_site.db",
    "label": "경기도 이천시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41500_site.db.xz",
-   "size": 439635968,
-   "sha256": "30ef9ec222be04fc8cda4bc606131e1ba3074cace9f6b050f6a9dd4fbe80df6a",
+   "size": 439775232,
+   "sha256": "498b7e97527903b80adce7ef94e50e877fea4e0e14170a984071e1fe9ea054ea",
    "bounds": [
     229203.0,
     493599.4,
     256852.5,
     529263.3
    ],
-   "xz_size": 55287968
+   "xz_size": 55321528
   },
   {
    "name": "41500_terrain.db",
@@ -5698,15 +5703,15 @@
    "name": "41550_site.db",
    "label": "경기도 안성시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41550_site.db.xz",
-   "size": 481820672,
-   "sha256": "bf361a6b5f270fab88dcbd5aa8542070c5d31a0a03ab4473a26e17cecf6a8ce1",
+   "size": 482000896,
+   "sha256": "5bbece2cc6645cd65fd894cd269835d11ce9b3f28eb0c0d8bebcefe00e590f77",
    "bounds": [
     208910.8,
     477136.5,
     246076.0,
     506307.1
    ],
-   "xz_size": 62143136
+   "xz_size": 62213084
   },
   {
    "name": "41550_terrain.db",
@@ -5740,15 +5745,15 @@
    "name": "41570_site.db",
    "label": "경기도 김포시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41570_site.db.xz",
-   "size": 336908288,
-   "sha256": "89d2f43848f0ce216425b8488c41ec3c60bb746d80dd899e902d412bea406e57",
+   "size": 336965632,
+   "sha256": "e6a5db45be34e90c7b08cb9c32880d07317f3394f5ccf5474438aca5063d1808",
    "bounds": [
     157373.2,
     553198.9,
     182638.0,
     575801.5
    ],
-   "xz_size": 38272552
+   "xz_size": 38375640
   },
   {
    "name": "41570_terrain.db",
@@ -5782,15 +5787,15 @@
    "name": "41591_site.db",
    "label": "경기도 화성시 만세구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41591_site.db.xz",
-   "size": 522043392,
-   "sha256": "8edc5b766aad20da0d44fd1a5a3ad8974da78dc6586dec296cfb19087e9a1fb6",
+   "size": 521674752,
+   "sha256": "6cedd715411f6f6aa7d47ee7f2f70d451e97c911f127713e67adfbc2a1565162",
    "bounds": [
     157905.6,
     490462.1,
     200217.8,
     522900.4
    ],
-   "xz_size": 69782748
+   "xz_size": 69806184
   },
   {
    "name": "41591_terrain.db",
@@ -5824,15 +5829,15 @@
    "name": "41593_site.db",
    "label": "경기도 화성시 효행구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41593_site.db.xz",
-   "size": 200204288,
-   "sha256": "59cb952e7791e66881bd2b63b8a70e9d0c9a16269998e660a40e5725c24be07d",
+   "size": 200183808,
+   "sha256": "e926353f580ff3821a5115f748b201599e14d423f9ed94d036b4fbe928b5ab7b",
    "bounds": [
     184199.4,
     502648.3,
     203359.1,
     521477.1
    ],
-   "xz_size": 25499468
+   "xz_size": 25487676
   },
   {
    "name": "41593_terrain.db",
@@ -5866,15 +5871,15 @@
    "name": "41595_site.db",
    "label": "경기도 화성시 병점구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41595_site.db.xz",
-   "size": 48959488,
-   "sha256": "d523d5add26a5d53acb1471317a6f3f4111959fa31b8e6b8be3cf9e9db11dccc",
+   "size": 48926720,
+   "sha256": "915d4e94602054e0f36de389d78261be83d70746dd5afb4f0f62f63875c51958",
    "bounds": [
     197966.9,
     509443.4,
     206916.1,
     515866.2
    ],
-   "xz_size": 5786696
+   "xz_size": 5795844
   },
   {
    "name": "41595_terrain.db",
@@ -5908,15 +5913,15 @@
    "name": "41597_site.db",
    "label": "경기도 화성시 동탄구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41597_site.db.xz",
-   "size": 47706112,
-   "sha256": "bb78125240c518d0abe81bf4c3c4773ceb05abc5f306a4b0e6ea4cc22a0bf600",
+   "size": 47411200,
+   "sha256": "c9b50a2883468e3c7ebf4b7ff690de0e09c566808051de3a6610828d8df0786d",
    "bounds": [
     204244.6,
     504703.3,
     214380.7,
     514264.1
    ],
-   "xz_size": 5222568
+   "xz_size": 5206384
   },
   {
    "name": "41597_terrain.db",
@@ -5950,15 +5955,15 @@
    "name": "41610_site.db",
    "label": "경기도 광주시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41610_site.db.xz",
-   "size": 428601344,
-   "sha256": "e2004b42b99b3c67d5c7b0c0c6a10444a9a9ef8cb1010d710c6f39e53e3066eb",
+   "size": 428888064,
+   "sha256": "5ce5a1de011e92b2ca6c4e72ab08266a84401461fecd24e0d72005bdad7c461c",
    "bounds": [
     211684.1,
     518320.4,
     239741.1,
     548536.1
    ],
-   "xz_size": 48097968
+   "xz_size": 48223340
   },
   {
    "name": "41610_terrain.db",
@@ -5992,15 +5997,15 @@
    "name": "41630_site.db",
    "label": "경기도 양주시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41630_site.db.xz",
-   "size": 264028160,
-   "sha256": "35fe6bbdb090fda059d5499cb94d2d7eaca9bb51c5eaeba217e40a18f4c014ff",
+   "size": 264134656,
+   "sha256": "803adabb87175af5362ea4d46a5bbbd1a4bccda8e3176589a9bc78122b7842b1",
    "bounds": [
     191379.8,
     563072.9,
     210766.7,
     593384.5
    ],
-   "xz_size": 33187704
+   "xz_size": 33204800
   },
   {
    "name": "41630_terrain.db",
@@ -6034,15 +6039,15 @@
    "name": "41650_site.db",
    "label": "경기도 포천시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41650_site.db.xz",
-   "size": 467206144,
-   "sha256": "4103e53a5956bdfb01d42fd775ada30feb9896cea5022e9ce97b7d49cbd30ef9",
+   "size": 467267584,
+   "sha256": "3c2570dcc9c5fb974ed4be47e2ff0fb1690bd52f813b1101d744e0af1f59735f",
    "bounds": [
     207726.8,
     572097.3,
     238591.9,
     621109.5
    ],
-   "xz_size": 57587832
+   "xz_size": 57451044
   },
   {
    "name": "41650_terrain.db",
@@ -6076,15 +6081,15 @@
    "name": "41670_site.db",
    "label": "경기도 여주시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41670_site.db.xz",
-   "size": 452780032,
-   "sha256": "a283222b26166ae8480a1bdea72ac2aae7e27928c6ae190574b36170b8f7e3b6",
+   "size": 452993024,
+   "sha256": "5b36f5290701c84aa6968edd76553c2764af23636f987173d552ec7f3bbce282",
    "bounds": [
     235049.8,
     504316.7,
     268317.5,
     538042.7
    ],
-   "xz_size": 57378236
+   "xz_size": 57600260
   },
   {
    "name": "41670_terrain.db",
@@ -6118,15 +6123,15 @@
    "name": "41800_site.db",
    "label": "경기도 연천군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41800_site.db.xz",
-   "size": 273612800,
-   "sha256": "58f17b7cf2768c8f7a0affd5ce10c89e57e042e3a9057073455e8b118182b487",
+   "size": 273678336,
+   "sha256": "26c669a7edec57549d0c86a1c20347bd013fdb839459df42aa1eb270e954e5c8",
    "bounds": [
     181017.5,
     591879.5,
     216806.3,
     631336.9
    ],
-   "xz_size": 37555544
+   "xz_size": 37582312
   },
   {
    "name": "41800_terrain.db",
@@ -6160,15 +6165,15 @@
    "name": "41820_site.db",
    "label": "경기도 가평군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41820_site.db.xz",
-   "size": 299606016,
-   "sha256": "6b00575222ebe111e7c351b3807bcba080d4372cfd1e53a320c11f225c8c7833",
+   "size": 299806720,
+   "sha256": "e4dd2faede51362b809230bf662104414badab6e2f44e79ee7282fa5fe4be06d",
    "bounds": [
     223863.1,
     553220.7,
     253877.0,
     605262.5
    ],
-   "xz_size": 39836652
+   "xz_size": 39955272
   },
   {
    "name": "41820_terrain.db",
@@ -6202,15 +6207,15 @@
    "name": "41830_site.db",
    "label": "경기도 양평군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/41830_site.db.xz",
-   "size": 602226688,
-   "sha256": "a66cabe018a554f1ab4720d3c805a53ff95b17b13bf140828ba62e85b5afdca3",
+   "size": 602509312,
+   "sha256": "140f8694829a84b919917653be332e569a29ed22d20c60481eaf5a18d7abcd92",
    "bounds": [
     226957.9,
     530016.3,
     274409.8,
     562763.0
    ],
-   "xz_size": 72402268
+   "xz_size": 72374056
   },
   {
    "name": "41830_terrain.db",
@@ -7504,15 +7509,15 @@
    "name": "47111_site.db",
    "label": "경상북도 포항시 남구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47111_site.db.xz",
-   "size": 259444736,
-   "sha256": "163cbbd2dd8a2deedf0058112c18e866b4be9567b912b80b91d6a02f33a45e23",
+   "size": 260452352,
+   "sha256": "b122f0ed28f0563d63de50632d39c1272222fd774bc951ded1ff6b0cf3eac139",
    "bounds": [
     405104.6,
     362911.4,
     433126.6,
     391404.4
    ],
-   "xz_size": 34451972
+   "xz_size": 34564400
   },
   {
    "name": "47111_terrain.db",
@@ -7546,15 +7551,15 @@
    "name": "47113_site.db",
    "label": "경상북도 포항시 북구 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47113_site.db.xz",
-   "size": 352456704,
-   "sha256": "617a93e734f234a4be371be8fdbf1c2289d3b2bf88d1d2c357bcddb9619b0d83",
+   "size": 353161216,
+   "sha256": "1ea5ef3bfcc3b40e6679b859095144512d415671d3d80a3189c697cae22c9ac5",
    "bounds": [
     379532.8,
     382004.0,
     422118.3,
     417432.6
    ],
-   "xz_size": 48317780
+   "xz_size": 48365108
   },
   {
    "name": "47113_terrain.db",
@@ -7588,15 +7593,15 @@
    "name": "47130_site.db",
    "label": "경상북도 경주시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47130_site.db.xz",
-   "size": 725598208,
-   "sha256": "cf951af07553bcc12bab80182423cfdb5fff4916d53c02a54081804afb8f3356",
+   "size": 725798912,
+   "sha256": "e312324e99a870bcb0b07a6de67eca592fe546e150065e68e2c4d134af62b64e",
    "bounds": [
     378191.9,
     340536.0,
     427906.4,
     389291.6
    ],
-   "xz_size": 102811860
+   "xz_size": 102882676
   },
   {
    "name": "47130_terrain.db",
@@ -7630,15 +7635,15 @@
    "name": "47150_site.db",
    "label": "경상북도 김천시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47150_site.db.xz",
-   "size": 518119424,
-   "sha256": "ceb1f32e5e3f44cbfb76c0cf8085c746f23a180c7adbb7ef764807ef7f09c412",
+   "size": 520908800,
+   "sha256": "a34f54f006e449f3a93133fb02e9dc25154b572b49f88ac529ccd309154b1d4d",
    "bounds": [
     279543.5,
     360408.5,
     317377.6,
     407449.2
    ],
-   "xz_size": 74411144
+   "xz_size": 74832960
   },
   {
    "name": "47150_terrain.db",
@@ -7672,15 +7677,15 @@
    "name": "47170_site.db",
    "label": "경상북도 안동시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47170_site.db.xz",
-   "size": 574611456,
-   "sha256": "795560e58cc2e659a820703229413e38ed57538c01f7e6787665247d9fa17b95",
+   "size": 574681088,
+   "sha256": "638b9c3d755c5870aafc72f73f2f2b7c419485012a5826fa7a34d88455fe22e9",
    "bounds": [
     327922.6,
     412490.6,
     379143.0,
     470737.2
    ],
-   "xz_size": 85883980
+   "xz_size": 85805060
   },
   {
    "name": "47170_terrain.db",
@@ -7714,15 +7719,15 @@
    "name": "47190_site.db",
    "label": "경상북도 구미시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47190_site.db.xz",
-   "size": 363155456,
-   "sha256": "f6c21b4fed203b7487e44ea824a16d43d417d37956fdece91006337192887085",
+   "size": 363372544,
+   "sha256": "356218277a2f6cb642dfe77f03018a1791f078efac0e5a6c98e33f3b62991dd1",
    "bounds": [
     301819.3,
     385615.9,
     340974.2,
     419008.1
    ],
-   "xz_size": 49359392
+   "xz_size": 49351788
   },
   {
    "name": "47190_terrain.db",
@@ -7756,15 +7761,15 @@
    "name": "47210_site.db",
    "label": "경상북도 영주시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47210_site.db.xz",
-   "size": 363290624,
-   "sha256": "2ecc38d8c7498f149b1f8669bcaea2c04c9a7d2df94b2887653eeeef09317cea",
+   "size": 363347968,
+   "sha256": "e694ff01b2566802d8da77fdbede6e530f47918d6d1f8d0e7d7e0d1743986e13",
    "bounds": [
     327854.8,
     456514.3,
     355779.2,
     496615.0
    ],
-   "xz_size": 53324552
+   "xz_size": 53336468
   },
   {
    "name": "47210_terrain.db",
@@ -7798,15 +7803,15 @@
    "name": "47230_site.db",
    "label": "경상북도 영천시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47230_site.db.xz",
-   "size": 501391360,
-   "sha256": "a0bc1656ec242127b59df45132cad48e45bbbba3a9c5825a64469bbb042f3ea3",
+   "size": 501768192,
+   "sha256": "747e3793d20a150f61e64914bc878c3708b6cb2945b119572e53f741ded59422",
    "bounds": [
     352777.9,
     360869.7,
     393626.0,
     400228.5
    ],
-   "xz_size": 72688828
+   "xz_size": 72696096
   },
   {
    "name": "47230_terrain.db",
@@ -7840,15 +7845,15 @@
    "name": "47250_site.db",
    "label": "경상북도 상주시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47250_site.db.xz",
-   "size": 567750656,
-   "sha256": "6b5031871c1d602b98ae3fa44e6dfc297025d8d7ab5af81f582fbace59293686",
+   "size": 567746560,
+   "sha256": "a9ca040efced5c73e5a9c6268547ccd21d9bac59249b14fb6802bd3a02ae0924",
    "bounds": [
     271061.9,
     404866.3,
     320249.9,
     451464.0
    ],
-   "xz_size": 81623628
+   "xz_size": 81606904
   },
   {
    "name": "47250_terrain.db",
@@ -7882,15 +7887,15 @@
    "name": "47280_site.db",
    "label": "경상북도 문경시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47280_site.db.xz",
-   "size": 327479296,
-   "sha256": "1828f3d540659b01f89d725f490e9a49618a95dcf3fe79808ca5e3d5cf9e47ce",
+   "size": 327745536,
+   "sha256": "cbb23fa37056eb7fb77ce3f45f41dbe08685afca3e652b64f4c49703fe5f1f0c",
    "bounds": [
     278243.3,
     435600.1,
     322438.2,
     475763.8
    ],
-   "xz_size": 45699460
+   "xz_size": 45767356
   },
   {
    "name": "47280_terrain.db",
@@ -7924,15 +7929,15 @@
    "name": "47290_site.db",
    "label": "경상북도 경산시 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47290_site.db.xz",
-   "size": 326004736,
-   "sha256": "de369eafa61b907dce123694a44d8673b2c3cf9dd29b608f47505dcd8008956f",
+   "size": 325963776,
+   "sha256": "4dd9add8b1ea6e35947dfaa0bb00e876667c9894283b93b3140a39ba4790f0cf",
    "bounds": [
     351887.0,
     346052.4,
     378141.0,
     378441.4
    ],
-   "xz_size": 45722000
+   "xz_size": 45683232
   },
   {
    "name": "47290_terrain.db",
@@ -7966,15 +7971,15 @@
    "name": "47730_site.db",
    "label": "경상북도 의성군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47730_site.db.xz",
-   "size": 570052608,
-   "sha256": "39b54190be14118b60bd9bd5c4801a1a4c74ffd1c8b4b514b16304b9647ba67e",
+   "size": 570220544,
+   "sha256": "21a94d5ec1c24e2c73b720fc982c372c715c3aa4ba033bf295902c6954ef9a24",
    "bounds": [
     315557.1,
     400890.7,
     370725.5,
     437990.4
    ],
-   "xz_size": 84337400
+   "xz_size": 84233092
   },
   {
    "name": "47730_terrain.db",
@@ -8008,15 +8013,15 @@
    "name": "47750_site.db",
    "label": "경상북도 청송군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47750_site.db.xz",
-   "size": 268926976,
-   "sha256": "fc01f5d5588eaee847ac728f22134d680d18767a8e002243f490085a713e2501",
+   "size": 269058048,
+   "sha256": "55111f5d83162164639812b2c3b79ae554fcfc906f09aaa9c59998fd86622653",
    "bounds": [
     366233.8,
     397846.5,
     402556.8,
     445844.6
    ],
-   "xz_size": 38122536
+   "xz_size": 38167128
   },
   {
    "name": "47750_terrain.db",
@@ -8050,15 +8055,15 @@
    "name": "47760_site.db",
    "label": "경상북도 영양군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47760_site.db.xz",
-   "size": 205762560,
-   "sha256": "391ace363fd6009e0038774e2ad227508c8c4f11b9b44921cd6dcd594ae9b091",
+   "size": 205742080,
+   "sha256": "a7be57e4590b97acb165926f5aebb2aded53edb8a3a6a9158d89ef5c0599ee50",
    "bounds": [
     377226.7,
     434576.8,
     405336.1,
     477722.4
    ],
-   "xz_size": 29527564
+   "xz_size": 29526536
   },
   {
    "name": "47760_terrain.db",
@@ -8092,15 +8097,15 @@
    "name": "47770_site.db",
    "label": "경상북도 영덕군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47770_site.db.xz",
-   "size": 261767168,
-   "sha256": "e5096cc5e9276309e820871fc842cf85a0a57297902d58741cc2260e7a7d04b1",
+   "size": 261783552,
+   "sha256": "63779e792e9b2609f8328c6acf1fb1d360198ae5e539aa882de0fc1b4d9cd9f1",
    "bounds": [
     392476.2,
     410060.3,
     419899.3,
     454984.4
    ],
-   "xz_size": 36797372
+   "xz_size": 36865828
   },
   {
    "name": "47770_terrain.db",
@@ -8134,15 +8139,15 @@
    "name": "47820_site.db",
    "label": "경상북도 청도군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47820_site.db.xz",
-   "size": 366899200,
-   "sha256": "45574a91847cf8e58f9a3765ebd61c671ea7684b7d0a09d5c6f6e7aa14731489",
+   "size": 366985216,
+   "sha256": "46cdf5b3cd4804f2e60b3c08493b910c058aeba88d2df8d3da86fe8bcbe26fb9",
    "bounds": [
     338269.7,
     331334.8,
     385048.7,
     362630.7
    ],
-   "xz_size": 52964364
+   "xz_size": 52885040
   },
   {
    "name": "47820_terrain.db",
@@ -8176,15 +8181,15 @@
    "name": "47830_site.db",
    "label": "경상북도 고령군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47830_site.db.xz",
-   "size": 225574912,
-   "sha256": "c3c76ceaf1e3eadfcb0fd7243fa31b2c5ba00a3ec9e83c4bc46c4a6c99b1018c",
+   "size": 225599488,
+   "sha256": "8b37906d057f0242146c8ff9ac1b784ad81eebc487c23bb7bf1a1d6f00e4f0b2",
    "bounds": [
     304800.5,
     336007.5,
     333448.1,
     362648.9
    ],
-   "xz_size": 31163572
+   "xz_size": 31168024
   },
   {
    "name": "47830_terrain.db",
@@ -8218,15 +8223,15 @@
    "name": "47840_site.db",
    "label": "경상북도 성주군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47840_site.db.xz",
-   "size": 355487744,
-   "sha256": "9961a2a2418922f3eac9edb377296beb4cabe799edd38cdc1d25d3c54c93f9ae",
+   "size": 355414016,
+   "sha256": "89bf1999c90b477fc16ae24830754b219fae0a5ac8c0bf7b93df11e17645b57b",
    "bounds": [
     294427.0,
     353872.2,
     326466.2,
     384945.1
    ],
-   "xz_size": 50019820
+   "xz_size": 49853544
   },
   {
    "name": "47840_terrain.db",
@@ -8260,15 +8265,15 @@
    "name": "47850_site.db",
    "label": "경상북도 칠곡군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47850_site.db.xz",
-   "size": 282071040,
-   "sha256": "8b65b26f933b679e4f7a2387487415ed2f10f2afff284c5dfe90e73a9a52928f",
+   "size": 280928256,
+   "sha256": "d0621e8bebd17076cdea4eb22cf90e888c80aab814f02075fa369572b0636253",
    "bounds": [
     316022.9,
     366407.2,
     347416.4,
     393225.8
    ],
-   "xz_size": 38729600
+   "xz_size": 38559564
   },
   {
    "name": "47850_terrain.db",
@@ -8302,15 +8307,15 @@
    "name": "47900_site.db",
    "label": "경상북도 예천군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47900_site.db.xz",
-   "size": 379031552,
-   "sha256": "72c049154b7f40629a2d21a4ad5927cd0de46046a7223f3b5e72d22b394358bc",
+   "size": 379056128,
+   "sha256": "fbe89a838934f8da1bb8e806c067dc37967c5089de42eda04dfcf91f685d93e9",
    "bounds": [
     312620.9,
     429089.2,
     343977.9,
     472927.3
    ],
-   "xz_size": 56270868
+   "xz_size": 56310800
   },
   {
    "name": "47900_terrain.db",
@@ -8344,15 +8349,15 @@
    "name": "47920_site.db",
    "label": "경상북도 봉화군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47920_site.db.xz",
-   "size": 296796160,
-   "sha256": "6d36a6d366546c3c0e7a167a442e6ab294a4286cf10ce271f426f22e3fe1520c",
+   "size": 296857600,
+   "sha256": "5572070c911da8bc1bcf5a566697a8933da853fa8df1011b9d17649adfe53c34",
    "bounds": [
     345956.4,
     462651.8,
     392525.2,
     501670.0
    ],
-   "xz_size": 43995996
+   "xz_size": 43937084
   },
   {
    "name": "47920_terrain.db",
@@ -8386,15 +8391,15 @@
    "name": "47930_site.db",
    "label": "경상북도 울진군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47930_site.db.xz",
-   "size": 261922816,
-   "sha256": "48b758462a5293760c50c0c14fe6f9806baf770ab9c6b02decae9f922e177c89",
+   "size": 261943296,
+   "sha256": "50ff7878a5d4f53c99bf03b9956242b24e4b302c3f2c75a6d1ec8750e661a4b2",
    "bounds": [
     384902.1,
     452003.7,
     421483.2,
     508010.3
    ],
-   "xz_size": 37248016
+   "xz_size": 37306332
   },
   {
    "name": "47930_terrain.db",
@@ -8429,14 +8434,14 @@
    "label": "경상북도 울릉군 필지",
    "url": "https://github.com/969flash/gorani-data/releases/download/kr/47940_site.db.xz",
    "size": 29331456,
-   "sha256": "58585e83ebdb07044d211270a0a4ac754e8aba62867bebdbfe730eb654f96e6f",
+   "sha256": "2ffa5683b799839e6673c5a77a60c7cf79b4c239565a7f215f707991b60564f4",
    "bounds": [
     535233.1,
     546648.5,
     638858.3,
     557743.3
    ],
-   "xz_size": 4094664
+   "xz_size": 4097796
   },
   {
    "name": "47940_terrain.db",
