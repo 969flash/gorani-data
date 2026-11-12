@@ -1,6 +1,6 @@
 # Gorani data packs
 
-Regional SQLite packs (xz-compressed) used by the [Gorani](https://969flash.github.io/gorani/) plugin for Rhino, Blender and SketchUp.
+Regional SQLite packs (xz-compressed) used by the [Gorani](https://gorani.site/) plugin for Rhino, Blender and SketchUp.
 The plugin downloads only the packs that cover the site the user picks, when the user starts that action.
 
 - Each release holds the packs of one folder: `data` (Korean parcel packs + `manifest.json`), `data/jp`, `data/nl`, `data/fr`, `data/ch`, `data/us`
