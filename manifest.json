@@ -139,21 +139,21 @@
   }
  ],
  "services": {},
- "version": "2026-11-08",
+ "version": "2026-11-13",
  "packs": [
   {
    "name": "11110_context.db",
    "label": "서울특별시 종로구 건물·도로·수계",
    "url": "http://150.230.249.1/11110_context.db.xz",
-   "size": 41512960,
-   "sha256": "32b1f071ebb0641400e2725f37b27c1291d7cfceac1b69d66202154eda01e20e",
+   "size": 46473216,
+   "sha256": "0ef7f80eb797e47cba8cf5b4fac7ab2e15e4d40584c481f52fcec848168a12ca",
    "bounds": [
     195455.4,
     551653.1,
     202254.6,
     559295.7
    ],
-   "xz_size": 7558872
+   "xz_size": 8346608
   },
   {
    "name": "11110_site.db",
@@ -187,15 +187,15 @@
    "name": "11140_context.db",
    "label": "서울특별시 중구 건물·도로·수계",
    "url": "http://150.230.249.1/11140_context.db.xz",
-   "size": 26464256,
-   "sha256": "e97b297519b185c9198fb2a38c871d1859b17c93579d74378abf7e75008a888f",
+   "size": 32743424,
+   "sha256": "cfb6c0d93d8cc4d6633d2fa3d8266a21b95f8dc8dffaddb91be094710b5ccb3b",
    "bounds": [
     196416.5,
     549231.0,
     202564.5,
     552661.2
    ],
-   "xz_size": 4807136
+   "xz_size": 5803996
   },
   {
    "name": "11140_site.db",
@@ -229,15 +229,15 @@
    "name": "11170_context.db",
    "label": "서울특별시 용산구 건물·도로·수계",
    "url": "http://150.230.249.1/11170_context.db.xz",
-   "size": 35344384,
-   "sha256": "1f2e3626696379f71cc1a7764a9b03608abe481f6847a265adb9a468f57e5dc1",
+   "size": 41828352,
+   "sha256": "4b1064a11da56c074123ad10c7003c927927c1ddefbebdcd6dc6c6e93cd8be64",
    "bounds": [
     194934.8,
     545034.5,
     201671.4,
     550835.3
    ],
-   "xz_size": 6730936
+   "xz_size": 7645728
   },
   {
    "name": "11170_site.db",
@@ -271,15 +271,15 @@
    "name": "11200_context.db",
    "label": "서울특별시 성동구 건물·도로·수계",
    "url": "http://150.230.249.1/11200_context.db.xz",
-   "size": 30674944,
-   "sha256": "58c545a5bc2ae7ec4f4f4898a6da40c137dab1dd4ed3b50bdd6ea48c6c8117bf",
+   "size": 36843520,
+   "sha256": "61ef8bda8b19eb56daac8cf86bcfcaa045305627e17c0db41929517909f85c94",
    "bounds": [
     200554.6,
     547577.0,
     206670.5,
     552800.4
    ],
-   "xz_size": 5838016
+   "xz_size": 6611260
   },
   {
    "name": "11200_site.db",
@@ -313,15 +313,15 @@
    "name": "11215_context.db",
    "label": "서울특별시 광진구 건물·도로·수계",
    "url": "http://150.230.249.1/11215_context.db.xz",
-   "size": 37834752,
-   "sha256": "5b6597ae511d7007bb4e522e997b50346cd763156c525eaf0dc4ff174ec84527",
+   "size": 43212800,
+   "sha256": "bf2fe10cec7a9226dfb45071fa752f187e00509e40851217b319bb043e3da195",
    "bounds": [
     204985.2,
     547039.5,
     210325.4,
     552673.5
    ],
-   "xz_size": 7006836
+   "xz_size": 7833104
   },
   {
    "name": "11215_site.db",
@@ -355,15 +355,15 @@
    "name": "11230_context.db",
    "label": "서울특별시 동대문구 건물·도로·수계",
    "url": "http://150.230.249.1/11230_context.db.xz",
-   "size": 41840640,
-   "sha256": "b7f3c27ce7cfb4fa2ed9fc6e41d7d7506bab22de27cc67c20ea4047ed98700d7",
+   "size": 48631808,
+   "sha256": "ecf7195955fca6c31d38aec7e107bb5a8f423f7859ea3101a8a36ed18276d8e0",
    "bounds": [
     201845.6,
     550967.2,
     207071.7,
     556628.8
    ],
-   "xz_size": 7869668
+   "xz_size": 8957416
   },
   {
    "name": "11230_site.db",
@@ -397,15 +397,15 @@
    "name": "11260_context.db",
    "label": "서울특별시 중랑구 건물·도로·수계",
    "url": "http://150.230.249.1/11260_context.db.xz",
-   "size": 43421696,
-   "sha256": "84dfd35f8c1844c547da74d26bc66e213e7a07855f1b0d33a378b2ac00260bba",
+   "size": 50069504,
+   "sha256": "0f1b0591a0719a28893d8d138b2e8143417b42b1a7650aa40f55915e3abd1958",
    "bounds": [
     205997.1,
     552110.5,
     210595.2,
     558073.5
    ],
-   "xz_size": 7833008
+   "xz_size": 8893924
   },
   {
    "name": "11260_site.db",
@@ -439,15 +439,15 @@
    "name": "11290_context.db",
    "label": "서울특별시 성북구 건물·도로·수계",
    "url": "http://150.230.249.1/11290_context.db.xz",
-   "size": 54669312,
-   "sha256": "2be8be263a7b61e91565018ed074d2f21fec9443403c24a94b51fbf568348380",
+   "size": 61997056,
+   "sha256": "b60b1617cfa7693bee3c38f3c5aaac97cc93c26acdb7986766a965958a7f764f",
    "bounds": [
     197904.9,
     552940.8,
     206495.9,
     558815.9
    ],
-   "xz_size": 9953136
+   "xz_size": 11422172
   },
   {
    "name": "11290_site.db",
@@ -481,15 +481,15 @@
    "name": "11305_context.db",
    "label": "서울특별시 강북구 건물·도로·수계",
    "url": "http://150.230.249.1/11305_context.db.xz",
-   "size": 39825408,
-   "sha256": "2b0d52874a544dc7ad500ca4e1f891e854abfd6596ad88cb6a661f30273bd670",
+   "size": 45424640,
+   "sha256": "e288de60959a3625ec9ee9179ace21883b2b012d0a1274fd078443daafb44b6f",
    "bounds": [
     198802.1,
     556438.2,
     204561.1,
     565040.5
    ],
-   "xz_size": 7229572
+   "xz_size": 8172600
   },
   {
    "name": "11305_site.db",
@@ -523,15 +523,15 @@
    "name": "11320_context.db",
    "label": "서울특별시 도봉구 건물·도로·수계",
    "url": "http://150.230.249.1/11320_context.db.xz",
-   "size": 31588352,
-   "sha256": "cf3c2fd41ed1f26ff5277eb199ee2c99992c1f25be0a0598f72637aa9586f6ad",
+   "size": 37163008,
+   "sha256": "f04a4713271b86c645bcda6768fe2be0176c47804e77c5f2300887bebaf792eb",
    "bounds": [
     200597.2,
     558842.7,
     205059.6,
     566582.9
    ],
-   "xz_size": 5638372
+   "xz_size": 6295688
   },
   {
    "name": "11320_site.db",
@@ -565,15 +565,15 @@
    "name": "11350_context.db",
    "label": "서울특별시 노원구 건물·도로·수계",
    "url": "http://150.230.249.1/11350_context.db.xz",
-   "size": 38907904,
-   "sha256": "19ef41831a1f86406f5fa589a54c79a275383feb9a187ab1d9afd3394702b507",
+   "size": 48214016,
+   "sha256": "c1b0beb9871eeedf789b1920cac96f6f8b789de424c3d8e1f6ebb19c579d37b0",
    "bounds": [
     203559.7,
     556997.2,
     210069.3,
     566115.3
    ],
-   "xz_size": 6756252
+   "xz_size": 8297756
   },
   {
    "name": "11350_site.db",
@@ -607,15 +607,15 @@
    "name": "11380_context.db",
    "label": "서울특별시 은평구 건물·도로·수계",
    "url": "http://150.230.249.1/11380_context.db.xz",
-   "size": 58462208,
-   "sha256": "904bcc6d8bde4dc3540ff986bd4b2439f2b34f02286a158f578426c9482261a9",
+   "size": 66011136,
+   "sha256": "a91fa332dee296d20cd073f5ac8222db9cef1b2c8542ec10e4b7f478a85a50dd",
    "bounds": [
     189393.5,
     552769.4,
     196666.1,
     562324.2
    ],
-   "xz_size": 10574280
+   "xz_size": 11888856
   },
   {
    "name": "11380_site.db",
@@ -649,15 +649,15 @@
    "name": "11410_context.db",
    "label": "서울특별시 서대문구 건물·도로·수계",
    "url": "http://150.230.249.1/11410_context.db.xz",
-   "size": 38666240,
-   "sha256": "82f05942c11d136d510eeaadf08ad9b380b199636440a89a3c70551aeb5d7a93",
+   "size": 45580288,
+   "sha256": "c798069a7d03fcb2da453b84879706dbb19c18f190108015c87b115d02f25a85",
    "bounds": [
     191187.3,
     550463.4,
     197477.1,
     556892.5
    ],
-   "xz_size": 6902768
+   "xz_size": 7953236
   },
   {
    "name": "11410_site.db",
@@ -691,15 +691,15 @@
    "name": "11440_context.db",
    "label": "서울특별시 마포구 건물·도로·수계",
    "url": "http://150.230.249.1/11440_context.db.xz",
-   "size": 45420544,
-   "sha256": "580a8de75fb600fd7602e7afa4c716cc39710c88f85e307a34b4f65453cc7edf",
+   "size": 55988224,
+   "sha256": "d58925fce197eeb3e8aca4ab68cc795ddf593c3070a9663569ab8767556c7f94",
    "bounds": [
     187119.7,
     548075.6,
     197005.8,
     554778.1
    ],
-   "xz_size": 8186108
+   "xz_size": 10144672
   },
   {
    "name": "11440_site.db",
@@ -733,15 +733,15 @@
    "name": "11470_context.db",
    "label": "서울특별시 양천구 건물·도로·수계",
    "url": "http://150.230.249.1/11470_context.db.xz",
-   "size": 33947648,
-   "sha256": "70d1c9d654f10fa27e4a2cce5eab83d8824ff25a2c6d51b2e5354cd4d2c7d799",
+   "size": 42422272,
+   "sha256": "e9eafd607136e6b20213cce578782459806269b54eb1908d790cbd6f4c0e96f1",
    "bounds": [
     184068.2,
     544741.7,
     190468.8,
     550375.5
    ],
-   "xz_size": 5981728
+   "xz_size": 7237952
   },
   {
    "name": "11470_site.db",
@@ -775,15 +775,15 @@
    "name": "11500_context.db",
    "label": "서울특별시 강서구 건물·도로·수계",
    "url": "http://150.230.249.1/11500_context.db.xz",
-   "size": 62066688,
-   "sha256": "647d500f5a4e00961de74a9f562ddc36821b60810b13f9ed54f7619cac26fa30",
+   "size": 73314304,
+   "sha256": "ad55ec50017ad637ca23bc101123f1128569126804e62d8aad9dedb4a0bd4673",
    "bounds": [
     179034.9,
     547280.0,
     189600.7,
     556224.5
    ],
-   "xz_size": 11015692
+   "xz_size": 12949628
   },
   {
    "name": "11500_site.db",
@@ -817,15 +817,15 @@
    "name": "11530_context.db",
    "label": "서울특별시 구로구 건물·도로·수계",
    "url": "http://150.230.249.1/11530_context.db.xz",
-   "size": 36921344,
-   "sha256": "8ad84da5362a1c72954db4c8acfe0c4b3b6b00d0074b93826f2ecedd02398c4e",
+   "size": 45735936,
+   "sha256": "197a57612e552933714f647ffac6078c26752242f1534f5402ad3206bfea51ca",
    "bounds": [
     183353.3,
     541381.4,
     191606.9,
     546618.9
    ],
-   "xz_size": 6727292
+   "xz_size": 8100796
   },
   {
    "name": "11530_site.db",
@@ -859,15 +859,15 @@
    "name": "11545_context.db",
    "label": "서울특별시 금천구 건물·도로·수계",
    "url": "http://150.230.249.1/11545_context.db.xz",
-   "size": 27643904,
-   "sha256": "1dca762d23108b917d10cbaf994479ee43dcf6039a2123bfa717fe5b2c7cb03a",
+   "size": 33177600,
+   "sha256": "dfedc0454baa858956e9194139b4b29c0f8bc3634df3cba99d2d3837a0c525fb",
    "bounds": [
     188488.5,
     536945.2,
     193681.0,
     543212.3
    ],
-   "xz_size": 4869772
+   "xz_size": 5756764
   },
   {
    "name": "11545_site.db",
@@ -901,15 +901,15 @@
    "name": "11560_context.db",
    "label": "서울특별시 영등포구 건물·도로·수계",
    "url": "http://150.230.249.1/11560_context.db.xz",
-   "size": 41746432,
-   "sha256": "07fb6d20b424080e58f6e8156d23638b6c04d5657977846aec0b6f5471866755",
+   "size": 54423552,
+   "sha256": "25409a2f23b4d06a33a70bee1f00fcf1f3990a421742272904f1c2c146cb74c2",
    "bounds": [
     189061.4,
     542660.8,
     195519.7,
     550777.1
    ],
-   "xz_size": 7480648
+   "xz_size": 9841120
   },
   {
    "name": "11560_site.db",
@@ -943,15 +943,15 @@
    "name": "11590_context.db",
    "label": "서울특별시 동작구 건물·도로·수계",
    "url": "http://150.230.249.1/11590_context.db.xz",
-   "size": 40587264,
-   "sha256": "1b8b0b05cee6324728d958a728661d41a690d85194e57e3b738ba6aa193f9a31",
+   "size": 46678016,
+   "sha256": "67f13faf0d62f7296a4b746b53bd785fde08ea28be2c8a9cc64279614dd79602",
    "bounds": [
     191254.2,
     541618.7,
     198879.6,
     546613.9
    ],
-   "xz_size": 7682196
+   "xz_size": 8543268
   },
   {
    "name": "11590_site.db",
@@ -985,15 +985,15 @@
    "name": "11620_context.db",
    "label": "서울특별시 관악구 건물·도로·수계",
    "url": "http://150.230.249.1/11620_context.db.xz",
-   "size": 47464448,
-   "sha256": "9a57ea13113b2abbbff1dbb03a479ba6046551aef09186bb39d15f4c0cef7b52",
+   "size": 54464512,
+   "sha256": "2e3a7af574f563ff1a67242cc84b1fcf2f4ce363cef158e97cd712c0bda61b23",
    "bounds": [
     190921.6,
     537577.1,
     199166.1,
     544146.2
    ],
-   "xz_size": 8831880
+   "xz_size": 10309396
   },
   {
    "name": "11620_site.db",
@@ -1027,15 +1027,15 @@
    "name": "11650_context.db",
    "label": "서울특별시 서초구 건물·도로·수계",
    "url": "http://150.230.249.1/11650_context.db.xz",
-   "size": 61030400,
-   "sha256": "91761531dc8302cd8867cae37b3cb1111d063edea55705000cca85beb264aa81",
+   "size": 73195520,
+   "sha256": "435c41d373d082e437b97273cd63f9e5211cac885c9022956fa61e09b406e198",
    "bounds": [
     198059.2,
     536496.0,
     208421.6,
     547395.1
    ],
-   "xz_size": 10556992
+   "xz_size": 12695324
   },
   {
    "name": "11650_site.db",
@@ -1069,15 +1069,15 @@
    "name": "11680_context.db",
    "label": "서울특별시 강남구 건물·도로·수계",
    "url": "http://150.230.249.1/11680_context.db.xz",
-   "size": 54919168,
-   "sha256": "cde53060e3c4c697fc1b5b73e44d9e6c414e26beaa0a9633e5c280d4630df675",
+   "size": 71827456,
+   "sha256": "0a3912c218ff4d40015dbbe5fe01ef47c3640e081b7ff666ab0374c4179d99bb",
    "bounds": [
     200617.1,
     539540.5,
     211167.0,
     548604.1
    ],
-   "xz_size": 9733360
+   "xz_size": 13034776
   },
   {
    "name": "11680_site.db",
@@ -1111,15 +1111,15 @@
    "name": "11710_context.db",
    "label": "서울특별시 송파구 건물·도로·수계",
    "url": "http://150.230.249.1/11710_context.db.xz",
-   "size": 47198208,
-   "sha256": "70c123fdb84453904ff43e02b75cbca6a7e2a67b8e9fef46529c116ab95f3bdc",
+   "size": 62586880,
+   "sha256": "4f5124e0224978ae1947b438bfa70bd33f09f34d6f642dc2b65699fe30d78d63",
    "bounds": [
     205817.3,
     540607.1,
     214470.5,
     549456.9
    ],
-   "xz_size": 8479060
+   "xz_size": 11136896
   },
   {
    "name": "11710_site.db",
@@ -1153,15 +1153,15 @@
    "name": "11740_context.db",
    "label": "서울특별시 강동구 건물·도로·수계",
    "url": "http://150.230.249.1/11740_context.db.xz",
-   "size": 54185984,
-   "sha256": "839aab68603d90dba4961f5cb4f47aeb9b1e79390e39b29c4c8edc48012d5841",
+   "size": 64057344,
+   "sha256": "5a2e5116b18bbca6b5640ec77196de08ae97d7a56aeeb1f82a34121e4eb19d0d",
    "bounds": [
     209553.9,
     546180.8,
     216377.1,
     553623.4
    ],
-   "xz_size": 9216432
+   "xz_size": 10984104
   },
   {
    "name": "11740_site.db",
